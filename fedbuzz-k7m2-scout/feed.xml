@@ -2,9 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Harris FedBuzz Topic Scout</title>
-<link>https://richardscottclark.github.io/harris-fedbuzz-feed/fedbuzz-k7m2-scout/feed.xml</link>
-<description>Weekly short-form video topic shortlist for US federal employees. Retirement, financial planning, and FDR-tagged items (flagged for media segregation).
-</description>
+<link>https://richardscottclark.github.io/harris-fedbuzz-feed/fedbuzz-k7m2-scout/</link>
+<description>Weekly short-form video topic shortlist for US federal employees. Retirement, financial planning, and FDR-tagged items (flagged for media segregation).</description>
 <language>en-us</language>
 <lastBuildDate>Sat, 13 Jun 2026 13:18:00 GMT</lastBuildDate>
 <ttl>10080</ttl>
@@ -12,7 +11,7 @@
 <item>
 <title>2027 COLA Estimate: Increase 1% Higher Than Last Year CSRS, FERS</title>
 <link>https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LcHA0V2ktdVRUYndhc3ppWG04N0hNWmlQTmEyZktoWnN4aDVBTGJoRW9kSWxPNTBCOUtZakk1YXlTbG1qd1NwbjZ5SkZUYkMwWkplbTRjanl5M3JQTGdz?oc=5</link>
-<guid isPermaLink="true">2027 cola estimate increase 1 higher than last year csrs fers</guid>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LcHA0V2ktdVRUYndhc3ppWG04N0hNWmlQTmEyZktoWnN4aDVBTGJoRW9kSWxPNTBCOUtZakk1YXlTbG1qd1NwbjZ5SkZUYkMwWkplbTRjanl5M3JQTGdz?oc=5</guid>
 <pubDate>Thu, 11 Jun 2026 07:00:00 GMT</pubDate>
 <category>retirement</category>
 <category>news</category>
@@ -24,7 +23,7 @@
 <item>
 <title>Understanding the 2026 Roth and TSP changes: What federal employees need to</title>
 <link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR044RHVlUm5KZXNpSGg1dldrVVM3clFYS2t2alNiTDctRU8zd1BwMEJaT0Z2TUdBeWMtTmtFTkRrLWJpczFEOG9VZklGSFhVZjUxOGJZdUV5LUJGWkk0QWRVd3JRQUFRVm1uaXpMazVOR1dleV93VlVhSUhhQ0ZuSmJQYzdiUmg4dE1wMzkyaVhwTmJ4Q01OeGNvSnhONThSR0ZBRkJrSmlwYjEyZkZ2RU1mNXVEbFdSVzQtMllaUWZacGZpWWhQZjloVkFDT3NtMGF4dnFuZw?oc=5</link>
-<guid isPermaLink="true">understanding the 2026 roth and tsp changes what federal employees need to know now</guid>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMi1wFBVV95cUxQR044RHVlUm5KZXNpSGg1dldrVVM3clFYS2t2alNiTDctRU8zd1BwMEJaT0Z2TUdBeWMtTmtFTkRrLWJpczFEOG9VZklGSFhVZjUxOGJZdUV5LUJGWkk0QWRVd3JRQUFRVm1uaXpMazVOR1dleV93VlVhSUhhQ0ZuSmJQYzdiUmg4dE1wMzkyaVhwTmJ4Q01OeGNvSnhONThSR0ZBRkJrSmlwYjEyZkZ2RU1mNXVEbFdSVzQtMllaUWZacGZpWWhQZjloVkFDT3NtMGF4dnFuZw?oc=5</guid>
 <pubDate>Tue, 09 Jun 2026 07:00:00 GMT</pubDate>
 <category>financial_planning</category>
 <category>news</category>
@@ -36,7 +35,7 @@
 <item>
 <title>OPM to set new requirements to ‘verify’ FEHBP enrollments</title>
 <link>https://www.govexec.com/pay-benefits/2026/06/opm-new-requirements-verify-fehbp-enrollments/413925/</link>
-<guid isPermaLink="true">opm to set new requirements to verify fehbp enrollments</guid>
+<guid isPermaLink="true">https://www.govexec.com/pay-benefits/2026/06/opm-new-requirements-verify-fehbp-enrollments/413925/</guid>
 <pubDate>Tue, 02 Jun 2026 20:40:45 GMT</pubDate>
 <category>retirement</category>
 <category>news</category>
@@ -48,7 +47,7 @@
 <item>
 <title>Federal workforce losses had steeper impact on probationary employees</title>
 <link>https://federalnewsnetwork.com/workforce/2026/06/federal-workforce-losses-had-steeper-impact-on-probationary-employees/</link>
-<guid isPermaLink="true">federal workforce losses had steeper impact on probationary employees</guid>
+<guid isPermaLink="true">https://federalnewsnetwork.com/workforce/2026/06/federal-workforce-losses-had-steeper-impact-on-probationary-employees/</guid>
 <pubDate>Fri, 12 Jun 2026 21:53:55 GMT</pubDate>
 <category>retirement</category>
 <category>news</category>
@@ -60,7 +59,7 @@
 <item>
 <title>OPM Sets Standards for Hiring into Schedule P/C; Including Form to Sign</title>
 <link>https://www.fedweek.com/federal-managers-daily-report/opm-sets-standards-for-hiring-into-schedule-policy-career-positions/</link>
-<guid isPermaLink="true">opm sets standards for hiring into schedule p c including form to sign</guid>
+<guid isPermaLink="true">https://www.fedweek.com/federal-managers-daily-report/opm-sets-standards-for-hiring-into-schedule-policy-career-positions/</guid>
 <pubDate>Fri, 12 Jun 2026 14:08:17 GMT</pubDate>
 <category>retirement</category>
 <category>news</category>
@@ -72,7 +71,7 @@
 <item>
 <title>Redesignate Affected Employees to Schedule P/C Within the Week, Agencies Told</title>
 <link>https://www.fedweek.com/fedweek/redesignate-affected-employees-to-schedule-p-c-within-the-week-agencies-told/</link>
-<guid isPermaLink="true">redesignate affected employees to schedule p c within the week agencies told</guid>
+<guid isPermaLink="true">https://www.fedweek.com/fedweek/redesignate-affected-employees-to-schedule-p-c-within-the-week-agencies-told/</guid>
 <pubDate>Fri, 12 Jun 2026 14:04:22 GMT</pubDate>
 <category>retirement</category>
 <category>news</category>
@@ -84,7 +83,7 @@
 <item>
 <title>Why Social Security’s funding gap matters to federal retirement</title>
 <link>http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2d5837ceda4d84855442ef039ae344&amp;url=https%3a%2f%2fwww.govexec.com%2fpay-benefits%2f2026%2f06%2fsocial-security-funding-gap-federal-retirement%2f414124%2f&amp;c=3250231542797132829&amp;mkt=en-us</link>
-<guid isPermaLink="true">why social security s funding gap matters to federal retirement</guid>
+<guid isPermaLink="true">http://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=6a2d5837ceda4d84855442ef039ae344&amp;url=https%3a%2f%2fwww.govexec.com%2fpay-benefits%2f2026%2f06%2fsocial-security-funding-gap-federal-retirement%2f414124%2f&amp;c=3250231542797132829&amp;mkt=en-us</guid>
 <pubDate>Thu, 11 Jun 2026 12:04:00 GMT</pubDate>
 <category>retirement</category>
 <category>news</category>
@@ -96,7 +95,7 @@
 <item>
 <title>2027 CSRS / FERS COLA Watch Federal Retirees, Social Security</title>
 <link>https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EMVVZUDVVU1FtSl9WOTMxYnBlTmMtbWZvOHhKTkU3U1RvekZpUkRSeDJzRU9xaU9xTl8wLTBKdVJYNTRrZE9sZFItSUljOVpmVXZUYnlFazlQejZmcklTT2hLM0ZPRjQy?oc=5</link>
-<guid isPermaLink="true">2027 csrs fers cola watch federal retirees social security</guid>
+<guid isPermaLink="true">https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EMVVZUDVVU1FtSl9WOTMxYnBlTmMtbWZvOHhKTkU3U1RvekZpUkRSeDJzRU9xaU9xTl8wLTBKdVJYNTRrZE9sZFItSUljOVpmVXZUYnlFazlQejZmcklTT2hLM0ZPRjQy?oc=5</guid>
 <pubDate>Wed, 10 Jun 2026 07:00:00 GMT</pubDate>
 <category>retirement</category>
 <category>news</category>
@@ -108,7 +107,7 @@
 <item>
 <title>The century-old GS system is &apos;disintegrating&apos; and government can&apos;t ...</title>
 <link>https://www.reddit.com/r/fednews/comments/1tijxv7/the_centuryold_gs_system_is_disintegrating_and/</link>
-<guid isPermaLink="true">reddit-The century-old GS system is &apos;disintegrating&apos; and government can&apos;t ...</guid>
+<guid isPermaLink="true">https://www.reddit.com/r/fednews/comments/1tijxv7/the_centuryold_gs_system_is_disintegrating_and/</guid>
 <pubDate>Wed, 20 May 2026 04:00:00 GMT</pubDate>
 <category>financial_planning</category>
 <category>reddit</category>
@@ -120,7 +119,7 @@
 <item>
 <title>Supervisors transferred to schedule P/C</title>
 <link>https://www.reddit.com/r/fednews/comments/1txjr2w/supervisors_transferred_to_schedule_pc/</link>
-<guid isPermaLink="true">reddit-Supervisors transferred to schedule P/C</guid>
+<guid isPermaLink="true">https://www.reddit.com/r/fednews/comments/1txjr2w/supervisors_transferred_to_schedule_pc/</guid>
 <pubDate>Fri, 05 Jun 2026 04:00:00 GMT</pubDate>
 <category>retirement</category>
 <category>reddit</category>
@@ -132,7 +131,7 @@
 <item>
 <title>Do Gov/Con onboarding systems flag active federal employees ...</title>
 <link>https://www.reddit.com/r/GovernmentContracting/comments/1twuj14/do_govcon_onboarding_systems_flag_active_federal/</link>
-<guid isPermaLink="true">reddit-Do Gov/Con onboarding systems flag active federal employees ...</guid>
+<guid isPermaLink="true">https://www.reddit.com/r/GovernmentContracting/comments/1twuj14/do_govcon_onboarding_systems_flag_active_federal/</guid>
 <pubDate>Thu, 04 Jun 2026 04:00:00 GMT</pubDate>
 <category>retirement</category>
 <category>reddit</category>
@@ -144,7 +143,7 @@
 <item>
 <title>How Federal Retirees Can Prepare For A Hidden Tax Trap</title>
 <link>https://www.reddit.com/r/govfire/comments/1twdodm/the_widows_penalty_how_federal_retirees_can/</link>
-<guid isPermaLink="true">reddit-How Federal Retirees Can Prepare For A Hidden Tax Trap</guid>
+<guid isPermaLink="true">https://www.reddit.com/r/govfire/comments/1twdodm/the_widows_penalty_how_federal_retirees_can/</guid>
 <pubDate>Wed, 03 Jun 2026 04:00:00 GMT</pubDate>
 <category>retirement</category>
 <category>reddit</category>
@@ -156,7 +155,7 @@
 <item>
 <title>How much do federal scientists make?</title>
 <link>https://www.indeed.com/cmp/U.S.-Government/salaries/Scientist</link>
-<guid isPermaLink="true">paa-How much do federal scientists make?</guid>
+<guid isPermaLink="true">https://www.indeed.com/cmp/U.S.-Government/salaries/Scientist</guid>
 <pubDate>Sat, 13 Jun 2026 13:18:00 GMT</pubDate>
 <category>retirement</category>
 <category>paa</category>
@@ -169,7 +168,7 @@
 <item>
 <title>Are federal government jobs secure?</title>
 <link>https://www.indeed.com/career-advice/finding-a-job/working-in-government</link>
-<guid isPermaLink="true">paa-Are federal government jobs secure?</guid>
+<guid isPermaLink="true">https://www.indeed.com/career-advice/finding-a-job/working-in-government</guid>
 <pubDate>Sat, 13 Jun 2026 13:18:00 GMT</pubDate>
 <category>retirement</category>
 <category>paa</category>
@@ -182,7 +181,7 @@
 <item>
 <title>Does WEP apply to federal employees?</title>
 <link>https://www.narfe.org/wp-content/uploads/2023/12/Issue-Brief_118th-WEP-and-GPO-Combined-December-2023-Update.pdf</link>
-<guid isPermaLink="true">paa-Does WEP apply to federal employees?</guid>
+<guid isPermaLink="true">https://www.narfe.org/wp-content/uploads/2023/12/Issue-Brief_118th-WEP-and-GPO-Combined-December-2023-Update.pdf</guid>
 <pubDate>Sat, 13 Jun 2026 13:18:00 GMT</pubDate>
 <category>retirement</category>
 <category>paa</category>
@@ -196,7 +195,7 @@
 <item>
 <title>Do federal employees have beneficiaries?</title>
 <link>https://www.dfas.mil/onboarding2/designatebeneficiary/</link>
-<guid isPermaLink="true">paa-Do federal employees have beneficiaries?</guid>
+<guid isPermaLink="true">https://www.dfas.mil/onboarding2/designatebeneficiary/</guid>
 <pubDate>Sat, 13 Jun 2026 13:18:00 GMT</pubDate>
 <category>retirement</category>
 <category>paa</category>
@@ -209,7 +208,7 @@
 <item>
 <title>Is TSP mandatory for federal employees?</title>
 <link>https://www.gpo.gov/who-we-are/careers/employee-benefits/benefits-new-employees/thrift-savings-plan</link>
-<guid isPermaLink="true">paa-Is TSP mandatory for federal employees?</guid>
+<guid isPermaLink="true">https://www.gpo.gov/who-we-are/careers/employee-benefits/benefits-new-employees/thrift-savings-plan</guid>
 <pubDate>Sat, 13 Jun 2026 13:18:00 GMT</pubDate>
 <category>retirement</category>
 <category>paa</category>
@@ -222,7 +221,7 @@
 <item>
 <title>What is the difference between TSP FERS and Roth TSP FERS?</title>
 <link>https://meetbeagle.com/resources/post/whats-the-difference-between-fers-and-a-thrift-savings-plan</link>
-<guid isPermaLink="true">paa-What is the difference between TSP FERS and Roth TSP FERS?</guid>
+<guid isPermaLink="true">https://meetbeagle.com/resources/post/whats-the-difference-between-fers-and-a-thrift-savings-plan</guid>
 <pubDate>Sat, 13 Jun 2026 13:18:00 GMT</pubDate>
 <category>retirement</category>
 <category>paa</category>
@@ -235,7 +234,7 @@
 <item>
 <title>Which federal workers are eligible for the buyout?</title>
 <link>https://www.opm.gov/policy-data-oversight/workforce-restructuring/voluntary-separation-incentive-payments/</link>
-<guid isPermaLink="true">paa-Which federal workers are eligible for the buyout?</guid>
+<guid isPermaLink="true">https://www.opm.gov/policy-data-oversight/workforce-restructuring/voluntary-separation-incentive-payments/</guid>
 <pubDate>Sat, 13 Jun 2026 13:18:00 GMT</pubDate>
 <category>retirement</category>
 <category>paa</category>
@@ -251,7 +250,7 @@ Be serving in a position covered by an agency VSIP plan (i.e., in the specific g
 <item>
 <title>Do federal employees still get health insurance during shutdown?</title>
 <link>https://www.narfe.org/advocacy/shutdown-central/10-things-you-need-to-know-as-a-furloughed-federal-employee/</link>
-<guid isPermaLink="true">paa-Do federal employees still get health insurance during shutdown?</guid>
+<guid isPermaLink="true">https://www.narfe.org/advocacy/shutdown-central/10-things-you-need-to-know-as-a-furloughed-federal-employee/</guid>
 <pubDate>Sat, 13 Jun 2026 13:18:00 GMT</pubDate>
 <category>retirement</category>
 <category>paa</category>
