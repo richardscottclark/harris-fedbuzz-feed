@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /fedbuzz-k7m2-scout/
+Disallow: /fedbuzz-k7m2-scout
