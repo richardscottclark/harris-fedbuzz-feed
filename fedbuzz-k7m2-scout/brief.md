@@ -1,4 +1,5 @@
 [How to read this brief](how-to-read.html)
+**Private:** Do not share this page link or the RSS feed URL outside the Harris producer team.
 
 # FedBuzz Producer Brief — 2026-06-15
 
@@ -339,3 +340,6 @@ _pass · reddit · federal_workforce · 18d ago_
 
 ---
 
+---
+
+Subscribe in an RSS reader (Feeder, etc.): [feed.xml](feed.xml)
