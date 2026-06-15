@@ -1,360 +1,339 @@
 # FedBuzz Producer Brief — 2026-06-15
 
-Walk-and-talk topics for US federal employees. Film from the **walkaround open**; read the source before recording.
+**10 topics** — each block opens with the walkaround line. Skim the list; expand only what you might film.
 
-15 topics after quality + eval gates. Not padded.
+## Skim — walkaround opens
 
-### 1. Job Classifications Changing
+1. Is your federal job on the Schedule P/C reclassification list?
+2. Is OPM about to verify your FEHB enrollment?
+3. Can feds get fired for displaying political symbols at work?
+4. Are federal workers really protected from being fired?
+5. Should federal employees take buyouts in this job market?
+6. Are your federal job protections under threat right now?
+7. Postal workers: USPS just secured funding for several years?
+8. federal Forest Service offering buyouts before relocations — are you affected?
+9. Did HHS just RIF more federal employees they missed?
+10. Are USPS workers about to lose their jobs?
 
-- **Walkaround open:** Is your job classification about to change?
-- **Source headline:** Thousands of Federal Employees Could Be Bracing for Changes in Classification
-- **Type:** news · **Pillar:** career_security
-- **Eval:** pass
-- **Published:** 2026-06-12 (3 days ago)
-- **Source:** FedWeek
+---
 
-**Why film this:** Strong job security stakes with a looming deadline that directly affects thousands of fed employees. The classification changes have clear personal impact potential, making this perfect for walk-and-talk format.
+### 1. Is your federal job on the Schedule P/C reclassification list?
 
-**Answers:** Will Trump's executive order change my job classification?
+**Consider filming if:** This affects federal employees whose positions might be reclassified to Schedule P/C, potentially changing job protections and career statu…
 
-**Alternate opens:**
-- *Stakes / FOMO:* Could thousands of fed jobs get reclassified?
-- *Deadline:* June deadline triggers major classification changes
-- *Myth-bust:* Classification changes aren't just paperwork shuffling
+_pass · news · career_security · 6d ago_
 
-**Caution:** Verify June 2026 date accuracy before filming
+[Read source](https://www.fedweek.com/issue-briefs/position-list-posted-for-reclassification-into-schedule-p-c/)
 
-**Context (RSS snippet):** June 10, 2026 marked a critical implementation deadline for federal agencies following President Trump’s June 3 Executive Order expanding the ...More The article Thousands of Federal Employees Could Be Bracing for Changes in Classification was first published on FEDweek .
-
-**Read before filming:** https://www.fedweek.com/federal-managers-daily-report/thousands-of-federal-employees-could-be-bracing-for-changes-in-classification/
-
-### 2. Schedule P/C Reclassification List Drops
-
-- **Walkaround open:** Is your federal position on the new reclassification list?
-- **Source headline:** Position List Posted for Reclassification Into Schedule P/C
-- **Type:** news · **Pillar:** career_security
-- **Eval:** pass
-- **Published:** 2026-06-09 (6 days ago)
-- **Source:** FedWeek
-
-**Why film this:** Strong job security stakes with specific position list affecting real federal employees. Perfect for worried walk-and-talk reaction about whether your job made the reclassification list.
-
-**Answers:** Which federal positions got reclassified into Schedule P/C?
-
-**Alternate opens:**
-- *Stakes / FOMO:* Did your job just get reclassified to Schedule P/C?
-- *Deadline:* White House just posted the Schedule P/C position list
+**Other opens:**
+- *Stakes / FOMO:* Could your federal position lose civil service protections?
+- *Deadline:* White House just posted federal jobs for reclassification
 - *Myth-bust:* Schedule P/C isn't just about political appointees anymore
 
-**Caution:** Avoid speculation about specific agencies or positions not in source
+**Question answered:** Which federal positions are being reclassified to Schedule P/C?
 
-**Context (RSS snippet):** Following is a list of positions by agency that the White House has determined have a “confidential, policy-determining, policy-making, or ...More The article Position List Posted for Reclassification Into Schedule P/C was first published on FEDweek .
+**Caution:** Need to explain Schedule P/C implications without getting into complex personnel law
 
-**Read before filming:** https://www.fedweek.com/issue-briefs/position-list-posted-for-reclassification-into-schedule-p-c/
+<details>
+<summary>Original headline & context</summary>
 
-### 3. New FEHBP Verification Rules Coming
+**Source headline:** Position List Posted for Reclassification Into Schedule P/C
 
-- **Walkaround open:** Will you have to prove your FEHBP eligibility soon?
-- **Source headline:** OPM to set new requirements to ‘verify’ FEHBP enrollments
-- **Type:** news · **Pillar:** retirement
-- **Eval:** pass
-- **Published:** 2026-06-02 (13 days ago)
-- **Source:** GovExec Pay & Benefits
+**Outlet:** FedWeek
 
-**Why film this:** Clear stakes for federal employees who might face new enrollment verification requirements. Works as a quick news reaction explaining what the new OPM rules mean for current FEHBP participants.
+**Full eval:** This affects federal employees whose positions might be reclassified to Schedule P/C, potentially changing job protections and career status. Consider whether this could work as a short reaction since it requires explaining what Schedule P/C means and checking specific position lists.
 
-**Answers:** What are the new FEHBP verification requirements from OPM?
+**Snippet:** Following is a list of positions by agency that the White House has determined have a “confidential, policy-determining, policy-making, or ...More The article Position List Posted for Reclassification Into Schedule P/C was first published on FEDweek .
 
-**Alternate opens:**
-- *Deadline:* New FEHBP verification requirements start when?
-- *Myth-bust:* Think your FEHBP enrollment is automatically safe?
+</details>
 
-**Caution:** Avoid speculation about specific verification steps not mentioned in source
+---
 
-**Context (RSS snippet):** Newly published regulations would implement a 2025 law enacted in response to a GAO report that found the government could spend up to $1 billion annually on health benefits for people who are no longer eligible to receive them.
+### 2. Is OPM about to verify your FEHB enrollment?
 
-**Read before filming:** https://www.govexec.com/pay-benefits/2026/06/opm-new-requirements-verify-fehbp-enrollments/413925/
+**Consider filming if:** This affects all federal employees with FEHB coverage — OPM is implementing new verification requirements to prevent ineligible people from…
 
-### 4. Can you get fired for displaying pride flags…
+_pass · news · retirement · 13d ago_
 
-- **Walkaround open:** Can you get fired for displaying pride flags at work?
-- **Source headline:** Yosemite Park Ranger Fired After Transgender Flag Display In a National Park Loses Court Challenge
-- **Type:** news · **Pillar:** career_security
-- **Eval:** pass
-- **Published:** 2026-06-15 (0 days ago)
-- **Source:** FedSmith
+[Read source](https://www.govexec.com/pay-benefits/2026/06/opm-new-requirements-verify-fehbp-enrollments/413925/)
 
-**Why film this:** Strong job security stakes for federal employees wondering about personal expression at work. The court dismissal and termination create concrete consequences that affect how feds think about workplace conduct.
+**Other opens:**
+- *Stakes / FOMO:* New OPM rules could affect your federal health benefits
+- *Deadline:* FEHB verification requirements coming in 2025
+- *Myth-bust:* Your FEHB coverage isn't automatically guaranteed forever
 
-**Answers:** What workplace expression can get federal employees terminated?
+**Question answered:** What are the new FEHB verification requirements from OPM?
 
-**Alternate opens:**
-- *Deadline:* This park ranger just lost their court challenge — here's why
-- *Myth-bust:* Think federal employees can't be fired for flags? Think again
+**Caution:** Avoid speculation about specific verification processes not mentioned in source
 
-**Caution:** Stick to court facts, avoid taking sides on transgender rights debate
+<details>
+<summary>Original headline & context</summary>
 
-**Context (RSS snippet):** A federal court dismissed an NPS employee's lawsuit over flying a transgender flag in Yosemite on procedural grounds.
+**Source headline:** OPM to set new requirements to ‘verify’ FEHBP enrollments
 
-**Read before filming:** https://www.fedsmith.com/2026/06/15/park-ranger-fired-over-transgender-flag-display/
+**Outlet:** GovExec Pay & Benefits
 
-### 5. Schedule F Firing Rules Explained
+**Full eval:** This affects all federal employees with FEHB coverage — OPM is implementing new verification requirements to prevent ineligible people from keeping health benefits. Possibly good for walk-and-talk as a straightforward policy change reaction with clear personal stakes.
 
-- **Walkaround open:** Can you still be fired under Schedule F?
-- **Source headline:** You Cannot Be Fired for Any Reason
-- **Type:** news · **Pillar:** retirement
-- **Eval:** pass
-- **Published:** 2026-06-09 (6 days ago)
-- **Source:** FedSmith
+**Snippet:** Newly published regulations would implement a 2025 law enacted in response to a GAO report that found the government could spend up to $1 billion annually on health benefits for people who are no longer eligible to receive them.
 
-**Why film this:** Strong job security stakes with clear personal impact. The Schedule F policy changes directly affect federal employee protections, making this highly relevant for walk-and-talk format addressing immediate concerns.
+</details>
 
-**Answers:** What job protections do federal employees have under Schedule F policy?
+---
 
-**Alternate opens:**
-- *Stakes / FOMO:* What does Schedule F mean for your job security?
-- *Deadline:* Schedule F is being implemented right now
-- *Myth-bust:* Schedule F doesn't mean anyone can be fired
+### 3. Can feds get fired for displaying political symbols at work?
 
-**Caution:** Stick to OPM guidance only, avoid speculation about future changes
+**Consider filming if:** This raises immediate job security concerns for federal employees about what workplace expression could cost them their career.
 
-**Context (RSS snippet):** President Trump's Schedule Policy/Career order is now being implemented. OPM's new memo and updated FAQs explain what agencies must do and what employees can expect.
+_pass · news · career_security · 0d ago_
 
-**Read before filming:** https://www.fedsmith.com/2026/06/09/you-cannot-be-fired-for-any-reason-but-here-is-what-opms-new-guidance-does-say/
+[Read source](https://www.fedsmith.com/2026/06/15/park-ranger-fired-over-transgender-flag-display/)
 
-### 6. Buyout Deadline vs Job Market
+**Other opens:**
+- *Stakes / FOMO:* Federal worker fired over flag display loses court case
+- *Deadline:* NPS ranger's lawsuit just got dismissed by federal court
+- *Myth-bust:* Think federal workers can display anything? This case says no
 
-- **Walkaround open:** Should you take the federal buyout before the deadline?
-- **Source headline:** Federal employees face buyout deadline in questionable job market
-- **Type:** news · **Pillar:** retirement
-- **Eval:** pass
-- **Published:** 2026-05-27 (19 days ago)
-- **Source:** Google News · VERA buyout
+**Question answered:** What workplace expression rules apply to federal employees?
 
-**Why film this:** Strong livelihood stakes with time pressure. Federal employees facing buyout decisions need quick context on timing and job market realities for informed choices.
+**Caution:** Court dismissed on procedural grounds, not merits of the firing
 
-**Answers:** Should federal employees take buyouts given current job market conditions?
+<details>
+<summary>Original headline & context</summary>
 
-**Alternate opens:**
-- *Deadline:* Federal buyout deadline approaching — what's your move?
-- *Myth-bust:* Think the job market's great for fed buyouts?
+**Source headline:** Yosemite Park Ranger Fired After Transgender Flag Display In a National Park Loses Court Challenge
 
-**Caution:** Verify specific deadline date and avoid giving personal financial advice
+**Outlet:** FedSmith
 
-**Context (RSS snippet):** Federal employees face buyout deadline in questionable job market Westfair Communications
+**Full eval:** This raises immediate job security concerns for federal employees about what workplace expression could cost them their career. Consider whether this could work as a short reaction — the legal dismissal on procedural grounds might need more explanation than a walk-and-talk allows.
 
-**Read before filming:** https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSUdBSzk1cERBZ09EeG8yVGg1bGpSa3h4dko3OVVVcjlqNGFqbkR5ZWpHZlZ5V0hDMTdCcU5oc1VPMkpDcGI2cnFQZ2RHUjhEcUhZVDBUM3NKdkotRktfMG1ZX1k2X3A2MmRmUFFKQWZPQWdkbkhGN1FjbUtMNW5BRW10ODFBOEpFblhhalhNcTMtaTdYcVduTEVnNDBGODBDY2Vkd2VoeEtxR2RnY0RncVVjNGpJcWoyMGpFcF9OamJ1enA4Sk9kYUxiSUdzejd1YXpqODFjLUFnaktCNFliQWFqbmpxZ2JtcjRhMy1Ga05SeGxOa3FnNmtHcFVTUQ?oc=5
+**Snippet:** A federal court dismissed an NPS employee's lawsuit over flying a transgender flag in Yosemite on procedural grounds.
 
-### 7. Fed Job Protections Under Legal Threat
+</details>
 
-- **Walkaround open:** Is your federal job protection under legal threat?
-- **Source headline:** Senate Democrats urge reversal of ruling threatening civil service protections
-- **Type:** news · **Pillar:** retirement
-- **Eval:** pass
-- **Published:** 2026-06-12 (3 days ago)
-- **Source:** Federal News Network
+---
 
-**Why film this:** Job security stakes are clear and urgent for federal employees. A court ruling threatening civil service protections directly affects every fed's employment stability, making this highly relevant walk-and-talk content.
+### 4. Are federal workers really protected from being fired?
 
-**Answers:** How is a court case threatening federal employee job protections?
+**Consider filming if:** High job security stakes for federal employees as Trump's Schedule F-related policy gets implemented through OPM guidance.
 
-**Alternate opens:**
-- *Stakes / FOMO:* Could a court ruling weaken your job security?
-- *Deadline:* Senate Democrats rush to protect your federal job
-- *Myth-bust:* Your civil service protections aren't as secure as you think
+_pass · news · retirement · 6d ago_
 
-**Caution:** Avoid overstating threat level without knowing case specifics or timeline
+[Read source](https://www.fedsmith.com/2026/06/09/you-cannot-be-fired-for-any-reason-but-here-is-what-opms-new-guidance-does-say/)
 
-**Context (RSS snippet):** The Democrats’ new amicus brief follows a previous request in the same court case for a full-bench appeals court hearing.
+**Other opens:**
+- *Stakes / FOMO:* Could new Trump policies change federal job protections?
+- *Deadline:* What do feds need to know about OPM's firing memo?
+- *Myth-bust:* Can federal employees actually be fired for any reason?
 
-**Read before filming:** https://federalnewsnetwork.com/federal-newscast/2026/06/senate-democrats-urge-reversal-of-ruling-threatening-civil-service-protections/
+**Question answered:** What do new OPM rules mean for federal job security?
 
-### 8. USPS Gets Cash Runway
+**Caution:** Avoid overstating protections — stick to what OPM guidance actually says
 
-- **Walkaround open:** Is your postal job safe for the next few years?
-- **Source headline:** Postal Service Frees Up Enough Cash to Keep Operating for ‘Several Years’
-- **Type:** news · **Pillar:** federal_workforce
-- **Eval:** pass
-- **Published:** 2026-06-04 (11 days ago)
-- **Source:** Google News · USPS workforce
+<details>
+<summary>Original headline & context</summary>
 
-**Why film this:** Strong job security stakes for postal workers wondering if their workplace will survive financially. The cash runway news directly impacts 600k+ federal employees' livelihoods and retirement planning.
+**Source headline:** You Cannot Be Fired for Any Reason
 
-**Answers:** How long can USPS keep operating with this cash infusion?
+**Outlet:** FedSmith
 
-**Alternate opens:**
-- *Deadline:* USPS just bought itself several more years — what's next?
-- *Myth-bust:* No, USPS isn't going bankrupt this year after all
+**Full eval:** High job security stakes for federal employees as Trump's Schedule F-related policy gets implemented through OPM guidance. Possibly good for walk-and-talk reaction to break down what the new rules mean for everyday feds.
 
-**Caution:** Avoid speculation about specific job cuts or service changes not in source
+**Snippet:** President Trump's Schedule Policy/Career order is now being implemented. OPM's new memo and updated FAQs explain what agencies must do and what employees can expect.
 
-**Context (RSS snippet):** Postal Service Frees Up Enough Cash to Keep Operating for ‘Several Years’ The New York Times
+</details>
 
-**Read before filming:** https://news.google.com/rss/articles/CBMigAFBVV95cUxQLWZyWDkwOUxNUmFKc2ptRFo4YWIxVnlxb183R0pnd3pjUzRCV1BtaUJnNHNmWjJwcF9PODRaNGpvdVAzUHhVNzh0eVgtYV9zNXdTQmk3ejVBWVZxY19xVVR3ck1kQVVkNk9vaU9Bb3QtdmlocDRDR1ZvQThqeUhBeA?oc=5
+---
 
-### 9. Why Feds Beat Robots at Tech Jobs
+### 5. Should federal employees take buyouts in this job market?
 
-- **Walkaround open:** Worried AI will replace your government job?
-- **Source headline:** The execution gap: Why people matter more than ever in government technology
-- **Type:** news · **Pillar:** career_security
-- **Eval:** pass
-- **Published:** 2026-06-12 (3 days ago)
-- **Source:** Federal News Network
+**Consider filming if:** Buyout deadlines create immediate decision pressure for federal employees weighing voluntary separation against job market uncertainty.
 
-**Why film this:** Strong career security angle as automation advances. Federal employees would watch to understand how their tech skills and system knowledge protect their job prospects.
+_pass · news · retirement · 19d ago_
 
-**Answers:** How does understanding government systems protect your tech career?
+[Read source](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSUdBSzk1cERBZ09EeG8yVGg1bGpSa3h4dko3OVVVcjlqNGFqbkR5ZWpHZlZ5V0hDMTdCcU5oc1VPMkpDcGI2cnFQZ2RHUjhEcUhZVDBUM3NKdkotRktfMG1ZX1k2X3A2MmRmUFFKQWZPQWdkbkhGN1FjbUtMNW5BRW10ODFBOEpFblhhalhNcTMtaTdYcVduTEVnNDBGODBDY2Vkd2VoeEtxR2RnY0RncVVjNGpJcWoyMGpFcF9OamJ1enA4Sk9kYUxiSUdzejd1YXpqODFjLUFnaktCNFliQWFqbmpxZ2JtcjRhMy1Ga05SeGxOa3FnNmtHcFVTUQ?oc=5)
 
-**Alternate opens:**
-- *Stakes / FOMO:* Is your government tech job automation-proof?
-- *Deadline:* Which fed tech skills matter most right now?
-- *Myth-bust:* Think automation kills all government tech jobs?
+**Other opens:**
+- *Stakes / FOMO:* Federal buyout deadline approaching — stay or go?
+- *Deadline:* Feds face buyout deadline amid shaky job market
+- *Myth-bust:* Federal buyouts aren't always the safe choice
 
-**Caution:** Avoid overstating job security promises without specific agency context
+**Question answered:** Should federal employees accept buyouts given current job market conditions?
 
-**Context (RSS snippet):** As technology becomes increasingly automated, people who understand how systems actually operate become more important, not less.
+**Caution:** Verify specific deadline date and affected agencies before filming
 
-**Read before filming:** https://federalnewsnetwork.com/commentary/2026/06/the-execution-gap-why-people-matter-more-than-ever-in-government-technology/
+<details>
+<summary>Original headline & context</summary>
 
-### 10. Forest Service Buyouts Before Moves
+**Source headline:** Federal employees face buyout deadline in questionable job market
 
-- **Walkaround open:** Is the Forest Service offering you money to quit?
-- **Source headline:** Forest Service offers separation incentives to employees ahead of relocations
-- **Type:** news · **Pillar:** retirement
-- **Eval:** pass
-- **Published:** 2026-06-02 (13 days ago)
-- **Source:** Google News · VERA buyout
+**Outlet:** Google News · VERA buyout
 
-**Why film this:** Strong job security stakes with separation incentives and relocations affecting Forest Service employees. Clear personal impact question that would stop federal employees mid-scroll.
+**Full eval:** Buyout deadlines create immediate decision pressure for federal employees weighing voluntary separation against job market uncertainty. Possibly good for walk-and-talk as a time-sensitive topic with clear personal stakes.
 
-**Answers:** What separation incentives is Forest Service offering before relocations?
+**Snippet:** Federal employees face buyout deadline in questionable job market Westfair Communications
 
-**Alternate opens:**
-- *Stakes / FOMO:* Forest Service offering separation pay before relocations?
-- *Deadline:* Forest Service buyouts happening now before moves
-- *Myth-bust:* Forest Service paying people to leave, not relocate
+</details>
 
-**Caution:** Verify current eligibility and application deadlines for separation incentives
+---
 
-**Context (RSS snippet):** Forest Service offers separation incentives to employees ahead of relocations Federal News Network
+### 6. Are your federal job protections under threat right now?
 
-**Read before filming:** https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSzNSWm1lZjVrb2dSTVAxdVpvblAtZVhsU1BnSzNDdmdqV2xZVjBwaHRlM1F3enFPUWVUcEdHaVp6a2RCUUpIUDhBeGZaVm8tR0ZxVy1ZUGJ2aG1ST3NsMUE0dVNZY3N1UERHeUt5NnQxSFJDM2hrQ0xsQ0o0VmNsVnczVkc4Z1VCWVhpT2lNeHR0UkhqTG9qSHVYaFJPZlpJMzVNMHNEOHNoOUlXWmhKN25zTkJXUWp2cldzcWo3NmpHMkpRckxtWnEzNXY3UHBKcGlwajRQTU4?oc=5
+**Consider filming if:** Civil service protections are fundamental job security for federal employees, and any court ruling that threatens them creates direct stake…
 
-### 11. Social Security Gap Hits Fed Retirement
+_pass · news · retirement · 3d ago_
 
-- **Walkaround open:** Does Social Security's funding crisis affect your federal retirement?
-- **Source headline:** Why Social Security’s funding gap matters to federal retirement
-- **Type:** news · **Pillar:** retirement
-- **Eval:** pass
-- **Published:** 2026-06-11 (4 days ago)
-- **Source:** Google News · federal retirement
+[Read source](https://federalnewsnetwork.com/federal-newscast/2026/06/senate-democrats-urge-reversal-of-ruling-threatening-civil-service-protections/)
 
-**Why film this:** Social Security's funding issues directly affect federal retirees who rely on both FERS and Social Security. This creates clear personal stakes for current federal employees planning retirement.
+**Other opens:**
+- *Stakes / FOMO:* Could a court ruling strip your civil service protections?
+- *Deadline:* Senate Democrats rush to defend federal job protections
+- *Myth-bust:* Federal job security isn't as guaranteed as you think
 
-**Answers:** How does Social Security's funding gap affect federal employee retirement planning?
+**Question answered:** What court ruling threatens federal civil service protections?
 
-**Alternate opens:**
-- *Stakes / FOMO:* Will Social Security cuts shrink your federal retirement income?
-- *Deadline:* Social Security's funding deadline: what feds need to know
-- *Myth-bust:* Federal retirement isn't immune to Social Security problems
+**Caution:** Legal complexity may need more context than short format allows
 
-**Caution:** Avoid speculation about specific benefit cuts or timeline predictions
+<details>
+<summary>Original headline & context</summary>
 
-**Context (RSS snippet):** Why Social Security’s funding gap matters to federal retirement Government Executive
+**Source headline:** Senate Democrats urge reversal of ruling threatening civil service protections
 
-**Read before filming:** https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlNpYlJVTkxWc0FHOC1adjZZemZHc0JmTjZNdHVuUDRNWDR2Q0R2SllyVXZ3R2dCM1NuMl9RT19BODVEcmVnUUpXbWxYY05CRl9MS2xnMjVPRkZ3THZkeHBNV0hkanIyTkNwZlYtbEExWUZkN0Z1YllEeGw5Z0tIeGVjTGJtRG9OakpIOWtodXJSTDdQakp3bVFsX3lEem91?oc=5
+**Outlet:** Federal News Network
 
-### 12. Trump RIF Changes Worry Officials
+**Full eval:** Civil service protections are fundamental job security for federal employees, and any court ruling that threatens them creates direct stakes for viewers. This could work as a walk-and-talk news reaction, though consider whether the legal complexity requires more explanation than a short format allows.
 
-- **Walkaround open:** Are Trump's RIF changes putting your job at risk?
-- **Source headline:** Trump administration’s RIF overhauls ‘troubling’ to former MSPB officials
-- **Type:** news · **Pillar:** retirement
-- **Eval:** pass
-- **Published:** 2026-05-19 (27 days ago)
-- **Source:** Google News · federal workforce job security
+**Snippet:** The Democrats’ new amicus brief follows a previous request in the same court case for a full-bench appeals court hearing.
 
-**Why film this:** Strong job security stakes with RIF (reduction in force) changes under new administration. Former MSPB officials calling changes 'troubling' creates clear concern hook for federal employees worried about their positions.
+</details>
 
-**Answers:** What makes Trump's RIF overhauls troubling to MSPB officials?
+---
 
-**Alternate opens:**
-- *Deadline:* What do new RIF rules mean for you?
-- *Myth-bust:* Why former MSPB officials are sounding the alarm
+### 7. Postal workers: USPS just secured funding for several years?
 
-**Caution:** Avoid speculation beyond what former officials actually said about the changes
+**Consider filming if:** This addresses job security concerns for postal workers who may have worried about USPS financial stability.
 
-**Context (RSS snippet):** Trump administration’s RIF overhauls ‘troubling’ to former MSPB officials Federal News Network
+_pass · news · federal_workforce · 11d ago_
 
-**Read before filming:** https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYW54cDJyTHQxTjZsdjYtZkVWU2QzZlVBUUpreWtabGlQTmR4eTRwc1pTQ29BVVpNc252X2NMOFFndlpXQ1IyU3FFM1pXbzRRbFQydURpMTVlejFrRlVVMS1wNVpUVmJwLVQtS3A4NDJFXzZnX1ZGd09mQjNwdHd1ejMwbXpTNV9rSnNhdG9xM3FubHZxcVp0SWJ3UE12WUFsVGZjYUdPNHVWa1M1ZEFUUFZaWXJCUDVMZEVoTDlwV053YU5ZTlB1MFA3cEhBQ2JRZW00?oc=5
+[Read source](https://news.google.com/rss/articles/CBMigAFBVV95cUxQLWZyWDkwOUxNUmFKc2ptRFo4YWIxVnlxb183R0pnd3pjUzRCV1BtaUJnNHNmWjJwcF9PODRaNGpvdVAzUHhVNzh0eVgtYV9zNXdTQmk3ejVBWVZxY19xVVR3ck1kQVVkNk9vaU9Bb3QtdmlocDRDR1ZvQThqeUhBeA?oc=5)
 
-### 13. HHS Sends More RIF Notices This Week
+**Other opens:**
+- *Stakes / FOMO:* USPS workers: is your job security looking better?
+- *Deadline:* Postal service funding crisis — how long are you covered?
+- *Myth-bust:* USPS going broke? Here's what actually just happened
 
-- **Walkaround open:** Did HHS just send more RIF notices this week?
-- **Source headline:** HHS sends RIF notices to dozens of staff it missed during office-wide ...
-- **Type:** reddit · **Pillar:** retirement
-- **Eval:** pass
-- **Published:** 2026-05-20 (26 days ago)
-- **Source:** Reddit
+**Question answered:** How does USPS securing several years of funding affect postal workers?
 
-**Why film this:** Strong job security stakes with clear personal relevance for federal employees. RIF notices are high-stakes events that warrant immediate attention and explanation.
+**Caution:** Avoid overstating financial details not specified in the brief headline
 
-**Answers:** Why is HHS sending RIF notices to staff they missed last year?
+<details>
+<summary>Original headline & context</summary>
 
-**Alternate opens:**
-- *Deadline:* HHS missed dozens in last year's layoffs — notices out now
-- *Myth-bust:* Thought HHS layoffs were over? They missed dozens of people
+**Source headline:** Postal Service Frees Up Enough Cash to Keep Operating for ‘Several Years’
 
-**Caution:** Verify timing and avoid speculation about who specifically received notices
+**Outlet:** Google News · USPS workforce
 
-**Context (RSS snippet):** HHS sends RIF notices to dozens of staff it missed during office-wide layoffs last year | Federal News Network · HHS seeks employee reassignments to tackle ...
+**Full eval:** This addresses job security concerns for postal workers who may have worried about USPS financial stability. Possibly good for walk-and-talk as a brief financial update, though consider whether the 'several years' timeframe provides enough immediate stakes for engagement.
 
-**Read before filming:** https://www.reddit.com/r/FedEmployees/comments/1tiqm0x/hhs_sends_rif_notices_to_dozens_of_staff_it/
+**Snippet:** Postal Service Frees Up Enough Cash to Keep Operating for ‘Several Years’ The New York Times
 
-### 14. USPS Cash Crisis Hits Workers
+</details>
 
-- **Walkaround open:** Are you a postal worker worried about layoffs?
-- **Source headline:** USPS restricts nonessential spending to D-lay running out of cash
-- **Type:** reddit · **Pillar:** federal_workforce
-- **Eval:** pass
-- **Published:** 2026-05-28 (18 days ago)
-- **Source:** Reddit
+---
 
-**Why film this:** Strong job security stakes for postal workers with clear personal impact. Spending restrictions and potential position cuts create immediate concern that works well for urgent walk-and-talk format.
+### 8. federal Forest Service offering buyouts before relocations — are you affected?
 
-**Answers:** How will USPS spending cuts affect postal worker jobs?
+**Consider filming if:** Forest Service employees facing relocations have separation incentive options, which affects job security and career decisions for federal …
 
-**Alternate opens:**
-- *Stakes / FOMO:* Is your postal job at risk right now?
-- *Deadline:* USPS running out of cash — what happens next?
-- *Myth-bust:* Think postal jobs are safe? Think again.
+_pass · news · retirement · 13d ago_
 
-**Caution:** Verify current financial status — avoid outdated cash crisis claims
+[Read source](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSzNSWm1lZjVrb2dSTVAxdVpvblAtZVhsU1BnSzNDdmdqV2xZVjBwaHRlM1F3enFPUWVUcEdHaVp6a2RCUUpIUDhBeGZaVm8tR0ZxVy1ZUGJ2aG1ST3NsMUE0dVNZY3N1UERHeUt5NnQxSFJDM2hrQ0xsQ0o0VmNsVnczVkc4Z1VCWVhpT2lNeHR0UkhqTG9qSHVYaFJPZlpJMzVNMHNEOHNoOUlXWmhKN25zTkJXUWp2cldzcWo3NmpHMkpRckxtWnEzNXY3UHBKcGlwajRQTU4?oc=5)
 
-**Context (RSS snippet):** USPS restricts nonessential spending to D-lay running out of cash. It would cut all overtime and carriers would loose positions. does not want to eliminate 20 ...
+**Other opens:**
+- *Stakes / FOMO:* Forest Service buyouts available — should federal employees take them?
+- *Deadline:* federal Forest Service separation incentives — when's the deadline?
+- *Myth-bust:* federal Forest Service buyouts aren't just for retirees — here's who qualifies
 
-**Read before filming:** https://www.reddit.com/r/fromatoarbitration/comments/1tq5di7/usps_restricts_nonessential_spending_to_dlay/
+**Question answered:** What are federal Forest Service separation incentives and who's eligible?
 
-### 15. USPS 4-Day Week Hides Layoff Plans?
+**Caution:** Verify current eligibility criteria and timeline before filming
 
-- **Walkaround open:** Is USPS's new 4-day schedule hiding workforce cuts?
-- **Source headline:** 4 days work for 10hrs per day : r/USPS - Reddit
-- **Type:** reddit · **Pillar:** federal_workforce
-- **Eval:** pass
-- **Published:** 2026-05-31 (15 days ago)
-- **Source:** Reddit
+<details>
+<summary>Original headline & context</summary>
 
-**Why film this:** USPS workforce reduction concerns tied to schedule changes create real job security stakes. Federal employees would want to know if this signals broader layoffs coming.
+**Source headline:** Forest Service offers separation incentives to employees ahead of relocations
 
-**Answers:** Does USPS's 4-day schedule signal coming layoffs for federal workers?
+**Outlet:** Google News · VERA buyout
 
-**Alternate opens:**
-- *Stakes / FOMO:* Could your postal job be next if this spreads?
-- *Deadline:* USPS workforce cuts starting with schedule changes now
-- *Myth-bust:* That 4-day week isn't about work-life balance
+**Full eval:** Forest Service employees facing relocations have separation incentive options, which affects job security and career decisions for federal workers in that agency. This could work as a walk-and-talk reaction to explain what these incentives mean and who might qualify.
 
-**Caution:** Distinguish between confirmed policy and Reddit speculation about future cuts
+**Snippet:** Forest Service offers separation incentives to employees ahead of relocations Federal News Network
 
-**Context (RSS snippet):** It's about the reduction of workforce. If this is implemented, layoffs won't be far behind. Workforce reduction is going to happen over time. Declining ...
+</details>
 
-**Read before filming:** https://www.reddit.com/r/USPS/comments/1tt0ubd/4_days_work_for_10hrs_per_day/
+---
+
+### 9. Did HHS just RIF more federal employees they missed?
+
+**Consider filming if:** HHS sending additional RIF notices to previously missed employees creates immediate job security concerns for federal workers.
+
+_pass · reddit · retirement · 26d ago_
+
+[Read source](https://www.reddit.com/r/FedEmployees/comments/1tiqm0x/hhs_sends_rif_notices_to_dozens_of_staff_it/)
+
+**Other opens:**
+- *Stakes / FOMO:* Are more federal employees getting RIF notices at HHS?
+- *Deadline:* HHS sending new RIF notices to missed federal staff
+- *Myth-bust:* HHS RIF wasn't complete - more federal notices going out
+
+**Question answered:** What do additional HHS RIF notices mean for federal employees?
+
+**Caution:** Verify timing and scope - avoid speculation about which positions affected
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** HHS sends RIF notices to dozens of staff it missed during office-wide ...
+
+**Outlet:** Reddit
+
+**Full eval:** HHS sending additional RIF notices to previously missed employees creates immediate job security concerns for federal workers. This could work as a short news reaction focusing on what this means for affected HHS employees and broader RIF implications.
+
+**Snippet:** HHS sends RIF notices to dozens of staff it missed during office-wide layoffs last year | Federal News Network · HHS seeks employee reassignments to tackle ...
+
+</details>
+
+---
+
+### 10. Are USPS workers about to lose their jobs?
+
+**Consider filming if:** USPS spending cuts and potential position losses create direct job security stakes for postal workers.
+
+_pass · reddit · federal_workforce · 18d ago_
+
+[Read source](https://www.reddit.com/r/fromatoarbitration/comments/1tq5di7/usps_restricts_nonessential_spending_to_dlay/)
+
+**Other opens:**
+- *Stakes / FOMO:* USPS cuts could eliminate postal worker positions
+- *Deadline:* USPS running out of cash soon
+- *Myth-bust:* USPS isn't actually going bankrupt right now
+
+**Question answered:** Will USPS spending cuts cost postal workers their jobs?
+
+**Caution:** Verify current financial status and timeline before filming
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** USPS restricts nonessential spending to D-lay running out of cash
+
+**Outlet:** Reddit
+
+**Full eval:** USPS spending cuts and potential position losses create direct job security stakes for postal workers. Possibly good for walk-and-talk as a quick reaction to breaking financial news affecting federal employees.
+
+**Snippet:** USPS restricts nonessential spending to D-lay running out of cash. It would cut all overtime and carriers would loose positions. does not want to eliminate 20 ...
+
+</details>
+
+---
 
