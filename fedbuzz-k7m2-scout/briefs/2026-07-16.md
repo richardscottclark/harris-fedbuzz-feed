@@ -3,34 +3,65 @@
 
 # FedBuzz Producer Brief — 2026-07-16
 
-**5 topics** — each block opens with the walkaround line. Skim the list; expand only what you might film.
+**4 topics** — each block opens with the walkaround line. Skim the list; expand only what you might film.
 
 ## Skim — walkaround opens
 
-1. Are federal employees next after Trump fires EAC commissioners?
-2. Are your FEHB dependents about to get audited, feds?
-3. Feds, OPM is now taking 96 days to process your retirement?
-4. Are you a fed about to retire — OPM is taking 96 days? _(FDR)_
-5. Got approved for FERS disability? Your check may shrink fast. _(FDR)_
+1. Did the Forest Service just win back telework for federal employees?
+2. Are federal employees next after Trump fired these commissioners?
+3. Is your USPS job safe while the Postal Service begs for a bailout?
+4. Did your federal reasonable accommodation request get ignored?
 
 ---
 
-### 1. Are federal employees next after Trump fires EAC commissioners?
+### 1. Did the Forest Service just win back telework for federal employees?
 
-**Consider filming if:** The Supreme Court's rollback of 'for cause' removal protections — demonstrated immediately by the EAC firings — carries direct livelihood s…
+**Consider filming if:** Forest Service federal employees had telework and remote work stripped, and an arbitrator just ordered it restored — direct job-condition s…
+
+_pass · news · career_security · 2d ago_
+
+[Read source](https://news.google.com/rss/articles/CBMirgFBVV95cUxPYnBRdkVEclh2cHVKcEpFOW5oeUE0UXlOcWNqRWxuUUFLSjEwNk5sOV9KTGt0ajl4OWtVWVJHWnZKQV90ZVpYdWpXNjE3TWF4WXgtb0NGenI3c2NzVVltU2tOX09ndUdYaEtYTW1hTVJKQ252YlFfUi1YVTJmLVR0VXZ0aEJROHhvTXJIZjNPLTd3X3h2TDNPLVhhZmtzcHZfekZTejhRVm1fT25SVVE?oc=5)
+
+**Other opens:**
+- *Stakes / FOMO:* Forest Service feds just got their remote work restored by an arbitrator.
+- *Deadline:* Federal telework ruling is live — does your agency's contract protect you?
+- *Myth-bust:* Agencies can't just cancel federal telework — this ruling proves it.
+
+**Question answered:** What does the Forest Service telework arbitration ruling mean for federal employees?
+
+**Caution:** Ruling scope may be Forest Service–specific; avoid implying all federal telework is protected.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** Arbitrator restores telework and remote work at the Forest Service
+
+**Outlet:** Google News · stay vs leave / RTO morale
+
+**Full eval:** Forest Service federal employees had telework and remote work stripped, and an arbitrator just ordered it restored — direct job-condition stakes for affected feds and a signal to other civil servants watching their own agreements. Possibly good for a walk-and-talk news reaction; the story lands in one sentence and the 'what this means for your agency' angle carries the runtime without charts.
+
+**Snippet:** Arbitrator restores telework and remote work at the Forest Service GovExec.com
+
+</details>
+
+---
+
+### 2. Are federal employees next after Trump fired these commissioners?
+
+**Consider filming if:** The Supreme Court's rollback of 'for cause' removal protections directly threatens job security for federal employees across agencies — not…
 
 _pass · news · career_security · 6d ago_
 
 [Read source](https://www.fedsmith.com/2026/07/10/end-of-for-cause-trump-removes-eac-commissioners/)
 
 **Other opens:**
-- *Stakes / FOMO:* Federal job security just got shakier — here's what changed.
-- *Deadline:* SCOTUS ruled days ago — federal employees should know this now.
-- *Myth-bust:* Civil service protection doesn't mean what feds think it does anymore.
+- *Stakes / FOMO:* Federal job protections just got weaker — here's what changed.
+- *Deadline:* The Supreme Court ruled days ago — feds need to know this now.
+- *Myth-bust:* Federal employees aren't as protected from firing as you think.
 
-**Question answered:** Does the SCOTUS removal ruling put career federal employees' jobs at risk?
+**Question answered:** Does the Supreme Court ruling on removal power put federal jobs at risk?
 
-**Caution:** Clarify on camera that EAC commissioners are appointees, not career civil servants — overstating risk to FERS employees could mislead viewers.
+**Caution:** Avoid overstating scope — ruling targets appointed commissioners, not all civil service protections yet.
 
 <details>
 <summary>Original headline & context</summary>
@@ -39,7 +70,7 @@ _pass · news · career_security · 6d ago_
 
 **Outlet:** FedSmith
 
-**Full eval:** The Supreme Court's rollback of 'for cause' removal protections — demonstrated immediately by the EAC firings — carries direct livelihood stakes for federal employees who assumed civil service tenure offered meaningful job security. The EAC case is a concrete, datable news peg that grounds the legal shift in real action, making it easier to react to without charts. Possibly good for a walk-and-talk news reaction, though the presenter will need to briefly distinguish between political appointees and career civil servants to avoid overstating the threat to most FERS-covered feds.
+**Full eval:** The Supreme Court's rollback of 'for cause' removal protections directly threatens job security for federal employees across agencies — not just EAC commissioners — making this high-stakes and personally relevant. The EAC firings serve as a concrete, dateable news peg. Possibly good for walk-and-talk as a news reaction; consider whether the constitutional nuance can land clearly in 30-45 seconds without over-simplifying.
 
 **Snippet:** Days after the Supreme Court ended “for cause” protections, President Trump fired EAC commissioners. What does this mean for your job security?
 
@@ -47,139 +78,67 @@ _pass · news · career_security · 6d ago_
 
 ---
 
-### 2. Are your FEHB dependents about to get audited, feds?
+### 3. Is your USPS job safe while the Postal Service begs for a bailout?
 
-**Consider filming if:** Federal employees and retirees on FEHB could face new verification requirements to prove dependent or family-member eligibility — real admi…
+**Consider filming if:** USPS employees under FERS face real job-security anxiety when the Postal Service publicly signals it is running out of cash and lobbying fo…
 
-_pass · news · retirement · 44d ago_
+_pass · news · federal_workforce · 21d ago_
 
-[Read source](https://www.govexec.com/pay-benefits/2026/06/opm-new-requirements-verify-fehbp-enrollments/413925/)
+[Read source](https://news.google.com/rss/articles/CBMilgFBVV95cUxNTG5hLWt3eXMxVlE1V29LdURxSXhkMlhrN1AtcFZ3VlU1aklvVE9xdGxrTllsVktIN2Zrc3FKLVllMFByZi1ONVlSRC1sVENZVFdIT3RHQ2pSd1hiZEN5bEhoUkF3MFJvNGx2S3VZX29ZeEhCRXhabjY5Mm5DaGpHUHR6VE1SMkx3RnNnME5Md01tM3E5NlE?oc=5)
 
 **Other opens:**
-- *Stakes / FOMO:* Federal workers could lose FEHB coverage for ineligible dependents.
-- *Deadline:* New OPM rules may soon require feds to verify FEHB enrollments.
-- *Myth-bust:* Your FEHB family coverage isn't automatic — OPM is changing that.
+- *Stakes / FOMO:* USPS is running out of cash — what that means for postal workers.
+- *Deadline:* USPS says it needs federal money now — how long does it have?
+- *Myth-bust:* No, USPS going broke doesn't mean federal employees lose their FERS.
 
-**Question answered:** What do the new OPM FEHB verification rules mean for federal employees?
+**Question answered:** What does the USPS cash crisis mean for postal workers' jobs and benefits?
 
-**Caution:** Regulations are proposed, not final — avoid implying immediate removal of dependents.
+**Caution:** Do not imply FERS or FEHB benefits are immediately at risk — that is not confirmed by the snippet.
 
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** OPM to set new requirements to ‘verify’ FEHBP enrollments
+**Source headline:** Postal Service buys time before cash runs out, seeks federal subsidy
 
-**Outlet:** GovExec Pay & Benefits
+**Outlet:** Google News · USPS job feasibility
 
-**Full eval:** Federal employees and retirees on FEHB could face new verification requirements to prove dependent or family-member eligibility — real administrative stakes if a covered dependent is flagged or removed. Possibly good for a walk-and-talk news reaction framing the 'what do I need to do' angle; consider whether the lack of a firm deadline yet makes urgency harder to land.
+**Full eval:** USPS employees under FERS face real job-security anxiety when the Postal Service publicly signals it is running out of cash and lobbying for a federal bailout — this is a livelihood story, not a policy abstraction. The cash-crisis-plus-subsidy-request angle gives a walk-and-talk host a single clear news peg with obvious stakes. Consider whether 30-45 seconds is enough to separate 'what this means now' from 'what happens if the subsidy is denied' without the video feeling rushed or incomplete.
 
-**Snippet:** Newly published regulations would implement a 2025 law enacted in response to a GAO report that found the government could spend up to $1 billion annually on health benefits for people who are no longer eligible to receive them.
+**Snippet:** Postal Service buys time before cash runs out, seeks federal subsidy Yahoo Finance
 
 </details>
 
 ---
 
-### 3. Feds, OPM is now taking 96 days to process your retirement?
+### 4. Did your federal reasonable accommodation request get ignored?
 
-**Consider filming if:** Federal employees planning imminent retirement face a concrete surprise: OPM's average processing time jumped to 96 days in June — nearly h…
+**Consider filming if:** Federal employees with disabilities at Treasury or HHS who submitted reasonable accommodation requests for telework face real uncertainty —…
 
-_pass · news · retirement · 1d ago_
+_pass · news · fdr · 10d ago_
 
-[Read source](https://www.fedweek.com/fedweek/retirement-processing-time-jumps-even-amid-shift-to-online-applications/)
+[Read source](https://news.google.com/rss/articles/CBMitAFBVV95cUxOUTAzOHZBZWJOWmtGSWsyMHVqZlh2VlFEa2tuU3BZWjJaQW8wTjVwbVpCdHo1U2E2dnVKWTJYTXNjVEh3eklJSlhzc3o2dG9BWFJQSXlmSVR5Q3ItdXNaYi1DSUx6enh2alBfTzFOYU91N2tYVG5UNXc2TGRQVnFWVzlmNEk1NURYcU9kX2J6YzEyaUluOEhaRC0zc3ZFZTZ1UzdHVzNPQ19LM0JtQTE1LUJDNEs?oc=5)
 
 **Other opens:**
-- *Stakes / FOMO:* Federal retirees are waiting 96 days for their first OPM check.
-- *Deadline:* Planning to retire soon? OPM's backlog just hit 96 days.
-- *Myth-bust:* Going paperless didn't fix OPM's retirement delays — it got worse.
+- *Stakes / FOMO:* Treasury and HHS feds: your accommodation request may be buried.
+- *Deadline:* NTEU just sued — federal RA telework requests can't wait forever.
+- *Myth-bust:* No, federal agencies can't just sit on your accommodation request indefinitely.
 
-**Question answered:** Why did OPM retirement processing jump to 96 days in June?
+**Question answered:** What does the NTEU lawsuit mean for federal employees awaiting RA telework decisions?
 
-**Caution:** 96-day figure is June-specific; confirm it hasn't improved before filming.
+**Caution:** Do not imply the lawsuit covers all agencies — scope is Treasury and HHS only.
 
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** Retirement Processing Time Jumps Even Amid Shift to Online Applications
+**Source headline:** NTEU Sues Treasury, HHS over Backlog of ‘Reasonable Accommodation’ Telework Requests
 
-**Outlet:** FedWeek
+**Outlet:** Google News · stay vs leave / RTO morale
 
-**Full eval:** Federal employees planning imminent retirement face a concrete surprise: OPM's average processing time jumped to 96 days in June — nearly half again longer than before — meaning income gaps at separation are a real risk. Possibly good for a walk-and-talk news reaction since the stat is quotable in one breath and the personal stakes ('when do I get my first check?') land immediately without charts.
+**Full eval:** Federal employees with disabilities at Treasury or HHS who submitted reasonable accommodation requests for telework face real uncertainty — a lawsuit signals the agencies may be sitting on those requests without action, which directly affects whether those feds can keep working. Possibly good for a walk-and-talk news reaction, though the host should be careful not to overstate who is covered; consider whether the 90-second format can land the 'what this means for your pending request' angle without drifting into legal briefing territory.
 
-**Snippet:** The average processing time for retirement applications pending at OPM jumped by nearly half to 96 days in June even ...More The article Retirement Processing Time Jumps Even Amid Shift to Online Applications was first published on FEDweek .
-
-</details>
-
----
-
-### 4. Are you a fed about to retire — OPM is taking 96 days?
-
-**Consider filming if:** Federal retirees and near-retirees face a real squeeze: OPM's average retirement processing time jumped to 96 days — roughly six weeks long…
-
-_review · reddit · retirement · FDR_
-
-[Read source](https://www.reddit.com/r/FedEmployees/comments/1uxslch/retirement_processing_time_jumps_even_amid_shift/)
-
-**Other opens:**
-- *Stakes / FOMO:* Feds retiring now could wait 3 months for their annuity.
-- *Deadline:* Filing your federal retirement soon? Check this processing delay first.
-- *Myth-bust:* OPM's digital shift was supposed to speed things up — it hasn't.
-
-**Question answered:** How long will OPM take to process my federal retirement application right now?
-
-**Caution:** Date of the 96-day figure is unconfirmed; caveat as recent OPM data to avoid overstating currency.
-
-**Harris QA:** Date unknown — confirm before news hook.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** Retirement Processing Time Jumps Even Amid Shift to ...
-
-**Outlet:** Reddit
-
-**Full eval:** Federal retirees and near-retirees face a real squeeze: OPM's average retirement processing time jumped to 96 days — roughly six weeks longer than before — meaning feds filing soon could wait three months or more for their first full annuity check. The stakes are concrete and personal, but the video risks tipping into procedural explainer territory if the host tries to contextualize the paper-to-digital transition; consider whether a tight reaction to the delay itself, without system backstory, can hold 30-45 seconds.
-
-**Snippet:** The average processing time for retirement applications pending at OPM jumped by nearly half to 96 days in June even amid a shift from paper-based to.
+**Snippet:** NTEU Sues Treasury, HHS over Backlog of ‘Reasonable Accommodation’ Telework Requests FEDweek
 
 </details>
-
-_FDR-tagged — hand-pick for funnel / organic; not for planning retargeting pools._
-
----
-
-### 5. Got approved for FERS disability? Your check may shrink fast.
-
-**Consider filming if:** FERS disability retirement affects federal employees who are medically separated — the offset rule (100% then 60% SSDI reduction) is a real…
-
-_review · reddit · retirement · FDR_
-
-[Read source](https://www.reddit.com/r/fednews/comments/1ul3lpx/fers_disability_retirement_approved/)
-
-**Other opens:**
-- *Stakes / FOMO:* FERS disability feds: SSDI approval could cut your pension check.
-- *Deadline:* First year after FERS disability approval is the most expensive — here's why.
-- *Myth-bust:* Winning SSDI doesn't add income for FERS disability retirees — it offsets.
-
-**Question answered:** How does SSDI approval reduce a FERS disability retirement check?
-
-**Caution:** Date of approval unknown — frame as evergreen rule, not breaking news.
-
-**Harris QA:** Date unknown — confirm before news hook.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** FERS Disability Retirement Approved : r/fednews
-
-**Outlet:** Reddit
-
-**Full eval:** FERS disability retirement affects federal employees who are medically separated — the offset rule (100% then 60% SSDI reduction) is a real financial shock many feds don't anticipate. Consider whether the offset math can be conveyed clearly without a table or side-by-side comparison; the concept is explainable verbally but the numbers may trip up a 30-45 second format.
-
-**Snippet:** If you get approved for both, FERS will reduce your pension check by 100% of your SSDI amount during the first year, and by 60% after that.
-
-</details>
-
-_FDR-tagged — hand-pick for funnel / organic; not for planning retargeting pools._
 
 ---
 
