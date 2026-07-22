@@ -2,7 +2,7 @@
 
 Dated walk-and-talk topic briefs. Use the latest file for this week's filming list.
 
-- [2026-07-20](./2026-07-20.md)
+- [2026-07-22](./2026-07-22.md)
 - [2026-07-16](./2026-07-16.md)
 - [2026-07-06](./2026-07-06.md)
 - [2026-06-29](./2026-06-29.md)
