@@ -3,37 +3,152 @@
 
 # FedBuzz Producer Brief — 2026-07-22
 
-**12 topics** (7 film-first · 5 also consider) — each block opens with the walkaround line. Skim the list; expand only what you might film.
+**13 topics** (8 film-first · 5 also consider) + **3 balance-the-week** — each block opens with the walkaround line. Skim the list; expand only what you might film.
+
+## This week’s news cycle
+
+_Federal news is heavy on **return-to-office and telework** right now. The list reflects what is happening, not a thin idea pool — we capped near-twins so you are not filming the same story five ways._
+
+_Same cycle, not listed as separate film picks:_
+
+- Are you a fed who's less productive back in the office?
+- Did your federal telework get yanked without negotiation?
+- Are disabled feds being forced back to the office illegally?
 
 ## Film these
 
 _Stronger short-form fit — start here._
 
-1. Did the IRS just win back telework for federal employees?
-2. Are you a fed who's less productive back in the office?
-3. OPM just lost a third of its staff — what does that mean for feds?
-4. Are you a federal whistleblower? Congress just changed the rules.
-5. Are fired federal probationary workers losing their only appeals path?
-6. Are disabled feds being forced back to the office illegally?
-7. Does your partner qualify for your FERS survivor annuity if you die?
+1. Are you a fed who could lose civil service protections under Schedule F?
+2. Did your federal telework just get ordered back by an arbitrator?
+3. Is your USPS job safe while the Postal Service hunts for a bailout?
+4. Did the IRS just win back telework for federal employees?
+5. OPM just lost a third of its staff — what does that mean for feds?
+6. Are you a federal whistleblower? Congress just changed the rules.
+7. Are fired federal probationary workers losing their only appeals path?
+8. Does your partner qualify for your FERS survivor annuity if you die?
 
 ## Also consider
 
 _Softer fit — worth a look if the list above is thin or these match your lane._
 
-8. Are USPS workers now caught in the middle of a ballot standoff?
-9. Are federal employees still feeling last year's State Department RIF?
-10. Postal workers, a new voter data rule is causing serious backlash.
-11. Could your federal agency use a charge as an excuse to fire you, fed?
-12. Are federal employees actually losing job protections right now?
+9. Did the federal deferred resignation program just cost you $11 billion?
+10. Feds, OPM just killed the survey that held your agency accountable.
+11. Are USPS workers now caught in the middle of a ballot standoff?
+12. Are federal employees still feeling last year's State Department RIF?
+13. Could your federal agency use a charge as an excuse to fire you, fed?
+
+## Balance the week
+
+_News is clustered this week. These money / retirement seeds are not breaking news — film one if you want a different lane._
+
+14. Are you leaving free TSP matching on the table?
+15. Feds — have you checked your FERS calculator this year?
+16. TSP funds explained — which one fits your timeline?
 
 ---
 
-### 1. Did the IRS just win back telework for federal employees?
+### 1. Are you a fed who could lose civil service protections under Schedule F?
+
+**Consider filming if:** Schedule F reclassification directly threatens job security for up to 8,000 career federal employees, stripping civil service protections a…
+
+_pass · news · retirement · 12d ago_
+
+[Read source](https://www.govexec.com/workforce/2026/07/more-50-dem-lawmakers-demand-more-schedule-f-transparency/414800/)
+
+**Other opens:**
+- *Stakes / FOMO:* 8,000 federal jobs just lost civil service protection — is yours one?
+- *Deadline:* Feds still don't know which jobs Schedule F targets — here's why.
+- *Myth-bust:* Feds, Schedule F isn't just a list — it strips your removal rights.
+
+**Question answered:** Which federal jobs are reclassified under Schedule F and are mine at risk?
+
+**Caution:** Avoid claiming a definitive job list exists — administration has not released full public documentation.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** More than 50 Dem lawmakers demand more Schedule F transparency
+
+**Outlet:** GovExec Workforce
+
+**Full eval:** Schedule F reclassification directly threatens job security for up to 8,000 career federal employees, stripping civil service protections and converting incumbents to at-will status — high personal stakes for any fed wondering if their position is on the list. Possibly good for walk-and-talk as a news reaction; consider whether the lack of public documentation can be explained in 30-45 seconds without needing to show a list or chart that doesn't publicly exist yet.
+
+**Snippet:** Efforts to understand the true scope of the recent executive order moving around 8,000 career federal jobs into Schedule Policy/Career, making their incumbents effectively at-will employees, have been stymied by the administration’s scant public documentation.
+
+</details>
+
+---
+
+### 2. Did your federal telework just get ordered back by an arbitrator?
+
+**Consider filming if:** An arbitrator ruling that directly restores telework rights for 20,000 Forest Service federal employees carries clear livelihood stakes — r…
+
+_pass · news · career_security · 6d ago_
+
+[Read source](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVRTcTg3OG5UM0tPMkJBZ1ZONkQ3a2pCV3BYOHhCdFdURld0eU1vVEpMdUx6N1cyZVNzTG95dVJXS3BHZE0zbVJTREltMFhYQ0pxRGhCaXZ1MlVCMjFLYjRObS1FQ0JHY0l3YWx6ZHRmdnlXbWpkYnYxb21kdnp5ZERia3hLT1ZoSFZ5eWVBeW1BaXFjQUN6U0lrT29VYkN2TFdJYWlFWG1mS2lvLUNxSEhRQlN3X2p1S2c?oc=5)
+
+**Other opens:**
+- *Stakes / FOMO:* 20,000 Forest Service feds may be getting telework restored now.
+- *Deadline:* Federal arbitrator ruled — Forest Service must restore telework agreements.
+- *Myth-bust:* Feds, management can't just cancel your telework agreement unilaterally.
+
+**Question answered:** What does the Forest Service arbitration ruling mean for federal telework rights?
+
+**Caution:** Confirm ruling is enforceable and not yet under agency appeal before filming strong take.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** Arbitrator Orders U.S. Forest Service to Restore Telework Agreements for 20,000 Employees
+
+**Outlet:** Google News · stay vs leave / RTO morale
+
+**Full eval:** An arbitrator ruling that directly restores telework rights for 20,000 Forest Service federal employees carries clear livelihood stakes — remote work arrangements, commute costs, and work-life balance hang on this outcome. Possibly good for a walk-and-talk news reaction; the core fact (arbitrator ordered restoration of agreements) is digestible in under 45 seconds without charts.
+
+**Snippet:** Arbitrator Orders U.S. Forest Service to Restore Telework Agreements for 20,000 Employees FEDmanager
+
+</details>
+
+---
+
+### 3. Is your USPS job safe while the Postal Service hunts for a bailout?
+
+**Consider filming if:** USPS is seeking a federal subsidy to avoid a cash crisis — a direct livelihood signal for postal workers whose paychecks, FERS contribution…
+
+_pass · news · federal_workforce · 33d ago_
+
+[Read source](https://news.google.com/rss/articles/CBMilgFBVV95cUxNTG5hLWt3eXMxVlE1V29LdURxSXhkMlhrN1AtcFZ3VlU1aklvVE9xdGxrTllsVktIN2Zrc3FKLVllMFByZi1ONVlSRC1sVENZVFdIT3RHQ2pSd1hiZEN5bEhoUkF3MFJvNGx2S3VZX29ZeEhCRXhabjY5Mm5DaGpHUHR6VE1SMkx3RnNnME5Md01tM3E5NlE?oc=5)
+
+**Other opens:**
+- *Stakes / FOMO:* USPS is running out of cash — what that means for postal workers.
+- *Deadline:* Postal Service is buying time before the money runs out — how long?
+- *Myth-bust:* USPS financial trouble doesn't just hurt mail — it affects federal benefits too.
+
+**Question answered:** What does USPS seeking a federal subsidy mean for postal workers' jobs and benefits?
+
+**Caution:** Do not speculate on layoff timelines or benefit cuts not stated in the source.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** Postal Service buys time before cash runs out, seeks federal subsidy
+
+**Outlet:** Google News · USPS job feasibility
+
+**Full eval:** USPS is seeking a federal subsidy to avoid a cash crisis — a direct livelihood signal for postal workers whose paychecks, FERS contributions, and FEHB coverage all flow through agency solvency. Stakes are concrete and personal enough to stop a postal worker mid-scroll. Possibly good for a walk-and-talk news reaction, though the script will need to stay disciplined and avoid sliding into budget-policy lecture territory.
+
+**Snippet:** Postal Service buys time before cash runs out, seeks federal subsidy Yahoo Finance
+
+</details>
+
+---
+
+### 4. Did the IRS just win back telework for federal employees?
 
 **Consider filming if:** IRS workers who lost telework arrangements have a concrete win here — an arbitrator's ruling directly restores a working condition with rea…
 
-_pass · news · career_security · 2d ago_
+_pass · news · career_security · 7d ago_
 
 [Read source](https://news.google.com/rss/articles/CBMilAFBVV95cUxORnpaeWE2cTdhMlpzOGEzLTZJaVlHUlUtRjYtVFlIUHVkOXZsNGdpeHdOc2J4Ry1JbjdPcS1WR0tUZU95NXBpd0w4TmMyY2JIS29RTVF5UThMVGd6d0kyLU5GMXZ2clVlMTlsektWTDZqdklIdHJCWmpvVVhBV280Y2p0eDVlNnI2c0UzS0xpWU1mSEZw?oc=5)
 
@@ -61,43 +176,11 @@ _pass · news · career_security · 2d ago_
 
 ---
 
-### 2. Are you a fed who's less productive back in the office?
-
-**Consider filming if:** Federal employees forced back to the office are now on record saying productivity and morale have dropped — that's a livelihood-adjacent st…
-
-_pass · news · career_security · 2d ago_
-
-[Read source](https://federalnewsnetwork.com/workforce/2026/07/after-returning-to-the-office-federal-employees-report-low-productivity-morale/)
-
-**Other opens:**
-- *Stakes / FOMO:* Federal workers say RTO is hurting their output — here's the data.
-- *Deadline:* Feds are reporting this now — before more RTO mandates lock in.
-- *Myth-bust:* RTO wasn't supposed to hurt federal productivity — workers say otherwise.
-
-**Question answered:** What are federal employees actually saying about productivity since returning to the office?
-
-**Caution:** Survey is self-selected online sample — flag that limitation on camera to avoid overclaiming.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** After returning to the office, federal employees report low productivity, morale
-
-**Outlet:** FNN · Workforce
-
-**Full eval:** Federal employees forced back to the office are now on record saying productivity and morale have dropped — that's a livelihood-adjacent story with real resonance for feds navigating RTO mandates. Possibly good for walk-and-talk as a calm news reaction; consider whether the video can stay grounded in the survey finding without sliding into venting or punditry.
-
-**Snippet:** In a Federal News Network online survey, over three-quarters of respondents said they are less productive now than they were prior to returning to the office.
-
-</details>
-
----
-
-### 3. OPM just lost a third of its staff — what does that mean for feds?
+### 5. OPM just lost a third of its staff — what does that mean for feds?
 
 **Consider filming if:** OPM shrinking by a third is direct livelihood news for federal employees — OPM administers FERS benefits, FEHB enrollment, and workforce po…
 
-_pass · news · career_security · 2d ago_
+_pass · news · career_security · 7d ago_
 
 [Read source](https://news.google.com/rss/articles/CBMirgFBVV95cUxOWU9LNWo0ZXh5cWp0RjlDeW0waEFyUDdjWWgtUDAwa1ZkMjVXMVh4bWdFWkdoM2RYeWxIYWVIaXRFT3ZUTTU3N3Rqb1ctSXVZbXEwYlh1MXhKb1haZjNaTG9HR2pMSFVNT3k0T05WREtSSkswVy1ZZzQzUFR0d053RTlKQUE5ZGlDRE5idEpxN09wRlN2X1NqdVkwUy13ejJjYnlEeUl5V1pLMXM4QkE?oc=5)
 
@@ -125,11 +208,11 @@ _pass · news · career_security · 2d ago_
 
 ---
 
-### 4. Are you a federal whistleblower? Congress just changed the rules.
+### 6. Are you a federal whistleblower? Congress just changed the rules.
 
 **Consider filming if:** Federal employees and contractors now have a concrete, near-term protection change to track — the bill closes a retaliation loophole that d…
 
-_pass · news · career_security · 1d ago_
+_pass · news · career_security · 6d ago_
 
 [Read source](https://federalnewsnetwork.com/federal-newscast/2026/07/house-passes-bill-expanding-whistleblower-protections/)
 
@@ -157,11 +240,11 @@ _pass · news · career_security · 1d ago_
 
 ---
 
-### 5. Are fired federal probationary workers losing their only appeals path?
+### 7. Are fired federal probationary workers losing their only appeals path?
 
 **Consider filming if:** Probationary federal employees at DHS and Interior are contesting an MSPB ruling that strips the board of jurisdiction to review their firi…
 
-_pass · news · career_security · 1d ago_
+_pass · news · career_security · 6d ago_
 
 [Read source](https://federalnewsnetwork.com/workforce-rightsgovernance/2026/07/fired-dhs-interior-probationary-workers-challenge-mspb-ruling/)
 
@@ -189,43 +272,11 @@ _pass · news · career_security · 1d ago_
 
 ---
 
-### 6. Are disabled feds being forced back to the office illegally?
-
-**Consider filming if:** Disabled federal employees at the VA and other agencies face a direct livelihood threat: losing telework accommodations that may be legally…
-
-_pass · news · retirement · 14d ago_
-
-[Read source](https://www.govexec.com/workforce/2026/07/disabled-veterans-losing-telework-accommodations-harder-working-va/414626/)
-
-**Other opens:**
-- *Stakes / FOMO:* Federal employees with disabilities may be losing legally protected telework.
-- *Deadline:* Disabled feds: is your agency enforcing RTO before reviewing your accommodation?
-- *Myth-bust:* The RTO order exempts disabled feds — so why are agencies ignoring that?
-
-**Question answered:** Are federal agencies wrongly ending telework for employees with disabilities?
-
-**Caution:** Do not overstate legal conclusions; accommodation eligibility varies by case and agency HR determination.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** Some disabled veterans say losing telework accommodations is making it harder for them to keep working at the VA
-
-**Outlet:** GovExec Workforce
-
-**Full eval:** Disabled federal employees at the VA and other agencies face a direct livelihood threat: losing telework accommodations that may be legally protected under ADA, even under the return-to-office mandate. Stakes are immediate — job retention, disability rights, and whether HR is correctly applying the exemption. Possibly good for walk-and-talk as a reaction piece; consider whether the legal nuance around 'qualifying reasonable accommodations' can be delivered cleanly in 30-45 seconds without slipping into procedural explanation.
-
-**Snippet:** Employees with disabilities at several agencies have alleged that they’re being forced to return to the office, even though the Trump administration’s directive ending telework flexibility for the civil service exempted those with qualifying reasonable accommodations.
-
-</details>
-
----
-
-### 7. Does your partner qualify for your FERS survivor annuity if you die?
+### 8. Does your partner qualify for your FERS survivor annuity if you die?
 
 **Consider filming if:** A federal appeals court rejected a FERS survivor annuity claim based on a common-law marriage argument — directly relevant to any FERS-cove…
 
-_pass · news · retirement · 1d ago_
+_pass · news · retirement · 6d ago_
 
 [Read source](https://www.fedsmith.com/2026/07/21/calling-him-husband-wasnt-enough-for-widows-annuity-claim/)
 
@@ -255,11 +306,75 @@ _pass · news · retirement · 1d ago_
 
 ## Also consider — detail
 
-### 8. Are USPS workers now caught in the middle of a ballot standoff?
+### 9. Did the federal deferred resignation program just cost you $11 billion?
+
+**Consider filming if:** The $11 billion deferred resignation figure carries real livelihood stakes for federal employees weighing whether to take a buyout or stay …
+
+_review · news · retirement · 35d ago_
+
+[Read source](https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnFLNldhX21hbXZWMVRVcFgzeXB1TkFwWXlGemxNRUxadzFzejJMdlJMZnJ1ZVk1SFJBNXdBVDJacFEyVmVnRV95amYyak9xQWkwTDZkSWNOOXhVOGtPNDdHSk5NcXJyU3VkSHUwMEpIc3Rwa3lWb2gyUkVvaThjTC0zbG9BNzA3OXJCaXdlM3hDMlgtekdUZXgzOEpCOWFaNUNTQXd1VXFnNndEdGpud1h2WTFvYms?oc=5)
+
+**Other opens:**
+- *Stakes / FOMO:* Feds who took the buyout — was it worth $11 billion?
+- *Deadline:* OPM is defending cuts now — federal employees need answers fast.
+- *Myth-bust:* The deferred resignation wasn't free — federal workers are paying for it.
+
+**Question answered:** What does the $11 billion deferred resignation cost mean for federal employees?
+
+**Caution:** Avoid implying FERS retirement benefits are directly reduced — the $11B is program cost, not a benefit cut.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** Deferred Resignation Price Tag Tops $11 Billion as OPM Defends Federal Workforce Cuts
+
+**Outlet:** Google News · VERA buyout
+
+**Full eval:** The $11 billion deferred resignation figure carries real livelihood stakes for federal employees weighing whether to take a buyout or stay — OPM's public defense of the cuts adds a news hook that feds will want to decode. The retirement pillar angle is thin here unless the video frames how deferred resignation interacts with FERS timing or TSP decisions; without that, it risks sliding into general workforce news. Consider whether a 30-45 second walk-and-talk can land the 'what does this mean for my decision' angle without needing charts or policy context.
+
+**Snippet:** Deferred Resignation Price Tag Tops $11 Billion as OPM Defends Federal Workforce Cuts FEDmanager
+
+</details>
+
+---
+
+### 10. Feds, OPM just killed the survey that held your agency accountable.
+
+**Consider filming if:** OPM scrapping the centralized Federal Employee Viewpoint Survey removes a key accountability tool that feds have used to signal workplace p…
+
+_review · news · career_security · 12d ago_
+
+[Read source](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSF9qZ1k5X1o1Z2tMSUktNGpzQW1fQnBybk1yM2Y4cmFIQUJtOWFha0thYjhkendHdkxBUnVYU2dJWWtwN0YyTU5ZWHU3WnB3UWNEQnRiWmwxWlhfam1DMjk4UnFsekdLQlRYUjdwWU1xTWM3Zzc5M3lmMFFFdzJCcXRqQlNqLXA5Zzg4a2oyckVINWJsOXhkU0pQZGl3bV8zSmg3aTd0TDVNZ2R3SnFYS3piSXVuMlNBazFUYTZsVzFzS1BCcDF4TVRB?oc=5)
+
+**Other opens:**
+- *Stakes / FOMO:* Federal workers just lost their main tool to flag bad management.
+- *Deadline:* The centralized fed survey is already gone — what happens now?
+- *Myth-bust:* No, federal agencies won't just replace this survey on their own.
+
+**Question answered:** What does OPM dismantling the federal employee survey mean for civil servants?
+
+**Caution:** Partnership for Public Service is an advocacy org — note framing may reflect institutional bias against OPM action.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** OPM Dismantles Centralized Federal Employee Survey, Abandoning Workplace Accountability and Transparency
+
+**Outlet:** Google News · stay vs leave / RTO morale
+
+**Full eval:** OPM scrapping the centralized Federal Employee Viewpoint Survey removes a key accountability tool that feds have used to signal workplace problems and push for management changes — real stakes for civil servants who relied on it for voice and transparency. The topic is reactive enough for a walk-and-talk news reaction, but consider whether the abstract 'accountability' framing lands without showing concrete consequences like suppressed scores or lost whistleblower-adjacent data.
+
+**Snippet:** OPM Dismantles Centralized Federal Employee Survey, Abandoning Workplace Accountability and Transparency Partnership for Public Service
+
+</details>
+
+---
+
+### 11. Are USPS workers now caught in the middle of a ballot standoff?
 
 **Consider filming if:** The story puts USPS workers at the center of a politically charged operational directive — postal employees may face real questions about t…
 
-_review · news · federal_workforce · 29d ago_
+_review · news · federal_workforce · 34d ago_
 
 [Read source](https://news.google.com/rss/articles/CBMipgFBVV95cUxQa01oaGRXYU1kLU9uc2N5RlZHWFRQdnRLNW5hdlpQSHBBUFdzSk93U2lud09EOXlnN3BLYUlpUDBSZzZWeXRLallELXlQNmhGOWM0MUpJYmNNZVNrY2FYT0M3Q3dac1FKOVFLSG95WTVmY2hFN0lJMXpVcnZUQlhwN1h1MXJxZUVObW5kQndkay1INFNfa29EMjFzbjBDVkV0SVFQLThB0gGrAUFVX3lxTE9PMWxNRWtOUU1mX2ZmRFFxYmxJTHpjbXotbnJfeUQ5RThBR0tWNFlmWkk2Ui1HQXlVSVFaSFR3V29INUNPaGtva3FKRk0xLXRDanRVS09fa3JkUlRpWEEzRlQ1U1NULXJjVDRiSWNJTVFzcHZWdDRjRVd4bWp4QnppNHZyYnpnTzAzYnZjbmJ4SDhKLW9oRDVIT0QxQTRhUDZlMWFSQS14cXJjNA?oc=5)
 
@@ -287,11 +402,11 @@ _review · news · federal_workforce · 29d ago_
 
 ---
 
-### 9. Are federal employees still feeling last year's State Department RIF?
+### 12. Are federal employees still feeling last year's State Department RIF?
 
 **Consider filming if:** The one-year anniversary angle gives former State Department feds and current civil servants a concrete reason to engage — job loss, expert…
 
-_review · news · retirement · 6d ago_
+_review · news · retirement · 11d ago_
 
 [Read source](https://federalnewsnetwork.com/workforce/2026/07/laid-off-federal-employees-spotlight-lasting-impacts-of-state-dept-rif/)
 
@@ -319,43 +434,11 @@ _review · news · retirement · 6d ago_
 
 ---
 
-### 10. Postal workers, a new voter data rule is causing serious backlash.
-
-**Consider filming if:** This story touches postal workers directly — a voter data rule tied to mail ballot delivery could affect how USPS employees handle election…
-
-_review · news · federal_workforce · 29d ago_
-
-[Read source](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeUIwenh4c3p2RUpjNWJVM0JLTmdxbGNxblZPbkY5VkFqelBNMjJZaGxES09PSVRmcGJXc1dFUEZPdjRfN0tQd2NiVHVsVXlHQ2FVY2xsVXFaUmdUMy1wTzBrMV9hOVpIOGdLTGpqa2hBSEdxUUpBamt5RjRMZDBBcmJ4cDB4OVVSTmQ0bUFEVXhTYl9UOUU1bWk3UTEzODNqQ0U0MkdQczVXQ1psVGYzSmdJZ0pHWnZVR01oc3hHR285aHByU3c?oc=5)
-
-**Other opens:**
-- *Stakes / FOMO:* USPS employees may be caught in the middle of this election mail dispute.
-- *Deadline:* Postal workers: this voter data rule is already drawing fire — here's why.
-- *Myth-bust:* This isn't just a political fight — it affects how postal workers handle ballots.
-
-**Question answered:** What does the USPS voter data rule mean for postal workers handling mail ballots?
-
-**Caution:** Avoid partisan framing; keep focus on operational and workforce impact, not electoral politics.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** Postal Service faces backlash over voter data rule tied to mail ballot delivery
-
-**Outlet:** Google News · USPS job feasibility
-
-**Full eval:** This story touches postal workers directly — a voter data rule tied to mail ballot delivery could affect how USPS employees handle election mail, a high-visibility and politically sensitive duty. Stakes are real for postal workers caught between policy backlash and operational compliance. Consider whether a 30-45 second walk-and-talk can carry this without drifting into partisan territory or requiring policy detail the format can't hold.
-
-**Snippet:** Postal Service faces backlash over voter data rule tied to mail ballot delivery GovExec.com
-
-</details>
-
----
-
-### 11. Could your federal agency use a charge as an excuse to fire you, fed?
+### 13. Could your federal agency use a charge as an excuse to fire you, fed?
 
 **Consider filming if:** Federal employees facing misconduct charges may wonder whether an agency can use a conduct charge as cover for a termination it wanted for …
 
-_review · news · career_security · 1d ago_
+_review · news · career_security · 6d ago_
 
 [Read source](https://www.fedweek.com/fedweek/court-says-charge-against-employee-was-not-pretext-for-termination/)
 
@@ -383,35 +466,43 @@ _review · news · career_security · 1d ago_
 
 ---
 
-### 12. Are federal employees actually losing job protections right now?
+## Balance the week — detail
 
-**Consider filming if:** Court rulings on federal employee job security carry real livelihood stakes — termination protections, due process rights, and what feds ca…
+_Not breaking news. Use when the news cycle is one theme and you want a different lane._
 
-_review · news · career_security · 2d ago_
+### 14. Are you leaving free TSP matching on the table?
 
-[Read source](https://news.google.com/rss/articles/CBMiigFBVV95cUxPUmlDZ0hFRktJeWN0cW1SNHVGMDBHLWhGVGg0WXlaZENleFBjVnNnUDBwcHVNb2FDQTFLUDlESkNTY2szS1NTNlp5eFZwRWtPd1luTW5KWVpHbm1aNDZwSTJSVmh6Um9tSUJiVlZNTm1XOURuY193ZlZTVVpkd2ZEVW15WG1sbGZOOGc?oc=5)
+_Balance-the-week seed — not breaking news._
 
-**Other opens:**
-- *Stakes / FOMO:* Recent court rulings may have changed how feds can fight termination.
-- *Deadline:* Federal employees: do these rulings affect your appeal rights today?
-- *Myth-bust:* Feds don't have ironclad job protection — courts just proved it.
+**Question answered:** How does TSP matching work for federal employees this year?
 
-**Question answered:** What do recent court decisions actually mean for federal employees' job security?
+**Why it’s here:** High-intent retirement money question this audience repeatedly asks.
 
-**Caution:** Confirm specific rulings are named in source before filming — vague legal framing loses viewers fast.
+**Caution:** Confirm current OPM / TSP / USPS rules before filming — these are demand seeds, not legal advice.
 
-<details>
-<summary>Original headline & context</summary>
+---
 
-**Source headline:** What Recent Court Decisions Mean For Federal Employee Job Security
+### 15. Feds — have you checked your FERS calculator this year?
 
-**Outlet:** Google News · federal workforce job security
+_Balance-the-week seed — not breaking news._
 
-**Full eval:** Court rulings on federal employee job security carry real livelihood stakes — termination protections, due process rights, and what feds can actually challenge are all in play. The headline is substantive but vague; without knowing which specific decisions are cited, a walk-and-talk risks becoming a generic legal explainer that needs context a 45-second video can't carry. Consider whether the FedSmith piece names concrete rulings with direct 'am I affected' moments before filming.
+**Question answered:** What should federal employees verify in a FERS retirement estimate?
 
-**Snippet:** What Recent Court Decisions Mean For Federal Employee Job Security FedSmith.com
+**Why it’s here:** Calculator / estimate intent is one of the strongest retirement asks.
 
-</details>
+**Caution:** Confirm current OPM / TSP / USPS rules before filming — these are demand seeds, not legal advice.
+
+---
+
+### 16. TSP funds explained — which one fits your timeline?
+
+_Balance-the-week seed — not breaking news._
+
+**Question answered:** How should federal employees choose among TSP funds?
+
+**Why it’s here:** Fund-choice explainers match how this audience researches investing.
+
+**Caution:** Confirm current OPM / TSP / USPS rules before filming — these are demand seeds, not legal advice.
 
 ---
 

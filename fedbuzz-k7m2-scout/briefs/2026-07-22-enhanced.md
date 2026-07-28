@@ -1,9 +1,11 @@
 [How to read this brief](how-to-read.html)
 **Private:** Do not share this page link or the RSS feed URL outside the Harris producer team.
 
-# FedBuzz Producer Brief — 2026-07-22
+**Review version:** Same topics as the live filming brief, plus audience-language opens and a short evergreen block. The live brief producers use day-to-day is unchanged — compare this page, then tell BuzzMaven what to keep.
 
-**13 topics** (8 film-first · 5 also consider) + **3 balance-the-week** — each block opens with the walkaround line. Skim the list; expand only what you might film.
+# FedBuzz Producer Brief (enhanced review) — 2026-07-22
+
+**13 topics** (8 film-first · 5 also consider) + **5 evergreen for review** — same walkaround list as the live brief, with extra opens and evergreen seeds.
 
 ## This week’s news cycle
 
@@ -38,13 +40,15 @@ _Softer fit — worth a look if the list above is thin or these match your lane.
 12. Are federal employees still feeling last year's State Department RIF?
 13. Could your federal agency use a charge as an excuse to fire you, fed?
 
-## Balance the week
+## Evergreen for review
 
-_News is clustered this week. These money / retirement seeds are not breaking news — film one if you want a different lane._
+_Not in the live filming brief as a standing section — short money / retirement seeds. Film only if you want to test this lane._
 
 14. Are you leaving free TSP matching on the table?
 15. Feds — have you checked your FERS calculator this year?
 16. TSP funds explained — which one fits your timeline?
+17. USPS retirement benefits — what should postal workers verify now?
+18. Federal buyout on the table — what do you check before you sign?
 
 ---
 
@@ -129,6 +133,10 @@ _pass · news · federal_workforce · 33d ago_
 
 **Caution:** Do not speculate on layoff timelines or benefit cuts not stated in the source.
 
+**Audience-language opens (try these):**
+- What FERS retirement benefits are you actually counting on?
+- USPS retirement benefits — what postal workers need to verify
+
 <details>
 <summary>Original headline & context</summary>
 
@@ -192,6 +200,9 @@ _pass · news · career_security · 7d ago_
 **Question answered:** How do OPM staffing cuts affect federal employees' benefits and HR services?
 
 **Caution:** Avoid implying specific benefit delays without sourced confirmation — stick to capacity risk framing.
+
+**Audience-language opens (try these):**
+- What FERS retirement benefits are you actually counting on?
 
 <details>
 <summary>Original headline & context</summary>
@@ -289,6 +300,10 @@ _pass · news · retirement · 6d ago_
 
 **Caution:** Do not speculate on which states OPM recognizes for common-law marriage — that detail needs sourcing.
 
+**Audience-language opens (try these):**
+- Does your partner qualify for your FERS survivor annuity?
+- What FERS retirement benefits are you actually counting on?
+
 <details>
 <summary>Original headline & context</summary>
 
@@ -322,6 +337,9 @@ _review · news · retirement · 35d ago_
 **Question answered:** What does the $11 billion deferred resignation cost mean for federal employees?
 
 **Caution:** Avoid implying FERS retirement benefits are directly reduced — the $11B is program cost, not a benefit cut.
+
+**Audience-language opens (try these):**
+- What FERS retirement benefits are you actually counting on?
 
 <details>
 <summary>Original headline & context</summary>
@@ -386,6 +404,9 @@ _review · news · federal_workforce · 34d ago_
 **Question answered:** What does the USPS ballot-delivery threat actually mean for postal workers?
 
 **Caution:** Avoid taking a position on the policy; keep framing on operational impact to USPS employees only.
+
+**Audience-language opens (try these):**
+- USPS retirement benefits — what postal workers need to verify
 
 <details>
 <summary>Original headline & context</summary>
@@ -466,13 +487,13 @@ _review · news · career_security · 6d ago_
 
 ---
 
-## Balance the week — detail
+## Evergreen for review — detail
 
-_Not breaking news. Use when the news cycle is one theme and you want a different lane._
+_These are not in the live filming brief. Use them only while we test whether money / retirement explainers belong alongside news reaction._
 
 ### 14. Are you leaving free TSP matching on the table?
 
-_Balance-the-week seed — not breaking news._
+_Evergreen review — demand seed for testing this lane._
 
 **Question answered:** How does TSP matching work for federal employees this year?
 
@@ -484,7 +505,7 @@ _Balance-the-week seed — not breaking news._
 
 ### 15. Feds — have you checked your FERS calculator this year?
 
-_Balance-the-week seed — not breaking news._
+_Evergreen review — demand seed for testing this lane._
 
 **Question answered:** What should federal employees verify in a FERS retirement estimate?
 
@@ -496,11 +517,35 @@ _Balance-the-week seed — not breaking news._
 
 ### 16. TSP funds explained — which one fits your timeline?
 
-_Balance-the-week seed — not breaking news._
+_Evergreen review — demand seed for testing this lane._
 
 **Question answered:** How should federal employees choose among TSP funds?
 
 **Why it’s here:** Fund-choice explainers match how this audience researches investing.
+
+**Caution:** Confirm current OPM / TSP / USPS rules before filming — these are demand seeds, not legal advice.
+
+---
+
+### 17. USPS retirement benefits — what should postal workers verify now?
+
+_Evergreen review — demand seed for testing this lane._
+
+**Question answered:** What USPS retirement and health benefits should postal workers double-check?
+
+**Why it’s here:** Postal workers are a first-class slice of this audience.
+
+**Caution:** Confirm current OPM / TSP / USPS rules before filming — these are demand seeds, not legal advice.
+
+---
+
+### 18. Federal buyout on the table — what do you check before you sign?
+
+_Evergreen review — demand seed for testing this lane._
+
+**Question answered:** What should federal employees review before accepting a buyout?
+
+**Why it’s here:** Buyout / leave decisions sit next to job-feasibility news.
 
 **Caution:** Confirm current OPM / TSP / USPS rules before filming — these are demand seeds, not legal advice.
 
