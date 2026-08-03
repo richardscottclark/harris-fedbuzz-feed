@@ -1,11 +1,11 @@
 [How to read this brief](how-to-read.html)
 **Private:** Do not share this page link or the RSS feed URL outside the Harris producer team.
 
-**Review version:** Same topics as the live filming brief, plus audience-language opens and a short evergreen block. The live brief producers use day-to-day is unchanged — compare this page, then tell BuzzMaven what to keep.
+**Review version:** Same topics as the live filming brief, plus audience-language opens, department-trap angles from the gotcha probe, and a short evergreen block. The live brief producers use day-to-day is unchanged — compare this page, then tell BuzzMaven what to keep.
 
 # FedBuzz Producer Brief (enhanced review) — 2026-07-22
 
-**13 topics** (8 film-first · 5 also consider) + **5 evergreen for review** — same walkaround list as the live brief, with extra opens and evergreen seeds.
+**13 topics** (8 film-first · 5 also consider) + **7 department traps** + **5 evergreen** — same walkaround list as the live brief, with traps and evergreen for comparison.
 
 ## This week’s news cycle
 
@@ -40,15 +40,27 @@ _Softer fit — worth a look if the list above is thin or these match your lane.
 12. Are federal employees still feeling last year's State Department RIF?
 13. Could your federal agency use a charge as an excuse to fire you, fed?
 
+## Department traps for review
+
+_Not in the live filming brief. Agency-labeled news with a fed-only trap or gotcha — film only if the angle is sharper than the week’s reaction list._
+
+14. Arbitrator: HHS broke the CBA firing 5,000 probationary feds
+15. Arbitrator orders IRS telework back — but your CBA protection may differ
+16. Army speeds firing — does your appeal path still exist?
+17. Probationary feds: MSPB ruling may not end your appeal fight
+18. Arbitrator wins mean nothing if agency appeals — Forest Service trap
+19. Your VA telework IS your ADA accommodation — RTO can strip it
+20. Federal Circuit ruling could reshape DHS probationary workers' appeal rights
+
 ## Evergreen for review
 
 _Not in the live filming brief as a standing section — short money / retirement seeds. Film only if you want to test this lane._
 
-14. Are you leaving free TSP matching on the table?
-15. Feds — have you checked your FERS calculator this year?
-16. TSP funds explained — which one fits your timeline?
-17. USPS retirement benefits — what should postal workers verify now?
-18. Federal buyout on the table — what do you check before you sign?
+21. Are you leaving free TSP matching on the table?
+22. Feds — have you checked your FERS calculator this year?
+23. TSP funds explained — which one fits your timeline?
+24. USPS retirement benefits — what should postal workers verify now?
+25. Federal buyout on the table — what do you check before you sign?
 
 ---
 
@@ -56,7 +68,7 @@ _Not in the live filming brief as a standing section — short money / retiremen
 
 **Consider filming if:** Schedule F reclassification directly threatens job security for up to 8,000 career federal employees, stripping civil service protections a…
 
-_pass · news · retirement · 12d ago_
+_pass · news · retirement · 19d ago_
 
 [Read source](https://www.govexec.com/workforce/2026/07/more-50-dem-lawmakers-demand-more-schedule-f-transparency/414800/)
 
@@ -88,7 +100,7 @@ _pass · news · retirement · 12d ago_
 
 **Consider filming if:** An arbitrator ruling that directly restores telework rights for 20,000 Forest Service federal employees carries clear livelihood stakes — r…
 
-_pass · news · career_security · 6d ago_
+_pass · news · career_security · 13d ago_
 
 [Read source](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVRTcTg3OG5UM0tPMkJBZ1ZONkQ3a2pCV3BYOHhCdFdURld0eU1vVEpMdUx6N1cyZVNzTG95dVJXS3BHZE0zbVJTREltMFhYQ0pxRGhCaXZ1MlVCMjFLYjRObS1FQ0JHY0l3YWx6ZHRmdnlXbWpkYnYxb21kdnp5ZERia3hLT1ZoSFZ5eWVBeW1BaXFjQUN6U0lrT29VYkN2TFdJYWlFWG1mS2lvLUNxSEhRQlN3X2p1S2c?oc=5)
 
@@ -120,7 +132,7 @@ _pass · news · career_security · 6d ago_
 
 **Consider filming if:** USPS is seeking a federal subsidy to avoid a cash crisis — a direct livelihood signal for postal workers whose paychecks, FERS contribution…
 
-_pass · news · federal_workforce · 33d ago_
+_pass · news · federal_workforce · 40d ago_
 
 [Read source](https://news.google.com/rss/articles/CBMilgFBVV95cUxNTG5hLWt3eXMxVlE1V29LdURxSXhkMlhrN1AtcFZ3VlU1aklvVE9xdGxrTllsVktIN2Zrc3FKLVllMFByZi1ONVlSRC1sVENZVFdIT3RHQ2pSd1hiZEN5bEhoUkF3MFJvNGx2S3VZX29ZeEhCRXhabjY5Mm5DaGpHUHR6VE1SMkx3RnNnME5Md01tM3E5NlE?oc=5)
 
@@ -156,7 +168,7 @@ _pass · news · federal_workforce · 33d ago_
 
 **Consider filming if:** IRS workers who lost telework arrangements have a concrete win here — an arbitrator's ruling directly restores a working condition with rea…
 
-_pass · news · career_security · 7d ago_
+_pass · news · career_security · 14d ago_
 
 [Read source](https://news.google.com/rss/articles/CBMilAFBVV95cUxORnpaeWE2cTdhMlpzOGEzLTZJaVlHUlUtRjYtVFlIUHVkOXZsNGdpeHdOc2J4Ry1JbjdPcS1WR0tUZU95NXBpd0w4TmMyY2JIS29RTVF5UThMVGd6d0kyLU5GMXZ2clVlMTlsektWTDZqdklIdHJCWmpvVVhBV280Y2p0eDVlNnI2c0UzS0xpWU1mSEZw?oc=5)
 
@@ -188,7 +200,7 @@ _pass · news · career_security · 7d ago_
 
 **Consider filming if:** OPM shrinking by a third is direct livelihood news for federal employees — OPM administers FERS benefits, FEHB enrollment, and workforce po…
 
-_pass · news · career_security · 7d ago_
+_pass · news · career_security · 14d ago_
 
 [Read source](https://news.google.com/rss/articles/CBMirgFBVV95cUxOWU9LNWo0ZXh5cWp0RjlDeW0waEFyUDdjWWgtUDAwa1ZkMjVXMVh4bWdFWkdoM2RYeWxIYWVIaXRFT3ZUTTU3N3Rqb1ctSXVZbXEwYlh1MXhKb1haZjNaTG9HR2pMSFVNT3k0T05WREtSSkswVy1ZZzQzUFR0d053RTlKQUE5ZGlDRE5idEpxN09wRlN2X1NqdVkwUy13ejJjYnlEeUl5V1pLMXM4QkE?oc=5)
 
@@ -223,7 +235,7 @@ _pass · news · career_security · 7d ago_
 
 **Consider filming if:** Federal employees and contractors now have a concrete, near-term protection change to track — the bill closes a retaliation loophole that d…
 
-_pass · news · career_security · 6d ago_
+_pass · news · career_security · 13d ago_
 
 [Read source](https://federalnewsnetwork.com/federal-newscast/2026/07/house-passes-bill-expanding-whistleblower-protections/)
 
@@ -255,7 +267,7 @@ _pass · news · career_security · 6d ago_
 
 **Consider filming if:** Probationary federal employees at DHS and Interior are contesting an MSPB ruling that strips the board of jurisdiction to review their firi…
 
-_pass · news · career_security · 6d ago_
+_pass · news · career_security · 13d ago_
 
 [Read source](https://federalnewsnetwork.com/workforce-rightsgovernance/2026/07/fired-dhs-interior-probationary-workers-challenge-mspb-ruling/)
 
@@ -287,7 +299,7 @@ _pass · news · career_security · 6d ago_
 
 **Consider filming if:** A federal appeals court rejected a FERS survivor annuity claim based on a common-law marriage argument — directly relevant to any FERS-cove…
 
-_pass · news · retirement · 6d ago_
+_pass · news · retirement · 13d ago_
 
 [Read source](https://www.fedsmith.com/2026/07/21/calling-him-husband-wasnt-enough-for-widows-annuity-claim/)
 
@@ -325,7 +337,7 @@ _pass · news · retirement · 6d ago_
 
 **Consider filming if:** The $11 billion deferred resignation figure carries real livelihood stakes for federal employees weighing whether to take a buyout or stay …
 
-_review · news · retirement · 35d ago_
+_review · news · retirement · 42d ago_
 
 [Read source](https://news.google.com/rss/articles/CBMitwFBVV95cUxQMnFLNldhX21hbXZWMVRVcFgzeXB1TkFwWXlGemxNRUxadzFzejJMdlJMZnJ1ZVk1SFJBNXdBVDJacFEyVmVnRV95amYyak9xQWkwTDZkSWNOOXhVOGtPNDdHSk5NcXJyU3VkSHUwMEpIc3Rwa3lWb2gyUkVvaThjTC0zbG9BNzA3OXJCaXdlM3hDMlgtekdUZXgzOEpCOWFaNUNTQXd1VXFnNndEdGpud1h2WTFvYms?oc=5)
 
@@ -360,7 +372,7 @@ _review · news · retirement · 35d ago_
 
 **Consider filming if:** OPM scrapping the centralized Federal Employee Viewpoint Survey removes a key accountability tool that feds have used to signal workplace p…
 
-_review · news · career_security · 12d ago_
+_review · news · career_security · 19d ago_
 
 [Read source](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSF9qZ1k5X1o1Z2tMSUktNGpzQW1fQnBybk1yM2Y4cmFIQUJtOWFha0thYjhkendHdkxBUnVYU2dJWWtwN0YyTU5ZWHU3WnB3UWNEQnRiWmwxWlhfam1DMjk4UnFsekdLQlRYUjdwWU1xTWM3Zzc5M3lmMFFFdzJCcXRqQlNqLXA5Zzg4a2oyckVINWJsOXhkU0pQZGl3bV8zSmg3aTd0TDVNZ2R3SnFYS3piSXVuMlNBazFUYTZsVzFzS1BCcDF4TVRB?oc=5)
 
@@ -392,7 +404,7 @@ _review · news · career_security · 12d ago_
 
 **Consider filming if:** The story puts USPS workers at the center of a politically charged operational directive — postal employees may face real questions about t…
 
-_review · news · federal_workforce · 34d ago_
+_review · news · federal_workforce · 41d ago_
 
 [Read source](https://news.google.com/rss/articles/CBMipgFBVV95cUxQa01oaGRXYU1kLU9uc2N5RlZHWFRQdnRLNW5hdlpQSHBBUFdzSk93U2lud09EOXlnN3BLYUlpUDBSZzZWeXRLallELXlQNmhGOWM0MUpJYmNNZVNrY2FYT0M3Q3dac1FKOVFLSG95WTVmY2hFN0lJMXpVcnZUQlhwN1h1MXJxZUVObW5kQndkay1INFNfa29EMjFzbjBDVkV0SVFQLThB0gGrAUFVX3lxTE9PMWxNRWtOUU1mX2ZmRFFxYmxJTHpjbXotbnJfeUQ5RThBR0tWNFlmWkk2Ui1HQXlVSVFaSFR3V29INUNPaGtva3FKRk0xLXRDanRVS09fa3JkUlRpWEEzRlQ1U1NULXJjVDRiSWNJTVFzcHZWdDRjRVd4bWp4QnppNHZyYnpnTzAzYnZjbmJ4SDhKLW9oRDVIT0QxQTRhUDZlMWFSQS14cXJjNA?oc=5)
 
@@ -427,7 +439,7 @@ _review · news · federal_workforce · 34d ago_
 
 **Consider filming if:** The one-year anniversary angle gives former State Department feds and current civil servants a concrete reason to engage — job loss, expert…
 
-_review · news · retirement · 11d ago_
+_review · news · retirement · 18d ago_
 
 [Read source](https://federalnewsnetwork.com/workforce/2026/07/laid-off-federal-employees-spotlight-lasting-impacts-of-state-dept-rif/)
 
@@ -459,7 +471,7 @@ _review · news · retirement · 11d ago_
 
 **Consider filming if:** Federal employees facing misconduct charges may wonder whether an agency can use a conduct charge as cover for a termination it wanted for …
 
-_review · news · career_security · 6d ago_
+_review · news · career_security · 13d ago_
 
 [Read source](https://www.fedweek.com/fedweek/court-says-charge-against-employee-was-not-pretext-for-termination/)
 
@@ -487,11 +499,141 @@ _review · news · career_security · 6d ago_
 
 ---
 
+## Department traps for review — detail
+
+_From latest `departments` gotcha probe (2026-08-03). Not in the live filming brief._
+
+### 14. Arbitrator: HHS broke the CBA firing 5,000 probationary feds
+
+_Department / agency trap — review only. Not in the live filming brief._
+
+**Gotcha:** Probationary feds fired in bulk may have CBA-backed arbitration rights that MSPB appeal rights alone wouldn't cover — but the remedy (reinstatement vs. money vs. nothing) depends on arbitrator orders civilian severance cases never face.
+
+**Question answered:** Does an arbitration win actually get probationary employees their jobs or back pay?
+
+**Considerations:** status_probation_mspb_schedule, labor_no_strike
+
+**Evidence ask:** Pull the arbitration decision: what remedy was ordered — reinstatement, back pay, or declaratory only? Confirm NTEU's CBA coverage scope for HHS probationaries and whether the agency has appealed to FLRA.
+
+[Read source](https://federalnewsnetwork.com/workforce-rightsgovernance/2026/07/hhs-violated-5000-probationary-employees-rights-with-2025-terminations/)
+
+**Caution:** Confirm the rule or ruling before filming — these are AI-suggested traps, not legal advice.
+
+---
+
+### 15. Arbitrator orders IRS telework back — but your CBA protection may differ
+
+_Department / agency trap — review only. Not in the live filming brief._
+
+**Gotcha:** An arbitration win for NTEU only binds the IRS under that specific CBA — feds at agencies without a controlling telework provision in their union contract get zero coverage from this ruling.
+
+**Question answered:** Does your union contract actually protect your telework, or just recommend it?
+
+**Considerations:** admin_vs_market_workplace
+
+**Evidence ask:** Pull the NTEU-IRS CBA telework clause and OPM's current governmentwide telework guidance to compare; confirm the 30-day appeal window and whether the agency files with FLRA or federal court.
+
+[Read source](https://federalnewsnetwork.com/workforce/2026/07/irs-return-to-office-orders-violated-union-agreement-arbitrator-rules/)
+
+**Caution:** Confirm the rule or ruling before filming — these are AI-suggested traps, not legal advice.
+
+---
+
+### 16. Army speeds firing — does your appeal path still exist?
+
+_Department / agency trap — review only. Not in the live filming brief._
+
+**Gotcha:** A 'sped-up' removal process may compress or bypass the standard MSPB appeal timeline competitive-service employees assume they have — and status determines everything.
+
+**Question answered:** Which Army civilian employees have lost which removal appeal rights under this?
+
+**Considerations:** status_probation_mspb_schedule
+
+**Evidence ask:** Confirm whether Army policy change alters the notice period, proposing-official step, or Douglas-factors review required under 5 USC Chapter 75; verify which appointment types (competitive, excepted, probationary) are affected and what MSPB appeal window, if any, survives.
+
+[Read source](https://federalnewsnetwork.com/army/2026/07/army-speeds-firing-process-for-civilian-employees/)
+
+**Caution:** Confirm the rule or ruling before filming — these are AI-suggested traps, not legal advice.
+
+---
+
+### 17. Probationary feds: MSPB ruling may not end your appeal fight
+
+_Department / agency trap — review only. Not in the live filming brief._
+
+**Gotcha:** Probationary federal employees may assume a dismissed MSPB case closes all doors — but the ongoing litigation means appeal rights and rehire eligibility are still legally unsettled, and acting prematurely could forfeit options.
+
+**Question answered:** If MSPB dismissed your case, do you still have a legal path?
+
+**Considerations:** status_probation_mspb_schedule
+
+**Evidence ask:** Confirm current MSPB jurisdictional ruling on probationary employees, any court orders on reinstatement, and whether OPM/agency-specific rehire bars attach upon resignation or voluntary separation during the dispute window.
+
+[Read source](https://federalnewsnetwork.com/workforce-rightsgovernance/2026/07/fired-dhs-interior-probationary-workers-challenge-mspb-ruling/)
+
+**Caution:** Confirm the rule or ruling before filming — these are AI-suggested traps, not legal advice.
+
+---
+
+### 18. Arbitrator wins mean nothing if agency appeals — Forest Service trap
+
+_Department / agency trap — review only. Not in the live filming brief._
+
+**Gotcha:** An arbitration order against a federal agency is not self-executing — the agency can appeal to FLRA or in federal court, meaning employees who act on the ruling before it's final risk telework-agreement violations or PCS-duty-station complications.
+
+**Question answered:** Should Forest Service employees assume telework is restored before appeal deadline passes?
+
+**Considerations:** admin_vs_market_workplace, life_family_telework_compliance
+
+**Evidence ask:** Confirm CBA appeal window and whether FLRA stay rules pause the order's effect; check if any interim guidance from Forest Service HR restores telework agreements in writing before filming.
+
+[Read source](https://federalnewsnetwork.com/workforce/2026/07/arbitrator-orders-forest-service-to-roll-back-return-to-office-requirements/)
+
+**Caution:** Confirm the rule or ruling before filming — these are AI-suggested traps, not legal advice.
+
+---
+
+### 19. Your VA telework IS your ADA accommodation — RTO can strip it
+
+_Department / agency trap — review only. Not in the live filming brief._
+
+**Gotcha:** Federal employees whose telework was formally approved as a Reasonable Accommodation under the Rehabilitation Act face a different — and higher — legal bar for RTO removal than standard telework agreement holders, but many don't know to invoke that distinct process through their agency's RA coordinator rather than fighting it as a plain telework policy dispute.
+
+**Question answered:** If RTO revokes your disability accommodation, what federal process protects you?
+
+**Considerations:** admin_vs_market_workplace, status_probation_mspb_schedule
+
+**Evidence ask:** Verify: OPM/EEOC joint guidance on Reasonable Accommodation vs. standard telework agreements under the Rehabilitation Act; confirm whether agencies are treating RA-based telework as ordinary telework subject to EO RTO mandate, and what the formal reconsideration/appeal path is (EEOC complaint, MSPB, or grievance) — do not assert outcomes on camera without sourcing.
+
+[Read source](https://www.govexec.com/workforce/2026/07/disabled-veterans-losing-telework-accommodations-harder-working-va/414626/)
+
+**Caution:** Confirm the rule or ruling before filming — these are AI-suggested traps, not legal advice.
+
+---
+
+### 20. Federal Circuit ruling could reshape DHS probationary workers' appeal rights
+
+_Department / agency trap — review only. Not in the live filming brief._
+
+**Gotcha:** If the Federal Circuit rules probationary status strips MSPB access, DHS probationaries fired during this window may have no practical appeal path — a trap generic 'know your rights' advice completely misses.
+
+**Question answered:** What appeal rights — if any — do DHS probationary feds actually have right now?
+
+**Considerations:** status_probation_mspb_schedule
+
+**Evidence ask:** Pull the Federal Circuit docket on DHS Probationary Employees 1 Class v. DHS; confirm current stay status, what relief was denied or granted, and whether OPM's termination rationale (RIF vs performance) affects which appeal channel, if any, remains open.
+
+[Read source](https://www.theusconstitution.org/litigation/dhs-probationary-employees-1-class-v-department-of-homeland-security/)
+
+**Caution:** Confirm the rule or ruling before filming — these are AI-suggested traps, not legal advice.
+
+---
+
 ## Evergreen for review — detail
 
 _These are not in the live filming brief. Use them only while we test whether money / retirement explainers belong alongside news reaction._
 
-### 14. Are you leaving free TSP matching on the table?
+### 21. Are you leaving free TSP matching on the table?
 
 _Evergreen review — demand seed for testing this lane._
 
@@ -503,7 +645,7 @@ _Evergreen review — demand seed for testing this lane._
 
 ---
 
-### 15. Feds — have you checked your FERS calculator this year?
+### 22. Feds — have you checked your FERS calculator this year?
 
 _Evergreen review — demand seed for testing this lane._
 
@@ -515,7 +657,7 @@ _Evergreen review — demand seed for testing this lane._
 
 ---
 
-### 16. TSP funds explained — which one fits your timeline?
+### 23. TSP funds explained — which one fits your timeline?
 
 _Evergreen review — demand seed for testing this lane._
 
@@ -527,7 +669,7 @@ _Evergreen review — demand seed for testing this lane._
 
 ---
 
-### 17. USPS retirement benefits — what should postal workers verify now?
+### 24. USPS retirement benefits — what should postal workers verify now?
 
 _Evergreen review — demand seed for testing this lane._
 
@@ -539,7 +681,7 @@ _Evergreen review — demand seed for testing this lane._
 
 ---
 
-### 18. Federal buyout on the table — what do you check before you sign?
+### 25. Federal buyout on the table — what do you check before you sign?
 
 _Evergreen review — demand seed for testing this lane._
 
