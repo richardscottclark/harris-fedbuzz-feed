@@ -49,7 +49,7 @@ _Not in the live filming brief. News about specific federal agencies, with a cle
 15. Arbitrator orders IRS telework back — but your CBA protection may differ
 16. Army speeds firing — does your appeal path still exist?
 17. Probationary feds: MSPB ruling may not end your appeal fight
-18. Arbitrator wins mean nothing if agency appeals — Forest Service trap
+18. Arbitrator wins mean nothing if agency appeals — Forest Service risk
 19. Your VA telework IS your ADA accommodation — RTO can strip it
 20. Federal Circuit ruling could reshape DHS probationary workers' appeal rights
 
@@ -576,7 +576,7 @@ _Fed Department Focus — review only. Not in the live filming brief._
 
 ---
 
-### 18. Arbitrator wins mean nothing if agency appeals — Forest Service trap
+### 18. Arbitrator wins mean nothing if agency appeals — Forest Service risk
 
 _Fed Department Focus — review only. Not in the live filming brief._
 
@@ -616,7 +616,7 @@ _Fed Department Focus — review only. Not in the live filming brief._
 
 _Fed Department Focus — review only. Not in the live filming brief._
 
-**Why it matters for feds:** If the Federal Circuit rules probationary status strips MSPB access, DHS probationaries fired during this window may have no practical appeal path — a trap generic 'know your rights' advice completely misses.
+**Why it matters for feds:** If the Federal Circuit rules probationary status strips MSPB access, DHS probationaries fired during this window may have no practical appeal path — a risk generic 'know your rights' advice completely misses.
 
 **Question answered:** What appeal rights — if any — do DHS probationary feds actually have right now?
 
