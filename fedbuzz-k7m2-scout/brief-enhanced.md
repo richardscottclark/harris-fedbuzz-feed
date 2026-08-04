@@ -2,11 +2,11 @@
 **Test version, feedback wanted**
 **Private:** Do not share this page link or the RSS feed URL outside the Harris producer team.
 
-**Review version:** Same topics as the live filming brief, plus audience-language opens, department-trap angles from the gotcha probe, and a short evergreen block. The live brief producers use day-to-day is unchanged — compare this page, then tell BuzzMaven what to keep.
+**Review version:** Same topics as the live filming brief, plus alternate opens, a Fed Department Focus section, and a short evergreen block. The live brief producers use day-to-day is unchanged — compare this page, then tell BuzzMaven what to keep.
 
 # FedBuzz Producer Brief (enhanced review) — 2026-07-22
 
-**13 topics** (8 film-first · 5 also consider) + **7 department traps** + **5 evergreen** — same walkaround list as the live brief, with traps and evergreen for comparison.
+**13 topics** (8 film-first · 5 also consider) + **7 Fed Department Focus** + **5 evergreen** — same main list as the live brief, plus Fed Department Focus and evergreen for comparison.
 
 ## This week’s news cycle
 
@@ -41,9 +41,9 @@ _Softer fit — worth a look if the list above is thin or these match your lane.
 12. Are federal employees still feeling last year's State Department RIF?
 13. Could your federal agency use a charge as an excuse to fire you, fed?
 
-## Department traps for review
+## Fed Department Focus
 
-_Not in the live filming brief. Agency-labeled news with a fed-only trap or gotcha — film only if the angle is sharper than the week’s reaction list._
+_Not in the live filming brief. News about specific federal agencies, with a clear angle for federal employees. Use these if they are stronger than the week’s main list._
 
 14. Arbitrator: HHS broke the CBA firing 5,000 probationary feds
 15. Arbitrator orders IRS telework back — but your CBA protection may differ
@@ -500,133 +500,133 @@ _review · news · career_security · 14d ago_
 
 ---
 
-## Department traps for review — detail
+## Fed Department Focus — detail
 
-_From latest `departments` gotcha probe (2026-08-03). Not in the live filming brief._
+_From the latest federal-department news scan (2026-08-03). Not in the live filming brief._
 
 ### 14. Arbitrator: HHS broke the CBA firing 5,000 probationary feds
 
-_Department / agency trap — review only. Not in the live filming brief._
+_Fed Department Focus — review only. Not in the live filming brief._
 
-**Gotcha:** Probationary feds fired in bulk may have CBA-backed arbitration rights that MSPB appeal rights alone wouldn't cover — but the remedy (reinstatement vs. money vs. nothing) depends on arbitrator orders civilian severance cases never face.
+**Why it matters for feds:** Probationary feds fired in bulk may have CBA-backed arbitration rights that MSPB appeal rights alone wouldn't cover — but the remedy (reinstatement vs. money vs. nothing) depends on arbitrator orders civilian severance cases never face.
 
 **Question answered:** Does an arbitration win actually get probationary employees their jobs or back pay?
 
-**Considerations:** status_probation_mspb_schedule, labor_no_strike
+**Related themes:** status_probation_mspb_schedule, labor_no_strike
 
-**Evidence ask:** Pull the arbitration decision: what remedy was ordered — reinstatement, back pay, or declaratory only? Confirm NTEU's CBA coverage scope for HHS probationaries and whether the agency has appealed to FLRA.
+**Check before filming:** Pull the arbitration decision: what remedy was ordered — reinstatement, back pay, or declaratory only? Confirm NTEU's CBA coverage scope for HHS probationaries and whether the agency has appealed to FLRA.
 
 [Read source](https://federalnewsnetwork.com/workforce-rightsgovernance/2026/07/hhs-violated-5000-probationary-employees-rights-with-2025-terminations/)
 
-**Caution:** Confirm the rule or ruling before filming — these are AI-suggested traps, not legal advice.
+**Caution:** Confirm the current rule or ruling before filming. These are suggestions, not legal advice.
 
 ---
 
 ### 15. Arbitrator orders IRS telework back — but your CBA protection may differ
 
-_Department / agency trap — review only. Not in the live filming brief._
+_Fed Department Focus — review only. Not in the live filming brief._
 
-**Gotcha:** An arbitration win for NTEU only binds the IRS under that specific CBA — feds at agencies without a controlling telework provision in their union contract get zero coverage from this ruling.
+**Why it matters for feds:** An arbitration win for NTEU only binds the IRS under that specific CBA — feds at agencies without a controlling telework provision in their union contract get zero coverage from this ruling.
 
 **Question answered:** Does your union contract actually protect your telework, or just recommend it?
 
-**Considerations:** admin_vs_market_workplace
+**Related themes:** admin_vs_market_workplace
 
-**Evidence ask:** Pull the NTEU-IRS CBA telework clause and OPM's current governmentwide telework guidance to compare; confirm the 30-day appeal window and whether the agency files with FLRA or federal court.
+**Check before filming:** Pull the NTEU-IRS CBA telework clause and OPM's current governmentwide telework guidance to compare; confirm the 30-day appeal window and whether the agency files with FLRA or federal court.
 
 [Read source](https://federalnewsnetwork.com/workforce/2026/07/irs-return-to-office-orders-violated-union-agreement-arbitrator-rules/)
 
-**Caution:** Confirm the rule or ruling before filming — these are AI-suggested traps, not legal advice.
+**Caution:** Confirm the current rule or ruling before filming. These are suggestions, not legal advice.
 
 ---
 
 ### 16. Army speeds firing — does your appeal path still exist?
 
-_Department / agency trap — review only. Not in the live filming brief._
+_Fed Department Focus — review only. Not in the live filming brief._
 
-**Gotcha:** A 'sped-up' removal process may compress or bypass the standard MSPB appeal timeline competitive-service employees assume they have — and status determines everything.
+**Why it matters for feds:** A 'sped-up' removal process may compress or bypass the standard MSPB appeal timeline competitive-service employees assume they have — and status determines everything.
 
 **Question answered:** Which Army civilian employees have lost which removal appeal rights under this?
 
-**Considerations:** status_probation_mspb_schedule
+**Related themes:** status_probation_mspb_schedule
 
-**Evidence ask:** Confirm whether Army policy change alters the notice period, proposing-official step, or Douglas-factors review required under 5 USC Chapter 75; verify which appointment types (competitive, excepted, probationary) are affected and what MSPB appeal window, if any, survives.
+**Check before filming:** Confirm whether Army policy change alters the notice period, proposing-official step, or Douglas-factors review required under 5 USC Chapter 75; verify which appointment types (competitive, excepted, probationary) are affected and what MSPB appeal window, if any, survives.
 
 [Read source](https://federalnewsnetwork.com/army/2026/07/army-speeds-firing-process-for-civilian-employees/)
 
-**Caution:** Confirm the rule or ruling before filming — these are AI-suggested traps, not legal advice.
+**Caution:** Confirm the current rule or ruling before filming. These are suggestions, not legal advice.
 
 ---
 
 ### 17. Probationary feds: MSPB ruling may not end your appeal fight
 
-_Department / agency trap — review only. Not in the live filming brief._
+_Fed Department Focus — review only. Not in the live filming brief._
 
-**Gotcha:** Probationary federal employees may assume a dismissed MSPB case closes all doors — but the ongoing litigation means appeal rights and rehire eligibility are still legally unsettled, and acting prematurely could forfeit options.
+**Why it matters for feds:** Probationary federal employees may assume a dismissed MSPB case closes all doors — but the ongoing litigation means appeal rights and rehire eligibility are still legally unsettled, and acting prematurely could forfeit options.
 
 **Question answered:** If MSPB dismissed your case, do you still have a legal path?
 
-**Considerations:** status_probation_mspb_schedule
+**Related themes:** status_probation_mspb_schedule
 
-**Evidence ask:** Confirm current MSPB jurisdictional ruling on probationary employees, any court orders on reinstatement, and whether OPM/agency-specific rehire bars attach upon resignation or voluntary separation during the dispute window.
+**Check before filming:** Confirm current MSPB jurisdictional ruling on probationary employees, any court orders on reinstatement, and whether OPM/agency-specific rehire bars attach upon resignation or voluntary separation during the dispute window.
 
 [Read source](https://federalnewsnetwork.com/workforce-rightsgovernance/2026/07/fired-dhs-interior-probationary-workers-challenge-mspb-ruling/)
 
-**Caution:** Confirm the rule or ruling before filming — these are AI-suggested traps, not legal advice.
+**Caution:** Confirm the current rule or ruling before filming. These are suggestions, not legal advice.
 
 ---
 
 ### 18. Arbitrator wins mean nothing if agency appeals — Forest Service trap
 
-_Department / agency trap — review only. Not in the live filming brief._
+_Fed Department Focus — review only. Not in the live filming brief._
 
-**Gotcha:** An arbitration order against a federal agency is not self-executing — the agency can appeal to FLRA or in federal court, meaning employees who act on the ruling before it's final risk telework-agreement violations or PCS-duty-station complications.
+**Why it matters for feds:** An arbitration order against a federal agency is not self-executing — the agency can appeal to FLRA or in federal court, meaning employees who act on the ruling before it's final risk telework-agreement violations or PCS-duty-station complications.
 
 **Question answered:** Should Forest Service employees assume telework is restored before appeal deadline passes?
 
-**Considerations:** admin_vs_market_workplace, life_family_telework_compliance
+**Related themes:** admin_vs_market_workplace, life_family_telework_compliance
 
-**Evidence ask:** Confirm CBA appeal window and whether FLRA stay rules pause the order's effect; check if any interim guidance from Forest Service HR restores telework agreements in writing before filming.
+**Check before filming:** Confirm CBA appeal window and whether FLRA stay rules pause the order's effect; check if any interim guidance from Forest Service HR restores telework agreements in writing before filming.
 
 [Read source](https://federalnewsnetwork.com/workforce/2026/07/arbitrator-orders-forest-service-to-roll-back-return-to-office-requirements/)
 
-**Caution:** Confirm the rule or ruling before filming — these are AI-suggested traps, not legal advice.
+**Caution:** Confirm the current rule or ruling before filming. These are suggestions, not legal advice.
 
 ---
 
 ### 19. Your VA telework IS your ADA accommodation — RTO can strip it
 
-_Department / agency trap — review only. Not in the live filming brief._
+_Fed Department Focus — review only. Not in the live filming brief._
 
-**Gotcha:** Federal employees whose telework was formally approved as a Reasonable Accommodation under the Rehabilitation Act face a different — and higher — legal bar for RTO removal than standard telework agreement holders, but many don't know to invoke that distinct process through their agency's RA coordinator rather than fighting it as a plain telework policy dispute.
+**Why it matters for feds:** Federal employees whose telework was formally approved as a Reasonable Accommodation under the Rehabilitation Act face a different — and higher — legal bar for RTO removal than standard telework agreement holders, but many don't know to invoke that distinct process through their agency's RA coordinator rather than fighting it as a plain telework policy dispute.
 
 **Question answered:** If RTO revokes your disability accommodation, what federal process protects you?
 
-**Considerations:** admin_vs_market_workplace, status_probation_mspb_schedule
+**Related themes:** admin_vs_market_workplace, status_probation_mspb_schedule
 
-**Evidence ask:** Verify: OPM/EEOC joint guidance on Reasonable Accommodation vs. standard telework agreements under the Rehabilitation Act; confirm whether agencies are treating RA-based telework as ordinary telework subject to EO RTO mandate, and what the formal reconsideration/appeal path is (EEOC complaint, MSPB, or grievance) — do not assert outcomes on camera without sourcing.
+**Check before filming:** Verify: OPM/EEOC joint guidance on Reasonable Accommodation vs. standard telework agreements under the Rehabilitation Act; confirm whether agencies are treating RA-based telework as ordinary telework subject to EO RTO mandate, and what the formal reconsideration/appeal path is (EEOC complaint, MSPB, or grievance) — do not assert outcomes on camera without sourcing.
 
 [Read source](https://www.govexec.com/workforce/2026/07/disabled-veterans-losing-telework-accommodations-harder-working-va/414626/)
 
-**Caution:** Confirm the rule or ruling before filming — these are AI-suggested traps, not legal advice.
+**Caution:** Confirm the current rule or ruling before filming. These are suggestions, not legal advice.
 
 ---
 
 ### 20. Federal Circuit ruling could reshape DHS probationary workers' appeal rights
 
-_Department / agency trap — review only. Not in the live filming brief._
+_Fed Department Focus — review only. Not in the live filming brief._
 
-**Gotcha:** If the Federal Circuit rules probationary status strips MSPB access, DHS probationaries fired during this window may have no practical appeal path — a trap generic 'know your rights' advice completely misses.
+**Why it matters for feds:** If the Federal Circuit rules probationary status strips MSPB access, DHS probationaries fired during this window may have no practical appeal path — a trap generic 'know your rights' advice completely misses.
 
 **Question answered:** What appeal rights — if any — do DHS probationary feds actually have right now?
 
-**Considerations:** status_probation_mspb_schedule
+**Related themes:** status_probation_mspb_schedule
 
-**Evidence ask:** Pull the Federal Circuit docket on DHS Probationary Employees 1 Class v. DHS; confirm current stay status, what relief was denied or granted, and whether OPM's termination rationale (RIF vs performance) affects which appeal channel, if any, remains open.
+**Check before filming:** Pull the Federal Circuit docket on DHS Probationary Employees 1 Class v. DHS; confirm current stay status, what relief was denied or granted, and whether OPM's termination rationale (RIF vs performance) affects which appeal channel, if any, remains open.
 
 [Read source](https://www.theusconstitution.org/litigation/dhs-probationary-employees-1-class-v-department-of-homeland-security/)
 
-**Caution:** Confirm the rule or ruling before filming — these are AI-suggested traps, not legal advice.
+**Caution:** Confirm the current rule or ruling before filming. These are suggestions, not legal advice.
 
 ---
 
