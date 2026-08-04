@@ -4,24 +4,6 @@ BuzzMaven Reporting Engine - Client Confidential
 
 Where federal employees (including USPS) spend time online when they care about finances, retirement, and career planning.
 
-## How to use this page
-
-This is **audience research**, not the filming brief. Use it to pick language, platforms, and topic angles that already match how Feds talk and where they hang out.
-
-**Start here if you only have two minutes**
-
-1. Skim **What they Google** and **Questions they ask AI** for title / open language.
-2. Check **Websites** and **Reddit** for federal-specific hangouts (FedSmith, unions, r/USPS, r/fednews).
-3. Use **Who these Feds are** only for tone (mid-career, postal + civil service) — not as a targeting checklist.
-
-**Fed tilt (used in several tables)**
-
-**Fed tilt** = how much more this item shows up with *these* Feds than with a typical online crowd. Higher = more distinctive for this audience.
-
-- Example: Fed tilt 90 on r/USPS means postal workers in this group show up there far more than everyday internet users do.
-- It is **not** a quality grade, popularity contest, or “how many people” count.
-- A big site (YouTube, Amazon) can have a lower Fed tilt and still matter. Tilt answers “is this *especially* Fed?” not “is this big?”
-
 Mid-career federal and postal workers (ages 26–50 dominate) who research retirement systems, TSP decisions, and career stability. Sites and communities are highly federal-specific: FedSmith, Federal News Network, postal unions, r/USPS, r/fednews.
 
 ## How many Feds in this group
@@ -445,6 +427,24 @@ Microsoft, ChatGPT, Adobe, Zoom, Office.com, Grammarly, DocuSign, Okta, Coursera
 ### Lifestyle / entertainment / shopping (snapshot)
 
 Lifestyle: Zillow, NIH, TripAdvisor, Mayo Clinic, Realtor, Weather. Entertainment: YouTube, IMDb, Netflix, Spotify, NPR, PBS. Shopping: Amazon, eBay, Walmart, Etsy, Target, Costco. Sports: ESPN, MLB, NBA.
+
+## How to use this page
+
+This is **audience research**, not the filming brief. Use it to pick language, platforms, and topic angles that already match how Feds talk and where they hang out.
+
+**If you only have two minutes**
+
+1. Skim **What they Google** and **Questions they ask AI** for title / open language.
+2. Check **Websites** and **Reddit** for federal-specific hangouts (FedSmith, unions, r/USPS, r/fednews).
+3. Use **Who these Feds are** only for tone (mid-career, postal + civil service) — not as a targeting checklist.
+
+**Fed tilt (used in several tables)**
+
+**Fed tilt** = how much more this item shows up with *these* Feds than with a typical online crowd. Higher = more distinctive for this audience.
+
+- Example: Fed tilt 90 on r/USPS means postal workers in this group show up there far more than everyday internet users do.
+- It is **not** a quality grade, popularity contest, or “how many people” count.
+- A big site (YouTube, Amazon) can have a lower Fed tilt and still matter. Tilt answers “is this *especially* Fed?” not “is this big?”
 
 ---
 
