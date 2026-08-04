@@ -60,8 +60,8 @@ _Not in the live filming brief as a standing section — short money / retiremen
 21. Are you leaving free TSP matching on the table?
 22. Feds — have you checked your FERS calculator this year?
 23. TSP funds explained — which one fits your timeline?
-24. USPS retirement benefits — what should postal workers verify now?
-25. Federal buyout on the table — what do you check before you sign?
+24. TSP rollover options — stay in, roll out, or wait?
+25. Federal retirement planning — what should you verify this year?
 
 ---
 
@@ -670,25 +670,25 @@ _Evergreen review — demand seed for testing this lane._
 
 ---
 
-### 24. USPS retirement benefits — what should postal workers verify now?
+### 24. TSP rollover options — stay in, roll out, or wait?
 
 _Evergreen review — demand seed for testing this lane._
 
-**Question answered:** What USPS retirement and health benefits should postal workers double-check?
+**Question answered:** What TSP rollover options do federal employees have when they leave?
 
-**Why it’s here:** Postal workers are a first-class slice of this audience.
+**Why it’s here:** Rollover intent is a top search ask for this audience.
 
 **Caution:** Confirm current OPM / TSP / USPS rules before filming — these are demand seeds, not legal advice.
 
 ---
 
-### 25. Federal buyout on the table — what do you check before you sign?
+### 25. Federal retirement planning — what should you verify this year?
 
 _Evergreen review — demand seed for testing this lane._
 
-**Question answered:** What should federal employees review before accepting a buyout?
+**Question answered:** What should federal employees check in a retirement plan this year?
 
-**Why it’s here:** Buyout / leave decisions sit next to job-feasibility news.
+**Why it’s here:** Planning language matches how mid-career feds research exits.
 
 **Caution:** Confirm current OPM / TSP / USPS rules before filming — these are demand seeds, not legal advice.
 
