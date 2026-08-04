@@ -1,4 +1,5 @@
 [How to read this brief](how-to-read.html)
+**Test version, feedback wanted**
 **Private:** Do not share this page link or the RSS feed URL outside the Harris producer team.
 
 **Review version:** Same topics as the live filming brief, plus audience-language opens, department-trap angles from the gotcha probe, and a short evergreen block. The live brief producers use day-to-day is unchanged — compare this page, then tell BuzzMaven what to keep.
@@ -68,7 +69,7 @@ _Not in the live filming brief as a standing section — short money / retiremen
 
 **Consider filming if:** Schedule F reclassification directly threatens job security for up to 8,000 career federal employees, stripping civil service protections a…
 
-_pass · news · retirement · 19d ago_
+_pass · news · retirement · 20d ago_
 
 [Read source](https://www.govexec.com/workforce/2026/07/more-50-dem-lawmakers-demand-more-schedule-f-transparency/414800/)
 
@@ -100,7 +101,7 @@ _pass · news · retirement · 19d ago_
 
 **Consider filming if:** An arbitrator ruling that directly restores telework rights for 20,000 Forest Service federal employees carries clear livelihood stakes — r…
 
-_pass · news · career_security · 13d ago_
+_pass · news · career_security · 14d ago_
 
 [Read source](https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVRTcTg3OG5UM0tPMkJBZ1ZONkQ3a2pCV3BYOHhCdFdURld0eU1vVEpMdUx6N1cyZVNzTG95dVJXS3BHZE0zbVJTREltMFhYQ0pxRGhCaXZ1MlVCMjFLYjRObS1FQ0JHY0l3YWx6ZHRmdnlXbWpkYnYxb21kdnp5ZERia3hLT1ZoSFZ5eWVBeW1BaXFjQUN6U0lrT29VYkN2TFdJYWlFWG1mS2lvLUNxSEhRQlN3X2p1S2c?oc=5)
 
@@ -168,7 +169,7 @@ _pass · news · federal_workforce · 40d ago_
 
 **Consider filming if:** IRS workers who lost telework arrangements have a concrete win here — an arbitrator's ruling directly restores a working condition with rea…
 
-_pass · news · career_security · 14d ago_
+_pass · news · career_security · 15d ago_
 
 [Read source](https://news.google.com/rss/articles/CBMilAFBVV95cUxORnpaeWE2cTdhMlpzOGEzLTZJaVlHUlUtRjYtVFlIUHVkOXZsNGdpeHdOc2J4Ry1JbjdPcS1WR0tUZU95NXBpd0w4TmMyY2JIS29RTVF5UThMVGd6d0kyLU5GMXZ2clVlMTlsektWTDZqdklIdHJCWmpvVVhBV280Y2p0eDVlNnI2c0UzS0xpWU1mSEZw?oc=5)
 
@@ -200,7 +201,7 @@ _pass · news · career_security · 14d ago_
 
 **Consider filming if:** OPM shrinking by a third is direct livelihood news for federal employees — OPM administers FERS benefits, FEHB enrollment, and workforce po…
 
-_pass · news · career_security · 14d ago_
+_pass · news · career_security · 15d ago_
 
 [Read source](https://news.google.com/rss/articles/CBMirgFBVV95cUxOWU9LNWo0ZXh5cWp0RjlDeW0waEFyUDdjWWgtUDAwa1ZkMjVXMVh4bWdFWkdoM2RYeWxIYWVIaXRFT3ZUTTU3N3Rqb1ctSXVZbXEwYlh1MXhKb1haZjNaTG9HR2pMSFVNT3k0T05WREtSSkswVy1ZZzQzUFR0d053RTlKQUE5ZGlDRE5idEpxN09wRlN2X1NqdVkwUy13ejJjYnlEeUl5V1pLMXM4QkE?oc=5)
 
@@ -235,7 +236,7 @@ _pass · news · career_security · 14d ago_
 
 **Consider filming if:** Federal employees and contractors now have a concrete, near-term protection change to track — the bill closes a retaliation loophole that d…
 
-_pass · news · career_security · 13d ago_
+_pass · news · career_security · 14d ago_
 
 [Read source](https://federalnewsnetwork.com/federal-newscast/2026/07/house-passes-bill-expanding-whistleblower-protections/)
 
@@ -267,7 +268,7 @@ _pass · news · career_security · 13d ago_
 
 **Consider filming if:** Probationary federal employees at DHS and Interior are contesting an MSPB ruling that strips the board of jurisdiction to review their firi…
 
-_pass · news · career_security · 13d ago_
+_pass · news · career_security · 14d ago_
 
 [Read source](https://federalnewsnetwork.com/workforce-rightsgovernance/2026/07/fired-dhs-interior-probationary-workers-challenge-mspb-ruling/)
 
@@ -299,7 +300,7 @@ _pass · news · career_security · 13d ago_
 
 **Consider filming if:** A federal appeals court rejected a FERS survivor annuity claim based on a common-law marriage argument — directly relevant to any FERS-cove…
 
-_pass · news · retirement · 13d ago_
+_pass · news · retirement · 14d ago_
 
 [Read source](https://www.fedsmith.com/2026/07/21/calling-him-husband-wasnt-enough-for-widows-annuity-claim/)
 
@@ -372,7 +373,7 @@ _review · news · retirement · 42d ago_
 
 **Consider filming if:** OPM scrapping the centralized Federal Employee Viewpoint Survey removes a key accountability tool that feds have used to signal workplace p…
 
-_review · news · career_security · 19d ago_
+_review · news · career_security · 20d ago_
 
 [Read source](https://news.google.com/rss/articles/CBMiygFBVV95cUxOSF9qZ1k5X1o1Z2tMSUktNGpzQW1fQnBybk1yM2Y4cmFIQUJtOWFha0thYjhkendHdkxBUnVYU2dJWWtwN0YyTU5ZWHU3WnB3UWNEQnRiWmwxWlhfam1DMjk4UnFsekdLQlRYUjdwWU1xTWM3Zzc5M3lmMFFFdzJCcXRqQlNqLXA5Zzg4a2oyckVINWJsOXhkU0pQZGl3bV8zSmg3aTd0TDVNZ2R3SnFYS3piSXVuMlNBazFUYTZsVzFzS1BCcDF4TVRB?oc=5)
 
@@ -439,7 +440,7 @@ _review · news · federal_workforce · 41d ago_
 
 **Consider filming if:** The one-year anniversary angle gives former State Department feds and current civil servants a concrete reason to engage — job loss, expert…
 
-_review · news · retirement · 18d ago_
+_review · news · retirement · 19d ago_
 
 [Read source](https://federalnewsnetwork.com/workforce/2026/07/laid-off-federal-employees-spotlight-lasting-impacts-of-state-dept-rif/)
 
@@ -471,7 +472,7 @@ _review · news · retirement · 18d ago_
 
 **Consider filming if:** Federal employees facing misconduct charges may wonder whether an agency can use a conduct charge as cover for a termination it wanted for …
 
-_review · news · career_security · 13d ago_
+_review · news · career_security · 14d ago_
 
 [Read source](https://www.fedweek.com/fedweek/court-says-charge-against-employee-was-not-pretext-for-termination/)
 
