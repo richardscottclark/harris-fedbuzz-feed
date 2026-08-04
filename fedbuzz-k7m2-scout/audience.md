@@ -100,13 +100,13 @@ BuzzMaven Reporting Engine - Client Confidential
 
 ## Where they spend time online
 
-In the tables below, **Link to Feds** means how often that item shows up with federal employees in this report versus everyday internet users. Higher = more distinctive for these Feds. It is *not* a quality rating or a popularity contest.
+In the tables below, **Fed tilt** means how often that item shows up with federal employees in this report versus everyday internet users. Higher = more distinctive for these Feds. It is *not* a quality rating or a popularity contest.
 
 ### Social platforms they use
 
-Higher **Link to Feds** = this platform is used more by these Feds than by a typical online crowd.
+Higher **Fed tilt** = this platform is used more by these Feds than by a typical online crowd.
 
-| Platform | Link to Feds |
+| Platform | Fed tilt |
 | --- | ---: |
 | YouTube | 91 |
 | Facebook | 79 |
@@ -123,9 +123,9 @@ YouTube, Facebook, and Reddit lead. LinkedIn still matters for career topics.
 
 Federal news and postal-union sites beat broad money sites for these Feds.
 
-Higher **Link to Feds** = this site is visited more by these Feds than by a typical online crowd.
+Higher **Fed tilt** = this site is visited more by these Feds than by a typical online crowd.
 
-| Site | Link to Feds | What it is |
+| Site | Fed tilt | What it is |
 | --- | ---: | --- |
 | fedsmith.com | 70 | Federal workforce news |
 | federalnewsnetwork.com | 63 | Federal news |
@@ -171,9 +171,9 @@ Higher **Link to Feds** = this site is visited more by these Feds than by a typi
 
 ### News they read
 
-Higher **Link to Feds** = these Feds are more connected to this news outlet than a typical online crowd is.
+Higher **Fed tilt** = these Feds are more connected to this news outlet than a typical online crowd is.
 
-| Outlet | Link to Feds |
+| Outlet | Fed tilt |
 | --- | ---: |
 | govexec.com | 78 |
 | nextgov.com | 62 |
@@ -219,9 +219,9 @@ Federal outlets (GovExec, Nextgov) beat big national news brands for this group.
 
 ### Reddit communities they join
 
-**Members** is the size of the subreddit. Higher **Link to Feds** = these Feds show up there more than a typical online crowd does.
+**Members** is the size of the subreddit. Higher **Fed tilt** = these Feds show up there more than a typical online crowd does.
 
-| Subreddit | Members | Link to Feds |
+| Subreddit | Members | Fed tilt |
 | --- | ---: | ---: |
 | r/USPS | 182k | 90 |
 | r/fednews | 611k | 85 |
@@ -263,9 +263,9 @@ Top queries are FERS, CSRS, and TSP mechanics — calculators, matching, withdra
 
 ### What they Google
 
-**Link to Feds** = how closely this search phrase is tied to these Feds. **Searches per month** = about how often people search that phrase on Google (approximate).
+**Fed tilt** = how closely this search phrase is tied to these Feds. **Searches per month** = about how often people search that phrase on Google (approximate).
 
-| Search phrase | Link to Feds | Searches per month |
+| Search phrase | Fed tilt | Searches per month |
 | --- | ---: | ---: |
 | fers calculator | 100 | 3,100 |
 | fers retirement benefits | 99 | 2,700 |
@@ -292,9 +292,9 @@ Top queries are FERS, CSRS, and TSP mechanics — calculators, matching, withdra
 
 ### Questions they ask AI
 
-Higher **Link to Feds** = these Feds ask AI about this topic more than a typical online crowd does.
+Higher **Fed tilt** = these Feds ask AI about this topic more than a typical online crowd does.
 
-| Topic they ask about | Link to Feds |
+| Topic they ask about | Fed tilt |
 | --- | ---: |
 | FERS Retirement Benefits Overview | 95 |
 | TSP Investment Strategies for Retirement | 87 |
@@ -325,9 +325,9 @@ They often call themselves analysts, budget/finance people, postal workers, or c
 
 ### Finance apps and sites
 
-Higher **Link to Feds** = these Feds use this finance site/app more than a typical online crowd does.
+Higher **Fed tilt** = these Feds use this finance site/app more than a typical online crowd does.
 
-| Site / app | Link to Feds |
+| Site / app | Fed tilt |
 | --- | ---: |
 | vanguard.com | 49 |
 | schwab.com | 48 |
@@ -342,9 +342,9 @@ Higher **Link to Feds** = these Feds use this finance site/app more than a typic
 
 ### AI assistants
 
-Higher **Link to Feds** = these Feds use this tool more than a typical online crowd does.
+Higher **Fed tilt** = these Feds use this tool more than a typical online crowd does.
 
-| Tool | Link to Feds |
+| Tool | Fed tilt |
 | --- | ---: |
 | google.com | 96 |
 | chatgpt.com | 34 |
