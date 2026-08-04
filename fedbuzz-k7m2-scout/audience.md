@@ -4,17 +4,19 @@ BuzzMaven Reporting Engine - Client Confidential
 
 Where federal employees (including USPS) spend time online when they care about finances, retirement, and career planning.
 
-Mid-career federal and postal workers (ages 26–50 dominate) who research retirement systems, TSP decisions, and career stability. Sites and communities are highly federal-specific: FedSmith, Federal News Network, postal unions, r/USPS, r/fednews.
+This page is audience research for Harris walk-and-talk videos — not a headcount of every federal worker, and not a list of people who already watch your channel.
+
+Mid-career federal and postal workers (ages 26–50 dominate in this research) who look into retirement systems, TSP decisions, and career stability. Sites and communities are highly federal-specific: FedSmith, Federal News Network, postal unions, r/USPS, r/fednews.
 
 ## What they search and ask AI
 
-**What this is:** The phrases and topics this audience Googles or asks AI tools about — mostly FERS, CSRS, TSP, USPS benefits, and job security.
+**What this is:** Phrases and topics federal and postal workers in this research Google or ask AI tools about — mostly FERS, CSRS, TSP, USPS benefits, and job security.
 
-**How to use it:** Steal the *wording* for titles and cold opens. High Fed tilt + solid search volume = language Feds already use when they need an answer.
+**How to use it:** Steal the *wording* for titles and cold opens. High Fed tilt + solid search volume = language they already use when they need an answer.
 
 ### What they Google
 
-**Fed tilt** = how closely this search phrase is tied to these Feds (higher = more Fed-specific).
+**Fed tilt** = how closely this search phrase is tied to these workers (higher = more Fed-specific).
 
 **Searches per month** = approximate Google search volume for that phrase overall — not “searches by Feds only.”
 
@@ -45,9 +47,9 @@ Mid-career federal and postal workers (ages 26–50 dominate) who research retir
 
 ### Questions they ask AI
 
-**What this is:** Topics this audience tends to ask ChatGPT-style tools about, ranked by Fed tilt.
+**What this is:** Topics federal and postal workers in this research tend to ask ChatGPT-style tools about, ranked by Fed tilt.
 
-**How to use it:** Same as search — ready-made “question answered” lines for walk-and-talk. Prefer high-tilt FERS / TSP / buyout topics for FedBuzz; lower-tilt rows are still useful but less uniquely federal.
+**How to use it:** Same as search — ready-made “question answered” lines for walk-and-talk. Prefer high-tilt FERS / TSP / buyout topics; lower-tilt rows are still useful but less uniquely federal.
 
 | Topic they ask about | Fed tilt |
 | --- | ---: |
@@ -70,27 +72,33 @@ Mid-career federal and postal workers (ages 26–50 dominate) who research retir
 | Federal RIFs and Your Career | 28 |
 | Comparing TSP vs IRA Accounts | 27 |
 
-## How they describe themselves
+### AI assistants
 
-**What this is:** Words that show up in their social bios.
+**What this is:** Which AI / answer tools federal and postal workers in this research use more than a typical online crowd.
 
-**How to use it:** Mirror this language in titles and opens when it fits (“postal worker,” “civil servant,” “federal,” “budget”) so the video sounds like their world, not generic personal-finance talk.
+**How to use it:** Pair with **Questions they ask AI** above. Google at the top usually means search-first habits, not that ChatGPT is unused.
 
-Words that show up in their social bios: analyst, budget, program, financial, executive, policy, agency, postal, federal, government, postal service, civil servant, human resources, employee.
-
-They often call themselves analysts, budget/finance people, postal workers, or civil servants. Handy language for video titles and opens.
+| Tool | Fed tilt |
+| --- | ---: |
+| google.com | 96 |
+| chatgpt.com | 34 |
+| bing.com | 25 |
+| yahoo.com | 20 |
+| claude.ai | 15 |
+| gemini.google.com | 8 |
+| copilot.microsoft.com | 8 |
 
 ## Where they spend time online
 
-**What this is:** Platforms, sites, channels, outlets, and communities where this Fed audience shows up more than a typical online crowd.
+**What this is:** Platforms, sites, channels, outlets, and communities where federal and postal workers in this research show up more than a typical online crowd.
 
 **How to use it:** Prefer federal-niche hangouts for ideas and distribution hunches (FedSmith, union sites, r/fednews). Big consumer brands still matter for reach; check **Fed tilt** to see what is *especially* Fed.
 
-Remember: **Fed tilt** = more common among these Feds than among everyday internet users. Not a quality score.
+Remember: **Fed tilt** = more common among these workers than among everyday internet users. Not a quality score.
 
 ### Websites they visit
 
-**What this is:** Domains this audience visits more than a typical online crowd — federal news, unions, benefits, then general investing sites.
+**What this is:** Domains federal and postal workers in this research visits more than a typical online crowd — federal news, unions, benefits, then general investing sites.
 
 **How to use it:** Federal and postal-union sites are the “home field” for trust and topic ideas. Investing sites (Vanguard, Schwab) show money research habits, not that Feds only care about brokerage ads.
 
@@ -121,14 +129,14 @@ Remember: **Fed tilt** = more common among these Feds than among everyday intern
 
 ### Reddit communities they join
 
-**What this is:** Subreddits where this Fed audience shows up more than a typical online crowd.
+**What this is:** Subreddits where federal and postal workers in this research shows up more than a typical online crowd.
 
 **How to use it:** r/USPS and r/fednews are core Fed hangouts. Broader money subs (r/personalfinance, r/retirement) show the retirement / investing questions they also ask — useful for evergreen opens, with less Fed-only flavor.
 
 **Don’t confuse columns:**
 
 - **Members** = size of the whole subreddit.
-- **Fed tilt** = how distinctive that sub is for *these* Feds vs everyday users.
+- **Fed tilt** = how distinctive that sub is for *these workers* vs everyday users.
 
 | Subreddit | Members | Fed tilt |
 | --- | ---: | ---: |
@@ -149,9 +157,9 @@ Remember: **Fed tilt** = more common among these Feds than among everyday intern
 
 ### News they read
 
-**What this is:** News outlets this Fed audience connects to more than a typical online crowd.
+**What this is:** News outlets federal and postal workers in this research connects to more than a typical online crowd.
 
-**How to use it:** GovExec / Nextgov-style federal outlets beat big national brands *for this group*. National sites still get read; they’re just less distinctive here.
+**How to use it:** GovExec / Nextgov-style federal outlets beat big national brands *for federal and postal workers in this research*. National sites still get read; they’re just less distinctive here.
 
 | Outlet | Fed tilt |
 | --- | ---: |
@@ -170,11 +178,11 @@ Remember: **Fed tilt** = more common among these Feds than among everyday intern
 | politico.com | 15 |
 | bloomberg.com | 15 |
 
-Federal outlets (GovExec, Nextgov) beat big national news brands for this group.
+Federal outlets (GovExec, Nextgov) beat big national news brands for federal and postal workers in this research.
 
 ### Social platforms they use
 
-**What this is:** Which social platforms this Fed audience over-indexes on.
+**What this is:** Which social platforms federal and postal workers in this research over-indexes on.
 
 **How to use it:** YouTube / Facebook / Reddit are natural homes for this crowd. That does **not** mean “only film for YouTube” — it means those platforms are where Fed attention already clusters.
 
@@ -193,7 +201,7 @@ YouTube, Facebook, and Reddit lead. LinkedIn still matters for career topics.
 
 ### YouTube channels they watch
 
-**What this is:** Channels associated with this audience’s YouTube habits.
+**What this is:** Channels associated with federal and postal workers in this research’s YouTube habits.
 
 **How to use it:** See what kinds of finance / federal content already get attention. Federal News Network, OPM, AFGE, and letter-carrier channels sit next to big investing brands — both matter.
 
@@ -218,16 +226,16 @@ YouTube, Facebook, and Reddit lead. LinkedIn still matters for career topics.
 
 ### Social accounts they follow
 
-**What this is:** Public accounts whose followers overlap with people who look like these Feds.
+**What this is:** Public accounts whose followers overlap with people who look like these workers.
 
 **How to use it:** Federal media and agency accounts (@GovExec, @FederalNewsNet, etc.) are natural reference points for tone and topics.
 
 **Don’t confuse columns:**
 
 - **Followers** = total people following the account (overall size).
-- **% who look like these Feds** = estimated overlap between that account’s followers and this Fed audience. Higher % = the follower base looks more Fed-like — **not** “65% of all Feds follow this account.”
+- **% who look like these workers** = estimated overlap between that account’s followers and federal and postal workers in this research. Higher % = the follower base looks more Fed-like — **not** “65% of all Feds follow this account.”
 
-| Account | Followers | % who look like these Feds |
+| Account | Followers | % who look like these workers |
 | --- | ---: | ---: |
 | @GovExec | 52k | 65% |
 | @Nextgov | 27k | 59% |
@@ -250,9 +258,9 @@ YouTube, Facebook, and Reddit lead. LinkedIn still matters for career topics.
 
 ### Podcasts they listen to
 
-**What this is:** Shows associated with this audience, listed with the strongest Fed association first.
+**What this is:** Shows associated with federal and postal workers in this research, listed with the strongest Fed association first.
 
-**How to use it:** Federal retirement / benefits shows are the closest match for FedBuzz tone. Veteran and union shows are adjacent audiences, not the primary FedBuzz lane.
+**How to use it:** Federal retirement / benefits shows are the closest match for Harris walk-and-talk tone. Veteran and union shows are adjacent audiences, not the primary lane for these videos.
 
 **Episodes** = how many episodes the show has published (show size), not “how many Feds listen.”
 
@@ -271,13 +279,13 @@ YouTube, Facebook, and Reddit lead. LinkedIn still matters for career topics.
 
 Retirement and federal-benefits shows lead, then veteran and union career shows.
 
-## Who these Feds are
+## Who they are (estimates)
 
-**What this is:** Estimated makeup of people who look like federal / postal workers in this research (age, pay band, home, family, role labels, states).
+**What this is:** Estimated makeup of people who **match this research** (age, pay band, home, family, role labels, states) — online profile signals, not an HR roster of all federal employees.
 
 **How to use it:** Write for mid-career adults with jobs, benefits, and family stakes — not college freshmen and not only DC lobbyists. Postal / mail roles belong in the mix on purpose.
 
-**Don’t overread:** These are modeled estimates from public online signals, not an HR roster. Role names like “Finance” or “Staff” are how people describe themselves online, not official job series codes.
+**Don’t overread:** These shares describe the research match, not all ~2.7M workers. Role names like “Finance” or “Staff” are how people describe themselves online, not official job series codes.
 
 | Metric | Value | Note |
 | --- | ---: | --- |
@@ -290,7 +298,7 @@ Retirement and federal-benefits shows lead, then veteran and union career shows.
 
 ### Age
 
-Share of this audience in each age band (adds toward 100%).
+Share of federal and postal workers in this research in each age band (adds toward 100%).
 
 | Age | Share |
 | --- | ---: |
@@ -302,7 +310,7 @@ Share of this audience in each age band (adds toward 100%).
 
 ### Salary
 
-Estimated household / personal pay bands for this audience — directionally useful, not a GS table.
+Estimated household / personal pay bands for federal and postal workers in this research — directionally useful, not a GS table.
 
 | Salary band | Share |
 | --- | ---: |
@@ -314,7 +322,7 @@ Estimated household / personal pay bands for this audience — directionally use
 
 ### Top roles
 
-How people in this audience describe their work online. USPS / mail roles appearing here is a feature, not noise.
+How people in federal and postal workers in this research describe their work online. USPS / mail roles appearing here is a feature, not noise.
 
 | Role | Share |
 | --- | ---: |
@@ -325,11 +333,11 @@ How people in this audience describe their work online. USPS / mail roles appear
 | Budget analyst | 9% |
 | Rural mail carrier | 4% |
 
-USPS roles show up in this group.
+USPS roles show up in this research.
 
 ### Geography
 
-**Audience share** = share of *this Fed audience* in that state. **US population share** = that state’s share of the whole country. When audience share is much higher than US share (DC, MD, VA), Feds are concentrated there relative to the general public.
+**Audience share** = share of *federal and postal workers in this research* in that state. **US population share** = that state’s share of the whole country. When audience share is much higher than US share (DC, MD, VA), Feds are concentrated there relative to the general public.
 
 | State | Audience share | US population share |
 | --- | ---: | ---: |
@@ -369,29 +377,30 @@ Top majors: finance, accounting, management, business administration, economics,
 
 BuzzMaven Reporting Engine - Client Confidential
 
-## How many Feds in this group
+## Federal + postal workforce size
 
-**What this is:** A rough size estimate of the federal + postal workforce pool this research describes — not “Harris clients” and not people who already watch FedBuzz.
+**What this is:** A rough size of the **U.S. federal civilian + Postal Service workforce** — official labor stats, used only for scale.
 
-**How to use it:** Context only (“this is a large pool”). Do not treat $547M as revenue or as a budget number.
+**What this is not:** It is **not** “how many people are in this research,” not Harris clients, and not your channel’s audience size. The online research below describes *behavior patterns* among people who look like federal/postal workers; it does not count 2.7M named individuals.
+
+**How to use it:** Context only (“this is a large pool”). Do not treat the dollar figure as revenue or as a budget number.
 
 | Metric | Value | Note |
 | --- | ---: | --- |
-| Estimated population | 2.7M | OPM FedScope civilians + BLS Postal Service |
-| Year-over-year growth | +2.1% | |
-| Estimated annual market value | $547M | Assumes about $200 per person on finance / retirement planning |
+| Estimated workforce | ~2.7M | ~2.0–2.1M federal civilians (OPM) + ~0.6M Postal Service (BLS). Civilian headcount moves; OPM’s public total was about 2.03M as of May 2026. |
+| Estimated annual market value | $547M | Model only: about $200 per worker per year on finance / retirement planning. Not measured spend. |
 
-Market size is an estimate, not a census count. The dollar figure multiplies headcount by an assumed spend on finance / retirement planning — useful for scale, not for forecasting.
+**Accuracy notes:** The workforce total is in the right ballpark as a *pool size*. The old “+2.1% year-over-year” line was dropped — it came from a market model, not OPM, and does not match the 2025 federal workforce shrinkage in official data. $547M is an assumption (headcount × $200), not a forecast.
 
 ## Apps and tools they use
 
-**What this is:** Finance sites, AI tools, and everyday apps this audience uses more than a typical online crowd (or that show up in their stack).
+**What this is:** Finance sites and everyday apps federal and postal workers in this research use more than a typical online crowd.
 
-**How to use it:** They already live in Vanguard / Schwab / spreadsheet land and light AI use. Don’t assume exotic tools. Google still dominates “ask a question” behavior vs ChatGPT alone.
+**How to use it:** They already live in Vanguard / Schwab / spreadsheet land. Don’t assume exotic tools. (AI assistants are listed higher, next to search intent.)
 
 ### Finance apps and sites
 
-Higher **Fed tilt** = these Feds use this finance site/app more than a typical online crowd does.
+Higher **Fed tilt** = these workers use this finance site/app more than a typical online crowd does.
 
 | Site / app | Fed tilt |
 | --- | ---: |
@@ -406,20 +415,6 @@ Higher **Fed tilt** = these Feds use this finance site/app more than a typical o
 | intuit.com | 17 |
 | fidelity.com | 15 |
 
-### AI assistants
-
-Higher **Fed tilt** = these Feds use this tool more than a typical online crowd does. Google at the top usually means search-first habits, not that ChatGPT is unused.
-
-| Tool | Fed tilt |
-| --- | ---: |
-| google.com | 96 |
-| chatgpt.com | 34 |
-| bing.com | 25 |
-| yahoo.com | 20 |
-| claude.ai | 15 |
-| gemini.google.com | 8 |
-| copilot.microsoft.com | 8 |
-
 ### Productivity (top)
 
 Microsoft, ChatGPT, Adobe, Zoom, Office.com, Grammarly, DocuSign, Okta, Coursera.
@@ -428,21 +423,31 @@ Microsoft, ChatGPT, Adobe, Zoom, Office.com, Grammarly, DocuSign, Okta, Coursera
 
 Lifestyle: Zillow, NIH, TripAdvisor, Mayo Clinic, Realtor, Weather. Entertainment: YouTube, IMDb, Netflix, Spotify, NPR, PBS. Shopping: Amazon, eBay, Walmart, Etsy, Target, Costco. Sports: ESPN, MLB, NBA.
 
+## How they describe themselves
+
+**What this is:** Words that show up in their social bios.
+
+**How to use it:** Mirror this language in titles and opens when it fits (“postal worker,” “civil servant,” “federal,” “budget”) so the video sounds like their world, not generic personal-finance talk.
+
+Words that show up in their social bios: analyst, budget, program, financial, executive, policy, agency, postal, federal, government, postal service, civil servant, human resources, employee.
+
+They often call themselves analysts, budget/finance people, postal workers, or civil servants. Handy language for video titles and opens.
+
 ## How to use this page
 
-This is **audience research**, not the filming brief. Use it to pick language, platforms, and topic angles that already match how Feds talk and where they hang out.
+This is **audience research**, not the filming brief. Use it to pick language, platforms, and topic angles that already match how federal and postal workers talk and where they hang out.
 
 **If you only have two minutes**
 
-1. Skim **What they Google** and **Questions they ask AI** for title / open language.
+1. Skim **What they Google**, **Questions they ask AI**, and **AI assistants** for title / open language and which answer tools they use.
 2. Check **Websites** and **Reddit** for federal-specific hangouts (FedSmith, unions, r/USPS, r/fednews).
-3. Use **Who these Feds are** only for tone (mid-career, postal + civil service) — not as a targeting checklist.
+3. Use **Who they are (estimates)** only for tone (mid-career, postal + civil service) — not as a targeting checklist or a headcount.
 
 **Fed tilt (used in several tables)**
 
-**Fed tilt** = how much more this item shows up with *these* Feds than with a typical online crowd. Higher = more distinctive for this audience.
+**Fed tilt** = how much more this item shows up with *these workers* than with a typical online crowd. Higher = more distinctive for federal and postal workers in this research.
 
-- Example: Fed tilt 90 on r/USPS means postal workers in this group show up there far more than everyday internet users do.
+- Example: Fed tilt 90 on r/USPS means postal workers in this research show up there far more than everyday internet users do.
 - It is **not** a quality grade, popularity contest, or “how many people” count.
 - A big site (YouTube, Amazon) can have a lower Fed tilt and still matter. Tilt answers “is this *especially* Fed?” not “is this big?”
 
