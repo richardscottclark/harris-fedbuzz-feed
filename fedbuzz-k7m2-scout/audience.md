@@ -1,12 +1,12 @@
-# Federal employee audience — finances, retirement & career
+# What Feds are doing online
 
 BuzzMaven Reporting Engine - Client Confidential
 
-US federal employees including USPS postal workers who research personal finances, retirement (FERS / CSRS / TSP), and career planning.
+Where federal employees (including USPS) spend time online when they care about finances, retirement, and career planning.
 
-Mid-career federal and postal workers (ages 26–50 dominate) who actively research retirement systems, TSP decisions, and career stability. Sites and communities are highly federal-specific: FedSmith, Federal News Network, postal unions, r/USPS, r/fednews.
+Mid-career federal and postal workers (ages 26–50 dominate) who research retirement systems, TSP decisions, and career stability. Sites and communities are highly federal-specific: FedSmith, Federal News Network, postal unions, r/USPS, r/fednews.
 
-## Market size
+## How many Feds in this group
 
 | Metric | Value | Note |
 | --- | ---: | --- |
@@ -16,7 +16,7 @@ Mid-career federal and postal workers (ages 26–50 dominate) who actively resea
 
 Market size is an estimate, not a census count.
 
-## Who they are
+## Who these Feds are
 
 | Metric | Value | Note |
 | --- | ---: | --- |
@@ -98,13 +98,13 @@ Top majors: finance, accounting, management, business administration, economics,
 
 BuzzMaven Reporting Engine - Client Confidential
 
-## Where they hang out online
+## Where they spend time online
 
-Score is relative affinity within this audience, not a quality grade. Higher means more associated with this group than lower-ranked items.
+**Match strength** ranks how closely each item is tied to this audience. Higher means more associated with this group than lower-ranked items. It is not a quality grade or popularity ranking.
 
-### Platforms
+### Social platforms they use
 
-| Platform | Affinity score |
+| Platform | Match strength |
 | --- | ---: |
 | YouTube | 91 |
 | Facebook | 79 |
@@ -117,11 +117,11 @@ Score is relative affinity within this audience, not a quality grade. Higher mea
 
 YouTube, Facebook, and Reddit lead for reach; LinkedIn still strong for career messaging.
 
-### Websites
+### Websites they visit
 
-Federal niche sites lead affinity. Fed-employee news and postal-union sites outrank broad finance brands.
+Federal niche sites lead. Fed-employee news and postal-union sites outrank broad finance brands.
 
-| Site | Score | Note |
+| Site | Match strength | Note |
 | --- | ---: | --- |
 | fedsmith.com | 70 | Federal workforce news |
 | federalnewsnetwork.com | 63 | Federal news |
@@ -144,7 +144,7 @@ Federal niche sites lead affinity. Fed-employee news and postal-union sites outr
 | opm.gov | 14 | Official HR / benefits |
 | usajobs.gov | 13 | Federal careers |
 
-### YouTube channels
+### YouTube channels they watch
 
 | Channel | Subscribers | Focus |
 | --- | ---: | --- |
@@ -163,9 +163,9 @@ Federal niche sites lead affinity. Fed-employee news and postal-union sites outr
 | All-In Podcast | 1.1M | Economy / investing |
 | US Department of Labor | 68k | Worker / retiree issues |
 
-### Press & news
+### News they read
 
-| Outlet | Score |
+| Outlet | Match strength |
 | --- | ---: |
 | govexec.com | 78 |
 | nextgov.com | 62 |
@@ -186,7 +186,9 @@ Federal trade press (GovExec, Nextgov) outranks mainstream national news for thi
 
 ### Social accounts they follow
 
-| Account | Followers | Affinity share |
+**Overlap with this audience** is how strongly people in this report show up among that account's followers. Higher overlap means the account's followers look more like this federal-employee group.
+
+| Account | Followers | Overlap with this audience |
 | --- | ---: | ---: |
 | @GovExec | 52k | 65% |
 | @Nextgov | 27k | 59% |
@@ -207,9 +209,9 @@ Federal trade press (GovExec, Nextgov) outranks mainstream national news for thi
 | @fedscoop | 14k | 35% |
 | @jmillerWFED | 8.8k | 34% |
 
-### Reddit communities
+### Reddit communities they join
 
-| Subreddit | Members | Score |
+| Subreddit | Members | Match strength |
 | --- | ---: | ---: |
 | r/USPS | 182k | 90 |
 | r/fednews | 611k | 85 |
@@ -226,7 +228,7 @@ Federal trade press (GovExec, Nextgov) outranks mainstream national news for thi
 | r/Career_Advice | 72k | 65 |
 | r/economy | 1.1M | 63 |
 
-### Podcasts
+### Podcasts they listen to
 
 | Podcast | Host / org | Episodes |
 | --- | --- | ---: |
@@ -243,13 +245,15 @@ Federal trade press (GovExec, Nextgov) outranks mainstream national news for thi
 
 Top of list is retirement / federal-benefits shows, then veteran and union career content.
 
-## What they search and ask
+## What they search and ask AI
 
 Top queries are FERS, CSRS, and TSP mechanics — calculators, matching, withdrawal rules, fund choices — plus USPS benefits and job security.
 
-### Search keywords
+### What they Google
 
-| Keyword | Affinity | Monthly volume |
+**Est. monthly searches** is approximate Google search volume. **Match strength** is how closely the keyword is tied to this audience.
+
+| Keyword | Match strength | Est. monthly searches |
 | --- | ---: | ---: |
 | fers calculator | 100 | 3,100 |
 | fers retirement benefits | 99 | 2,700 |
@@ -274,9 +278,9 @@ Top queries are FERS, CSRS, and TSP mechanics — calculators, matching, withdra
 | usps employee discounts | 87 | 750 |
 | usps health insurance | 85 | 250 |
 
-### AI prompts they ask
+### Questions they ask AI
 
-| Prompt topic | Score |
+| Prompt topic | Match strength |
 | --- | ---: |
 | FERS Retirement Benefits Overview | 95 |
 | TSP Investment Strategies for Retirement | 87 |
@@ -297,17 +301,17 @@ Top queries are FERS, CSRS, and TSP mechanics — calculators, matching, withdra
 | Federal RIFs and Your Career | 28 |
 | Comparing TSP vs IRA Accounts | 27 |
 
-## Bio language
+## How they describe themselves
 
-How they describe themselves in social bios: analyst, budget, program, financial, executive, policy, agency, postal, federal, government, postal service, civil servant, human resources, employee.
+Words that show up in their social bios: analyst, budget, program, financial, executive, policy, agency, postal, federal, government, postal service, civil servant, human resources, employee.
 
 Strong self-ID as analysts, budget/finance roles, postal workers, and civil servants — useful for ad copy and landing-page language.
 
-## Apps & tools
+## Apps and tools they use
 
-### Finance
+### Finance apps and sites
 
-| Site / app | Score |
+| Site / app | Match strength |
 | --- | ---: |
 | vanguard.com | 49 |
 | schwab.com | 48 |
@@ -322,7 +326,7 @@ Strong self-ID as analysts, budget/finance roles, postal workers, and civil serv
 
 ### AI assistants
 
-| Tool | Score |
+| Tool | Match strength |
 | --- | ---: |
 | google.com | 96 |
 | chatgpt.com | 34 |
