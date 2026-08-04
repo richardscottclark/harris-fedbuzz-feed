@@ -58,7 +58,7 @@ Market size is an estimate, not a census count.
 | Budget analyst | 9% |
 | Rural mail carrier | 4% |
 
-USPS roles are present in this audience.
+USPS roles show up in this group.
 
 ### Geography
 
@@ -100,11 +100,13 @@ BuzzMaven Reporting Engine - Client Confidential
 
 ## Where they spend time online
 
-**Match strength** ranks how closely each item is tied to this audience. Higher means more associated with this group than lower-ranked items. It is not a quality grade or popularity ranking.
+In the tables below, **Link to Feds** means how often that item shows up with federal employees in this report versus everyday internet users. Higher = more distinctive for these Feds. It is *not* a quality rating or a popularity contest.
 
 ### Social platforms they use
 
-| Platform | Match strength |
+Higher **Link to Feds** = this platform is used more by these Feds than by a typical online crowd.
+
+| Platform | Link to Feds |
 | --- | ---: |
 | YouTube | 91 |
 | Facebook | 79 |
@@ -115,13 +117,15 @@ BuzzMaven Reporting Engine - Client Confidential
 | TikTok | 42 |
 | Substack | 29 |
 
-YouTube, Facebook, and Reddit lead for reach; LinkedIn still strong for career messaging.
+YouTube, Facebook, and Reddit lead. LinkedIn still matters for career topics.
 
 ### Websites they visit
 
-Federal niche sites lead. Fed-employee news and postal-union sites outrank broad finance brands.
+Federal news and postal-union sites beat broad money sites for these Feds.
 
-| Site | Match strength | Note |
+Higher **Link to Feds** = this site is visited more by these Feds than by a typical online crowd.
+
+| Site | Link to Feds | What it is |
 | --- | ---: | --- |
 | fedsmith.com | 70 | Federal workforce news |
 | federalnewsnetwork.com | 63 | Federal news |
@@ -146,7 +150,9 @@ Federal niche sites lead. Fed-employee news and postal-union sites outrank broad
 
 ### YouTube channels they watch
 
-| Channel | Subscribers | Focus |
+**Subscribers** is the channel's public subscriber count (how big the channel is overall), not how many Feds watch it.
+
+| Channel | Subscribers | What they cover |
 | --- | ---: | --- |
 | Charles Schwab | 547k | Investing / personal finance |
 | Vanguard | 55k | Long-term investing |
@@ -165,7 +171,9 @@ Federal niche sites lead. Fed-employee news and postal-union sites outrank broad
 
 ### News they read
 
-| Outlet | Match strength |
+Higher **Link to Feds** = these Feds are more connected to this news outlet than a typical online crowd is.
+
+| Outlet | Link to Feds |
 | --- | ---: |
 | govexec.com | 78 |
 | nextgov.com | 62 |
@@ -182,13 +190,13 @@ Federal niche sites lead. Fed-employee news and postal-union sites outrank broad
 | politico.com | 15 |
 | bloomberg.com | 15 |
 
-Federal trade press (GovExec, Nextgov) outranks mainstream national news for this audience.
+Federal outlets (GovExec, Nextgov) beat big national news brands for this group.
 
 ### Social accounts they follow
 
-**Overlap with this audience** is how strongly people in this report show up among that account's followers. Higher overlap means the account's followers look more like this federal-employee group.
+**Followers** is how many people follow the account overall. **% who look like these Feds** is how much that follower group overlaps with federal employees in this report. Higher % = the account's followers look more like these Feds.
 
-| Account | Followers | Overlap with this audience |
+| Account | Followers | % who look like these Feds |
 | --- | ---: | ---: |
 | @GovExec | 52k | 65% |
 | @Nextgov | 27k | 59% |
@@ -211,7 +219,9 @@ Federal trade press (GovExec, Nextgov) outranks mainstream national news for thi
 
 ### Reddit communities they join
 
-| Subreddit | Members | Match strength |
+**Members** is the size of the subreddit. Higher **Link to Feds** = these Feds show up there more than a typical online crowd does.
+
+| Subreddit | Members | Link to Feds |
 | --- | ---: | ---: |
 | r/USPS | 182k | 90 |
 | r/fednews | 611k | 85 |
@@ -230,6 +240,8 @@ Federal trade press (GovExec, Nextgov) outranks mainstream national news for thi
 
 ### Podcasts they listen to
 
+Listed in order of how closely each show is linked to these Feds. **Episodes** is how many episodes the show has published.
+
 | Podcast | Host / org | Episodes |
 | --- | --- | ---: |
 | The Federal Retirement Show | American Benefits Exchange | 100 |
@@ -243,7 +255,7 @@ Federal trade press (GovExec, Nextgov) outranks mainstream national news for thi
 | The Military Wallet Podcast | Ryan Guina | 49 |
 | Save your Retirement with Pat Strubbe | Pat Strubbe | 326 |
 
-Top of list is retirement / federal-benefits shows, then veteran and union career content.
+Retirement and federal-benefits shows lead, then veteran and union career shows.
 
 ## What they search and ask AI
 
@@ -251,9 +263,9 @@ Top queries are FERS, CSRS, and TSP mechanics — calculators, matching, withdra
 
 ### What they Google
 
-**Est. monthly searches** is approximate Google search volume. **Match strength** is how closely the keyword is tied to this audience.
+**Link to Feds** = how closely this search phrase is tied to these Feds. **Searches per month** = about how often people search that phrase on Google (approximate).
 
-| Keyword | Match strength | Est. monthly searches |
+| Search phrase | Link to Feds | Searches per month |
 | --- | ---: | ---: |
 | fers calculator | 100 | 3,100 |
 | fers retirement benefits | 99 | 2,700 |
@@ -280,7 +292,9 @@ Top queries are FERS, CSRS, and TSP mechanics — calculators, matching, withdra
 
 ### Questions they ask AI
 
-| Prompt topic | Match strength |
+Higher **Link to Feds** = these Feds ask AI about this topic more than a typical online crowd does.
+
+| Topic they ask about | Link to Feds |
 | --- | ---: |
 | FERS Retirement Benefits Overview | 95 |
 | TSP Investment Strategies for Retirement | 87 |
@@ -305,13 +319,15 @@ Top queries are FERS, CSRS, and TSP mechanics — calculators, matching, withdra
 
 Words that show up in their social bios: analyst, budget, program, financial, executive, policy, agency, postal, federal, government, postal service, civil servant, human resources, employee.
 
-Strong self-ID as analysts, budget/finance roles, postal workers, and civil servants — useful for ad copy and landing-page language.
+They often call themselves analysts, budget/finance people, postal workers, or civil servants. Handy language for video titles and opens.
 
 ## Apps and tools they use
 
 ### Finance apps and sites
 
-| Site / app | Match strength |
+Higher **Link to Feds** = these Feds use this finance site/app more than a typical online crowd does.
+
+| Site / app | Link to Feds |
 | --- | ---: |
 | vanguard.com | 49 |
 | schwab.com | 48 |
@@ -326,7 +342,9 @@ Strong self-ID as analysts, budget/finance roles, postal workers, and civil serv
 
 ### AI assistants
 
-| Tool | Match strength |
+Higher **Link to Feds** = these Feds use this tool more than a typical online crowd does.
+
+| Tool | Link to Feds |
 | --- | ---: |
 | google.com | 96 |
 | chatgpt.com | 34 |
