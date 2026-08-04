@@ -6,7 +6,7 @@
 
 # FedBuzz Producer Brief (enhanced review) — 2026-08-04
 
-**9 topics** (3 film-first · 6 also consider) + **7 Fed Department Focus** + **5 evergreen** — from this week’s scan (live filming brief left unchanged on purpose).
+**9 topics** (3 film-first · 6 also consider) + **6 Fed Department Focus** + **5 evergreen** — from this week’s scan (live filming brief left unchanged on purpose).
 
 ## Film these
 
@@ -33,21 +33,20 @@ _Not in the live filming brief. News about specific federal agencies, with a cle
 
 10. Arbitrator: HHS broke the CBA firing 5,000 probationary feds
 11. Arbitrator orders IRS telework back — but your CBA protection may differ
-12. Army speeds firing — does your appeal path still exist?
-13. Probationary feds: MSPB ruling may not end your appeal fight
-14. Arbitrator wins mean nothing if agency appeals — Forest Service risk
-15. Your VA telework IS your ADA accommodation — RTO can strip it
-16. Federal Circuit ruling could reshape DHS probationary workers' appeal rights
+12. Probationary feds: MSPB ruling may not end your appeal fight
+13. Arbitrator wins mean nothing if agency appeals — Forest Service risk
+14. Your VA telework IS your ADA accommodation — RTO can strip it
+15. Federal Circuit ruling could reshape DHS probationary workers' appeal rights
 
 ## Evergreen for review
 
 _Not in the live filming brief as a standing section — short money / retirement seeds. Film only if you want to test this lane._
 
-17. Are you leaving free TSP matching on the table?
-18. Feds — have you checked your FERS calculator this year?
-19. TSP funds explained — which one fits your timeline?
-20. TSP rollover options — stay in, roll out, or wait?
-21. Federal retirement planning — what should you verify this year?
+16. Are you leaving free TSP matching on the table?
+17. Feds — have you checked your FERS calculator this year?
+18. TSP funds explained — which one fits your timeline?
+19. TSP rollover options — stay in, roll out, or wait?
+20. Federal retirement planning — what should you verify this year?
 
 ---
 
@@ -404,25 +403,7 @@ _Fed Department Focus — review only. Not in the live filming brief._
 
 ---
 
-### 12. Army speeds firing — does your appeal path still exist?
-
-_Fed Department Focus — review only. Not in the live filming brief._
-
-**Why it matters for feds:** A 'sped-up' removal process may compress or bypass the standard MSPB appeal timeline competitive-service employees assume they have — and status determines everything.
-
-**Question answered:** Which Army civilian employees have lost which removal appeal rights under this?
-
-**Related themes:** status_probation_mspb_schedule
-
-**Check before filming:** Confirm whether Army policy change alters the notice period, proposing-official step, or Douglas-factors review required under 5 USC Chapter 75; verify which appointment types (competitive, excepted, probationary) are affected and what MSPB appeal window, if any, survives.
-
-[Read source](https://federalnewsnetwork.com/army/2026/07/army-speeds-firing-process-for-civilian-employees/)
-
-**Caution:** Confirm the current rule or ruling before filming. These are suggestions, not legal advice.
-
----
-
-### 13. Probationary feds: MSPB ruling may not end your appeal fight
+### 12. Probationary feds: MSPB ruling may not end your appeal fight
 
 _Fed Department Focus — review only. Not in the live filming brief._
 
@@ -440,7 +421,7 @@ _Fed Department Focus — review only. Not in the live filming brief._
 
 ---
 
-### 14. Arbitrator wins mean nothing if agency appeals — Forest Service risk
+### 13. Arbitrator wins mean nothing if agency appeals — Forest Service risk
 
 _Fed Department Focus — review only. Not in the live filming brief._
 
@@ -458,7 +439,7 @@ _Fed Department Focus — review only. Not in the live filming brief._
 
 ---
 
-### 15. Your VA telework IS your ADA accommodation — RTO can strip it
+### 14. Your VA telework IS your ADA accommodation — RTO can strip it
 
 _Fed Department Focus — review only. Not in the live filming brief._
 
@@ -476,7 +457,7 @@ _Fed Department Focus — review only. Not in the live filming brief._
 
 ---
 
-### 16. Federal Circuit ruling could reshape DHS probationary workers' appeal rights
+### 15. Federal Circuit ruling could reshape DHS probationary workers' appeal rights
 
 _Fed Department Focus — review only. Not in the live filming brief._
 
@@ -498,7 +479,7 @@ _Fed Department Focus — review only. Not in the live filming brief._
 
 _These are not in the live filming brief. Use them only while we test whether money / retirement explainers belong alongside news reaction._
 
-### 17. Are you leaving free TSP matching on the table?
+### 16. Are you leaving free TSP matching on the table?
 
 _Evergreen review — demand seed for testing this lane._
 
@@ -510,7 +491,7 @@ _Evergreen review — demand seed for testing this lane._
 
 ---
 
-### 18. Feds — have you checked your FERS calculator this year?
+### 17. Feds — have you checked your FERS calculator this year?
 
 _Evergreen review — demand seed for testing this lane._
 
@@ -522,7 +503,7 @@ _Evergreen review — demand seed for testing this lane._
 
 ---
 
-### 19. TSP funds explained — which one fits your timeline?
+### 18. TSP funds explained — which one fits your timeline?
 
 _Evergreen review — demand seed for testing this lane._
 
@@ -534,7 +515,7 @@ _Evergreen review — demand seed for testing this lane._
 
 ---
 
-### 20. TSP rollover options — stay in, roll out, or wait?
+### 19. TSP rollover options — stay in, roll out, or wait?
 
 _Evergreen review — demand seed for testing this lane._
 
@@ -546,7 +527,7 @@ _Evergreen review — demand seed for testing this lane._
 
 ---
 
-### 21. Federal retirement planning — what should you verify this year?
+### 20. Federal retirement planning — what should you verify this year?
 
 _Evergreen review — demand seed for testing this lane._
 
