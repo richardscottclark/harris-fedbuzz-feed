@@ -60,22 +60,6 @@
       border-bottom: 1px solid #ddd;
     }
     td.num, th.num { text-align: right; white-space: nowrap; }
-    .pills {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.4rem;
-      margin: 0.5rem 0 1rem;
-      font-family: system-ui, sans-serif;
-      font-size: 0.88rem;
-    }
-    .pill {
-      display: inline-block;
-      padding: 0.2rem 0.55rem;
-      border: 1px solid #ddd;
-      border-radius: 4px;
-      background: #fafafa;
-      color: #333;
-    }
     .footer {
       margin-top: 2.5rem;
       padding-top: 1rem;
@@ -95,12 +79,18 @@
 
 <h1>What Feds are doing online</h1>
 <p class="brand">BuzzMaven Reporting Engine - Client Confidential</p>
-
 <p class="lede">Where federal employees (including USPS) spend time online when they care about finances, retirement, and career planning.</p>
-
+<h2>How to use this page</h2>
+<p class="note">This is <strong>audience research</strong>, not the filming brief. Use it to pick language, platforms, and topic angles that already match how Feds talk and where they hang out.</p>
+<p><strong>Start here if you only have two minutes</strong></p>
+<ol><li>Skim <strong>What they Google</strong> and <strong>Questions they ask AI</strong> for title / open language.</li><li>Check <strong>Websites</strong> and <strong>Reddit</strong> for federal-specific hangouts (FedSmith, unions, r/USPS, r/fednews).</li><li>Use <strong>Who these Feds are</strong> only for tone (mid-career, postal + civil service) — not as a targeting checklist.</li></ol>
+<p class="note"><strong>Fed tilt (used in several tables)</strong></p>
+<p class="note"><strong>Fed tilt</strong> = how much more this item shows up with <em>these</em> Feds than with a typical online crowd. Higher = more distinctive for this audience.</p>
+<ul><li>Example: Fed tilt 90 on r/USPS means postal workers in this group show up there far more than everyday internet users do.</li><li>It is <strong>not</strong> a quality grade, popularity contest, or “how many people” count.</li><li>A big site (YouTube, Amazon) can have a lower Fed tilt and still matter. Tilt answers “is this <em>especially</em> Fed?” not “is this big?”</li></ul>
 <p>Mid-career federal and postal workers (ages 26–50 dominate) who research retirement systems, TSP decisions, and career stability. Sites and communities are highly federal-specific: FedSmith, Federal News Network, postal unions, r/USPS, r/fednews.</p>
-
 <h2>How many Feds in this group</h2>
+<p class="note"><strong>What this is:</strong> A rough size estimate of the federal + postal workforce pool this research describes — not “Harris clients” and not people who already watch FedBuzz.</p>
+<p class="note"><strong>How to use it:</strong> Context only (“this is a large pool”). Do not treat $547M as revenue or as a budget number.</p>
 <table>
   <thead>
     <tr><th>Metric</th><th class="num">Value</th><th>Note</th></tr>
@@ -111,9 +101,11 @@
     <tr><td>Estimated annual market value</td><td class="num">$547M</td><td>Assumes about $200 per person on finance / retirement planning</td></tr>
   </tbody>
 </table>
-<p class="note">Market size is an estimate, not a census count.</p>
-
+<p class="note">Market size is an estimate, not a census count. The dollar figure multiplies headcount by an assumed spend on finance / retirement planning — useful for scale, not for forecasting.</p>
 <h2>Who these Feds are</h2>
+<p class="note"><strong>What this is:</strong> Estimated makeup of people who look like federal / postal workers in this research (age, pay band, home, family, role labels, states).</p>
+<p class="note"><strong>How to use it:</strong> Write for mid-career adults with jobs, benefits, and family stakes — not college freshmen and not only DC lobbyists. Postal / mail roles belong in the mix on purpose.</p>
+<p class="note"><strong>Don’t overread:</strong> These are modeled estimates from public online signals, not an HR roster. Role names like “Finance” or “Staff” are how people describe themselves online, not official job series codes.</p>
 <table>
   <thead>
     <tr><th>Metric</th><th class="num">Value</th><th>Note</th></tr>
@@ -127,8 +119,8 @@
     <tr><td>Children</td><td class="num">49%</td><td></td></tr>
   </tbody>
 </table>
-
 <h3>Age</h3>
+<p class="note">Share of this audience in each age band (adds toward 100%).</p>
 <table>
   <thead>
     <tr><th>Age</th><th class="num">Share</th></tr>
@@ -141,8 +133,8 @@
     <tr><td>66+</td><td class="num">4.1%</td></tr>
   </tbody>
 </table>
-
 <h3>Salary</h3>
+<p class="note">Estimated household / personal pay bands for this audience — directionally useful, not a GS table.</p>
 <table>
   <thead>
     <tr><th>Salary band</th><th class="num">Share</th></tr>
@@ -155,8 +147,8 @@
     <tr><td>$250,000+</td><td class="num">0.7%</td></tr>
   </tbody>
 </table>
-
 <h3>Top roles</h3>
+<p class="note">How people in this audience describe their work online. USPS / mail roles appearing here is a feature, not noise.</p>
 <table>
   <thead>
     <tr><th>Role</th><th class="num">Share</th></tr>
@@ -171,8 +163,8 @@
   </tbody>
 </table>
 <p class="note">USPS roles show up in this group.</p>
-
 <h3>Geography</h3>
+<p class="note"><strong>Audience share</strong> = share of <em>this Fed audience</em> in that state. <strong>US population share</strong> = that state’s share of the whole country. When audience share is much higher than US share (DC, MD, VA), Feds are concentrated there relative to the general public.</p>
 <table>
   <thead>
     <tr><th>State</th><th class="num">Audience share</th><th class="num">US population share</th></tr>
@@ -188,8 +180,8 @@
   </tbody>
 </table>
 <p class="note">DC / MD / VA heavily over-index vs. US population. Top city: Washington (10%).</p>
-
 <h3>Experience &amp; education</h3>
+<p class="note">Career tenure and degree mix for tone — many mid- and late-career people, not only new hires.</p>
 <table>
   <thead>
     <tr><th>Years experience</th><th class="num">Share</th></tr>
@@ -208,22 +200,22 @@
   </thead>
   <tbody>
     <tr><td>High school</td><td class="num">31%</td></tr>
-    <tr><td>Bachelor&rsquo;s</td><td class="num">28%</td></tr>
-    <tr><td>Master&rsquo;s</td><td class="num">24%</td></tr>
-    <tr><td>Associate&rsquo;s</td><td class="num">2%</td></tr>
+    <tr><td>Bachelor's</td><td class="num">28%</td></tr>
+    <tr><td>Master's</td><td class="num">24%</td></tr>
+    <tr><td>Associate's</td><td class="num">2%</td></tr>
     <tr><td>Doctorate</td><td class="num">2%</td></tr>
   </tbody>
 </table>
-<p>Top skills: Microsoft Office / Excel, financial analysis, budgets, policy, program management, customer service.</p>
+<p class="note">Top skills: Microsoft Office / Excel, financial analysis, budgets, policy, program management, customer service.</p>
 <p class="note">Top majors: finance, accounting, management, business administration, economics, political science, public administration.</p>
-
 <p class="brand-mid">BuzzMaven Reporting Engine - Client Confidential</p>
-
 <h2>Where they spend time online</h2>
-<p class="note">In the tables below, <strong>Fed tilt</strong> means how often that item shows up with federal employees in this report versus everyday internet users. Higher = more distinctive for these Feds. It is <em>not</em> a quality rating or a popularity contest.</p>
-
+<p class="note"><strong>What this is:</strong> Platforms, sites, channels, outlets, and communities where this Fed audience shows up more than a typical online crowd.</p>
+<p class="note"><strong>How to use it:</strong> Prefer federal-niche hangouts for ideas and distribution hunches (FedSmith, union sites, r/fednews). Big consumer brands still matter for reach; check <strong>Fed tilt</strong> to see what is <em>especially</em> Fed.</p>
+<p class="note">Remember: <strong>Fed tilt</strong> = more common among these Feds than among everyday internet users. Not a quality score.</p>
 <h3>Social platforms they use</h3>
-<p class="note">Higher <strong>Fed tilt</strong> = this platform is used more by these Feds than by a typical online crowd.</p>
+<p class="note"><strong>What this is:</strong> Which social platforms this Fed audience over-indexes on.</p>
+<p class="note"><strong>How to use it:</strong> YouTube / Facebook / Reddit are natural homes for this crowd. That does <strong>not</strong> mean “only film for YouTube” — it means those platforms are where Fed attention already clusters.</p>
 <table>
   <thead>
     <tr><th>Platform</th><th class="num">Fed tilt</th></tr>
@@ -240,10 +232,10 @@
   </tbody>
 </table>
 <p class="note">YouTube, Facebook, and Reddit lead. LinkedIn still matters for career topics.</p>
-
 <h3>Websites they visit</h3>
-<p>Federal news and postal-union sites beat broad money sites for these Feds.</p>
-<p class="note">Higher <strong>Fed tilt</strong> = this site is visited more by these Feds than by a typical online crowd.</p>
+<p class="note"><strong>What this is:</strong> Domains this audience visits more than a typical online crowd — federal news, unions, benefits, then general investing sites.</p>
+<p class="note"><strong>How to use it:</strong> Federal and postal-union sites are the “home field” for trust and topic ideas. Investing sites (Vanguard, Schwab) show money research habits, not that Feds only care about brokerage ads.</p>
+<p class="note"><strong>Don’t overread:</strong> High Fed tilt on a union site means workers <em>visit</em> it — not that every viewer is a dues-paying member, and not that Harris should advertise there.</p>
 <table>
   <thead>
     <tr><th>Site</th><th class="num">Fed tilt</th><th>What it is</th></tr>
@@ -271,9 +263,10 @@
     <tr><td>usajobs.gov</td><td class="num">13</td><td>Federal careers</td></tr>
   </tbody>
 </table>
-
 <h3>YouTube channels they watch</h3>
-<p class="note"><strong>Subscribers</strong> is the channel&rsquo;s public subscriber count (how big the channel is overall), not how many Feds watch it.</p>
+<p class="note"><strong>What this is:</strong> Channels associated with this audience’s YouTube habits.</p>
+<p class="note"><strong>How to use it:</strong> See what kinds of finance / federal content already get attention. Federal News Network, OPM, AFGE, and letter-carrier channels sit next to big investing brands — both matter.</p>
+<p class="note"><strong>Don’t confuse columns:</strong> <strong>Subscribers</strong> = the channel’s total public subscriber count (how big the channel is overall). It is <strong>not</strong> “how many Feds subscribe.”</p>
 <table>
   <thead>
     <tr><th>Channel</th><th class="num">Subscribers</th><th>What they cover</th></tr>
@@ -295,9 +288,9 @@
     <tr><td>US Department of Labor</td><td class="num">68k</td><td>Worker / retiree issues</td></tr>
   </tbody>
 </table>
-
 <h3>News they read</h3>
-<p class="note">Higher <strong>Fed tilt</strong> = these Feds are more connected to this news outlet than a typical online crowd is.</p>
+<p class="note"><strong>What this is:</strong> News outlets this Fed audience connects to more than a typical online crowd.</p>
+<p class="note"><strong>How to use it:</strong> GovExec / Nextgov-style federal outlets beat big national brands <em>for this group</em>. National sites still get read; they’re just less distinctive here.</p>
 <table>
   <thead>
     <tr><th>Outlet</th><th class="num">Fed tilt</th></tr>
@@ -320,9 +313,11 @@
   </tbody>
 </table>
 <p class="note">Federal outlets (GovExec, Nextgov) beat big national news brands for this group.</p>
-
 <h3>Social accounts they follow</h3>
-<p class="note"><strong>Followers</strong> is how many people follow the account overall. <strong>% who look like these Feds</strong> is how much that follower group overlaps with federal employees in this report. Higher % = the account&rsquo;s followers look more like these Feds.</p>
+<p class="note"><strong>What this is:</strong> Public accounts whose followers overlap with people who look like these Feds.</p>
+<p class="note"><strong>How to use it:</strong> Federal media and agency accounts (@GovExec, @FederalNewsNet, etc.) are natural reference points for tone and topics.</p>
+<p class="note"><strong>Don’t confuse columns:</strong></p>
+<ul><li><strong>Followers</strong> = total people following the account (overall size).</li><li><strong>% who look like these Feds</strong> = estimated overlap between that account’s followers and this Fed audience. Higher % = the follower base looks more Fed-like — <strong>not</strong> “65% of all Feds follow this account.”</li></ul>
 <table>
   <thead>
     <tr><th>Account</th><th class="num">Followers</th><th class="num">% who look like these Feds</th></tr>
@@ -348,9 +343,11 @@
     <tr><td>@jmillerWFED</td><td class="num">8.8k</td><td class="num">34%</td></tr>
   </tbody>
 </table>
-
 <h3>Reddit communities they join</h3>
-<p class="note"><strong>Members</strong> is the size of the subreddit. Higher <strong>Fed tilt</strong> = these Feds show up there more than a typical online crowd does.</p>
+<p class="note"><strong>What this is:</strong> Subreddits where this Fed audience shows up more than a typical online crowd.</p>
+<p class="note"><strong>How to use it:</strong> r/USPS and r/fednews are core Fed hangouts. Broader money subs (r/personalfinance, r/retirement) show the retirement / investing questions they also ask — useful for evergreen opens, with less Fed-only flavor.</p>
+<p class="note"><strong>Don’t confuse columns:</strong></p>
+<ul><li><strong>Members</strong> = size of the whole subreddit.</li><li><strong>Fed tilt</strong> = how distinctive that sub is for <em>these</em> Feds vs everyday users.</li></ul>
 <table>
   <thead>
     <tr><th>Subreddit</th><th class="num">Members</th><th class="num">Fed tilt</th></tr>
@@ -372,9 +369,10 @@
     <tr><td>r/economy</td><td class="num">1.1M</td><td class="num">63</td></tr>
   </tbody>
 </table>
-
 <h3>Podcasts they listen to</h3>
-<p class="note">Listed in order of how closely each show is linked to these Feds. <strong>Episodes</strong> is how many episodes the show has published.</p>
+<p class="note"><strong>What this is:</strong> Shows associated with this audience, listed with the strongest Fed association first.</p>
+<p class="note"><strong>How to use it:</strong> Federal retirement / benefits shows are the closest match for FedBuzz tone. Veteran and union shows are adjacent audiences, not the primary FedBuzz lane.</p>
+<p class="note"><strong>Episodes</strong> = how many episodes the show has published (show size), not “how many Feds listen.”</p>
 <table>
   <thead>
     <tr><th>Podcast</th><th>Host / org</th><th class="num">Episodes</th></tr>
@@ -384,8 +382,8 @@
     <tr><td>Haws Federal Advisors Podcast</td><td>Dallen Haws</td><td class="num">871</td></tr>
     <tr><td>FedSmart</td><td>FedSmart</td><td class="num">42</td></tr>
     <tr><td>Veterans Corner Radio</td><td>Joe Muhlberger</td><td class="num">310</td></tr>
-    <tr><td>GovClose | Winning Gov Contracts</td><td>Richard C. Howard</td><td class="num">176</td></tr>
-    <tr><td>America&rsquo;s Work Force Union Podcast</td><td>BMA Media Group</td><td class="num">156</td></tr>
+    <tr><td>GovClose \</td><td>Winning Gov Contracts</td><td class="num">Richard C. Howard</td><td>176</td></tr>
+    <tr><td>America's Work Force Union Podcast</td><td>BMA Media Group</td><td class="num">156</td></tr>
     <tr><td>Your Next Mission®</td><td>SMA (R) Jack L. Tilley</td><td class="num">262</td></tr>
     <tr><td>The Admin Edge</td><td>ASAP</td><td class="num">90</td></tr>
     <tr><td>The Military Wallet Podcast</td><td>Ryan Guina</td><td class="num">49</td></tr>
@@ -393,12 +391,12 @@
   </tbody>
 </table>
 <p class="note">Retirement and federal-benefits shows lead, then veteran and union career shows.</p>
-
 <h2>What they search and ask AI</h2>
-<p>Top queries are FERS, CSRS, and TSP mechanics — calculators, matching, withdrawal rules, fund choices — plus USPS benefits and job security.</p>
-
+<p class="note"><strong>What this is:</strong> The phrases and topics this audience Googles or asks AI tools about — mostly FERS, CSRS, TSP, USPS benefits, and job security.</p>
+<p class="note"><strong>How to use it:</strong> Steal the <em>wording</em> for titles and cold opens. High Fed tilt + solid search volume = language Feds already use when they need an answer.</p>
 <h3>What they Google</h3>
-<p class="note"><strong>Fed tilt</strong> = how closely this search phrase is tied to these Feds. <strong>Searches per month</strong> = about how often people search that phrase on Google (approximate).</p>
+<p class="note"><strong>Fed tilt</strong> = how closely this search phrase is tied to these Feds (higher = more Fed-specific).</p>
+<p class="note"><strong>Searches per month</strong> = approximate Google search volume for that phrase overall — not “searches by Feds only.”</p>
 <table>
   <thead>
     <tr><th>Search phrase</th><th class="num">Fed tilt</th><th class="num">Searches per month</th></tr>
@@ -428,9 +426,9 @@
     <tr><td>usps health insurance</td><td class="num">85</td><td class="num">250</td></tr>
   </tbody>
 </table>
-
 <h3>Questions they ask AI</h3>
-<p class="note">Higher <strong>Fed tilt</strong> = these Feds ask AI about this topic more than a typical online crowd does.</p>
+<p class="note"><strong>What this is:</strong> Topics this audience tends to ask ChatGPT-style tools about, ranked by Fed tilt.</p>
+<p class="note"><strong>How to use it:</strong> Same as search — ready-made “question answered” lines for walk-and-talk. Prefer high-tilt FERS / TSP / buyout topics for FedBuzz; lower-tilt rows are still useful but less uniquely federal.</p>
 <table>
   <thead>
     <tr><th>Topic they ask about</th><th class="num">Fed tilt</th></tr>
@@ -456,28 +454,14 @@
     <tr><td>Comparing TSP vs IRA Accounts</td><td class="num">27</td></tr>
   </tbody>
 </table>
-
 <h2>How they describe themselves</h2>
-<p>Words that show up in their social bios:</p>
-<div class="pills">
-  <span class="pill">analyst</span>
-  <span class="pill">budget</span>
-  <span class="pill">program</span>
-  <span class="pill">financial</span>
-  <span class="pill">executive</span>
-  <span class="pill">policy</span>
-  <span class="pill">agency</span>
-  <span class="pill">postal</span>
-  <span class="pill">federal</span>
-  <span class="pill">government</span>
-  <span class="pill">postal service</span>
-  <span class="pill">civil servant</span>
-  <span class="pill">human resources</span>
-  <span class="pill">employee</span>
-</div>
+<p class="note"><strong>What this is:</strong> Words that show up in their social bios.</p>
+<p class="note"><strong>How to use it:</strong> Mirror this language in titles and opens when it fits (“postal worker,” “civil servant,” “federal,” “budget”) so the video sounds like their world, not generic personal-finance talk.</p>
+<p class="note">Words that show up in their social bios: analyst, budget, program, financial, executive, policy, agency, postal, federal, government, postal service, civil servant, human resources, employee.</p>
 <p class="note">They often call themselves analysts, budget/finance people, postal workers, or civil servants. Handy language for video titles and opens.</p>
-
 <h2>Apps and tools they use</h2>
+<p class="note"><strong>What this is:</strong> Finance sites, AI tools, and everyday apps this audience uses more than a typical online crowd (or that show up in their stack).</p>
+<p class="note"><strong>How to use it:</strong> They already live in Vanguard / Schwab / spreadsheet land and light AI use. Don’t assume exotic tools. Google still dominates “ask a question” behavior vs ChatGPT alone.</p>
 <h3>Finance apps and sites</h3>
 <p class="note">Higher <strong>Fed tilt</strong> = these Feds use this finance site/app more than a typical online crowd does.</p>
 <table>
@@ -497,9 +481,8 @@
     <tr><td>fidelity.com</td><td class="num">15</td></tr>
   </tbody>
 </table>
-
 <h3>AI assistants</h3>
-<p class="note">Higher <strong>Fed tilt</strong> = these Feds use this tool more than a typical online crowd does.</p>
+<p class="note">Higher <strong>Fed tilt</strong> = these Feds use this tool more than a typical online crowd does. Google at the top usually means search-first habits, not that ChatGPT is unused.</p>
 <table>
   <thead>
     <tr><th>Tool</th><th class="num">Fed tilt</th></tr>
@@ -514,26 +497,16 @@
     <tr><td>copilot.microsoft.com</td><td class="num">8</td></tr>
   </tbody>
 </table>
-
 <h3>Productivity (top)</h3>
-<div class="pills">
-  <span class="pill">Microsoft</span>
-  <span class="pill">ChatGPT</span>
-  <span class="pill">Adobe</span>
-  <span class="pill">Zoom</span>
-  <span class="pill">Office.com</span>
-  <span class="pill">Grammarly</span>
-  <span class="pill">DocuSign</span>
-  <span class="pill">Okta</span>
-  <span class="pill">Coursera</span>
-</div>
-
+<p class="note">Microsoft, ChatGPT, Adobe, Zoom, Office.com, Grammarly, DocuSign, Okta, Coursera.</p>
 <h3>Lifestyle / entertainment / shopping (snapshot)</h3>
 <p class="note">Lifestyle: Zillow, NIH, TripAdvisor, Mayo Clinic, Realtor, Weather. Entertainment: YouTube, IMDb, Netflix, Spotify, NPR, PBS. Shopping: Amazon, eBay, Walmart, Etsy, Target, Costco. Sports: ESPN, MLB, NBA.</p>
+<hr/>
+<p class="brand-mid">BuzzMaven Reporting Engine - Client Confidential</p>
 
 <div class="footer">
-  <p class="brand">BuzzMaven Reporting Engine - Client Confidential</p>
-  <p class="source">Source: SparkToro · US · Jul 27, 2026 · Brands omitted</p>
+<p class="brand">BuzzMaven Reporting Engine - Client Confidential</p>
+<p class="source">Source: audience research report · US · Jul 27, 2026 · Brands omitted</p>
 </div>
 </body>
 </html>
