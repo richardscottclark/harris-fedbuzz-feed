@@ -9,39 +9,39 @@
 
 _Stronger short-form fit — start here._
 
-1. [Are federal RTO court losses actually protecting your job?](#topic-1)
+1. Are federal RTO court losses actually protecting your job?
 
 ## Also consider
 
 _Softer fit — worth a look if the list above is thin or these match your lane._
 
-2. [Are you a postal worker? These could be the biggest USPS cuts ever.](#topic-2)
-3. [Did a software glitch just cost USPS $29 million this spring?](#topic-3)
-4. [Is your federal job being quietly relisted as at-will?](#topic-4)
-5. [Are USPS retirement changes about to affect your FERS benefit?](#topic-5)
-6. [Postal workers: who's now running your union — and why it matters?](#topic-6)
-7. [Feds: does your spouse lose FEHB if you die first?](#topic-7)
+2. Are you a postal worker? These could be the biggest USPS cuts ever.
+3. Did a software glitch just cost USPS $29 million this spring?
+4. Is your federal job being quietly relisted as at-will?
+5. Are USPS retirement changes about to affect your FERS benefit?
+6. Postal workers: who's now running your union — and why it matters?
+7. Feds: does your spouse lose FEHB if you die first?
 
 ## Fed Department Focus
 
 _News about specific federal agencies, with a clear angle for federal employees. Use these if they are stronger than the week’s main list._
 
-8. [Arbitrator: HHS broke the CBA firing 5,000 probationary feds](#topic-8)
-9. [Arbitrator orders IRS telework back — but your CBA protection may differ](#topic-9)
-10. [Probationary feds: MSPB ruling may not end your appeal fight](#topic-10)
-11. [Arbitrator wins mean nothing if agency appeals — Forest Service risk](#topic-11)
-12. [Your VA telework IS your ADA accommodation — RTO can strip it](#topic-12)
-13. [Federal Circuit ruling could reshape DHS probationary workers' appeal rights](#topic-13)
+8. Arbitrator: HHS broke the CBA firing 5,000 probationary feds
+9. Arbitrator orders IRS telework back — but your CBA protection may differ
+10. Probationary feds: MSPB ruling may not end your appeal fight
+11. Arbitrator wins mean nothing if agency appeals — Forest Service risk
+12. Your VA telework IS your ADA accommodation — RTO can strip it
+13. Federal Circuit ruling could reshape DHS probationary workers' appeal rights
 
 ## Evergreen
 
 _Short money / retirement seeds. Film one if you want a different lane from this week’s news._
 
-14. [Are you leaving free TSP matching on the table?](#topic-14)
-15. [Feds — have you checked your FERS calculator this year?](#topic-15)
-16. [TSP funds explained — which one fits your timeline?](#topic-16)
-17. [TSP rollover options — stay in, roll out, or wait?](#topic-17)
-18. [Federal retirement planning — what should you verify this year?](#topic-18)
+14. Are you leaving free TSP matching on the table?
+15. Feds — have you checked your FERS calculator this year?
+16. TSP funds explained — which one fits your timeline?
+17. TSP rollover options — stay in, roll out, or wait?
+18. Federal retirement planning — what should you verify this year?
 
 ---
 
