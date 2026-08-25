@@ -3,7 +3,7 @@
 
 [Back to FedBuzz Topic Scout](index.html)
 
-# VA Disability Producer Brief (trial) — 2026-08-24
+# VA Disability Producer Brief (trial) — 2026-08-25
 
 **8 topics** (4 film-first · 4 also consider) + **5 evergreen** — VA Disability lane only. Live FedBuzz brief is unchanged.
 
@@ -11,57 +11,221 @@
 
 _Stronger short-form fit — start here._
 
-1. [Did you know your VA disability rating could be worth $1.5 million?](#topic-1)
-2. [PACT Act turns 4 — are veterans still being left out of toxic-exposure claims?](#topic-2)
-3. [Can you get 100% VA pay without a 100% disability rating?](#topic-3)
-4. [90,000 veterans had their VA appeals wrongly denied — is yours one of them?](#topic-4)
+1. [Is AI deciding your VA disability claim with no one checking its work?](#topic-1)
+2. [Senate just blocked a veterans bill — what does that mean for your VA disability pay?](#topic-2)
+3. [Thousands of VA appeal denials were wrong — is yours one of them?](#topic-3)
+4. [47 senators say the VA's new sleep apnea and tinnitus rating rule is wrong — what's at stake for your rating?](#topic-4)
 
 ## Also consider
 
 _Softer fit — worth a look if the list above is thin or these match your lane._
 
-5. [Your VA disability pay goes up every year — do you know by how much?](#topic-5)
-6. [Can VA disability pay affect your Social Security — what veterans need to know?](#topic-6)
-7. [VA disability pay rose 40% in 14 years — but are veterans getting what they're owed?](#topic-7)
-8. [Working part-time on TDIU — can the VA pull your disability rating?](#topic-8)
+5. [Did you know a 100% VA rating could be worth $1.5 million compared to civilian retirement?](#topic-5)
+6. [The PACT Act turned 4 — are you one of the veterans who still hasn't claimed what you're owed?](#topic-6)
+7. [Did you know your VA rating has to hit 30% before you can add a dependent spouse?](#topic-7)
+8. [Congress proposed cutting VA disability benefits for 1.5 million veterans — what can you do right now?](#topic-8)
 
 ## Evergreen
 
 _Not breaking news. Film one if you want a lane for veterans who have the need but are not chasing this week’s headline._
 
-9. [What extra VA benefits kick in once your rating hits 100%?](#topic-9)
-10. [What is a C&P exam and why does it decide your VA rating?](#topic-10)
-11. [Is your VA disability rating permanent — or can it be reduced?](#topic-11)
-12. [Can a secondary condition increase your VA disability rating?](#topic-12)
-13. [What happens to your VA claim if you file an Intent to File first?](#topic-13)
+9. [You served, you're rated — but are you rated correctly?](#topic-9)
+10. [What is TDIU and why do so many veterans with less than 100% qualify for 100% pay?](#topic-10)
+11. [Your VA claim was denied — that is not the end of the road.](#topic-11)
+12. [What extra VA benefits come with a 100% disability rating that most veterans never use?](#topic-12)
+13. [What is a C&P exam and why can it make or break your VA disability rating?](#topic-13)
 
 ---
 
-### 1. Did you know your VA disability rating could be worth $1.5 million?
+### 1. Is AI deciding your VA disability claim with no one checking its work?
 
-**Consider filming if:** Opens with a money frame veterans have never heard — stops scrollers who don't think of their rating as wealth.
+**Consider filming if:** Strongest watchdog story in the intake — fresh GreaterGood report plus a GAO warning create a two-source news peg on a topic veterans haven't fully absorbed yet.
 
-_pass · reddit · rating|pay_
+_pass · news · appeals|rating_
 
 **Who this catches:** Has the need (may not have searched yet)
 
-**Harris overlap:** rating|pay
+**Harris overlap:** appeals|rating
+
+[Read source](https://news.google.com/rss/articles/CBMiW0FVX3lxTE10R3FOTnc1bHFyN0xDUEZleFNtVGRTQ2Zaanl1ZTRsVHdhU0hBY1NyNlNUTDBtM000MU1QeUV2RDA2QzZ0NGdkMVRLbTBmdWFnU19YdldCam1WWm8?oc=5)
+
+**Other opens:**
+- *stakes:* The VA is using AI to rate your disability claim — and Congress is alarmed.
+- *deadline:* Before your VA claim is decided, you need to know who's actually reviewing it.
+- *myth_bust:* Think a human reviewed your VA rating decision? Maybe not anymore.
+
+**Audience-language opens (try these):**
+- VA claim denied — was it a computer?
+- VA AI disability claims oversight
+- how does VA decide my rating
+
+**Question answered:** If an algorithm rated your claim wrong, what can you do about it?
+
+**Caution:** Don't speculate that any specific veteran's claim was decided by AI; frame as a documented systemic concern raised by watchdogs and Congress.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [The VA Is Using AI to Decide Veterans' Disability Claims With Almost No Oversight](https://news.google.com/rss/articles/CBMiW0FVX3lxTE10R3FOTnc1bHFyN0xDUEZleFNtVGRTQ2Zaanl1ZTRsVHdhU0hBY1NyNlNUTDBtM000MU1QeUV2RDA2QzZ0NGdkMVRLbTBmdWFnU19YdldCam1WWm8?oc=5)
+
+**Outlet:** GreaterGood
+
+**Full eval:** The GreaterGood piece (5 days old) and the GAO/FedScoop reports together make this the sharpest process-integrity story in the intake. It maps cleanly to Harris appeals and rating work without teaching DIY.
+
+**Snippet:** The VA Is Using AI to Decide Veterans' Disability Claims With Almost No Oversight
+
+</details>
+
+---
+
+### 2. Senate just blocked a veterans bill — what does that mean for your VA disability pay?
+
+**Consider filming if:** Congress blocking veterans' benefits is a recurring frustration veterans already search; pairs a 21-day-old Newsweek peg with the ongoing VFW pressure campaign for a timely legislative stakes video.
+
+_pass · news · pay|rating_
+
+**Who this catches:** Already looking (search / YouTube stop)
+
+**Harris overlap:** pay|rating
+
+[Read source](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUMtSFJpVFNYTmpucG5LN0drLW5nVlhrdjN1enhLNGRxd251U1h1WEwwN2RGUEJ0Z0FrRGZrb0dOUk0wOVgxTGg5aTVQWnQ0WFdoYjJVV092ZjV3bTJwOW9GeS1jSmpITm13enFqZFhOcFNucGc3UG5RN0gzYk9pQ29sY0E4SW5G?oc=5)
+
+**Other opens:**
+- *stakes:* A Senate vote just put millions of veterans' disability compensation at risk.
+- *deadline:* Congress is in session now — and veterans' disability pay is on the table.
+- *myth_bust:* Think your VA disability rating is locked in forever? Congress can change that.
+
+**Audience-language opens (try these):**
+- veterans bill blocked Senate disability benefits
+- will VA disability compensation be cut
+- VFW protect veterans disability pay
+
+**Question answered:** If Congress cuts or freezes disability compensation, what protections do veterans actually have?
+
+**Caution:** Do not predict specific legislative outcomes; frame around what veterans should understand about the process and their options if benefits change.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [Senate blocks major veterans bill: How it impacts disability benefits](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUMtSFJpVFNYTmpucG5LN0drLW5nVlhrdjN1enhLNGRxd251U1h1WEwwN2RGUEJ0Z0FrRGZrb0dOUk0wOVgxTGg5aTVQWnQ0WFdoYjJVV092ZjV3bTJwOW9GeS1jSmpITm13enFqZFhOcFNucGc3UG5RN0gzYk9pQ29sY0E4SW5G?oc=5)
+
+**Outlet:** Newsweek
+
+**Full eval:** The Newsweek Senate-block story and the VFW action alert together anchor a legislative-stakes narrative that has broad scrolling appeal and connects directly to Harris's core pay and rating work.
+
+**Snippet:** Senate blocks major veterans bill: How it impacts disability benefits
+
+</details>
+
+---
+
+### 3. Thousands of VA appeal denials were wrong — is yours one of them?
+
+**Consider filming if:** Stars and Stripes reported thousands of erroneously denied appeals will get a second look — a concrete reopen moment that veterans who already lost an appeal will search for immediately.
+
+_pass · news · Appeals_
+
+**Who this catches:** Already looking (search / YouTube stop)
+
+**Harris overlap:** Appeals
+
+[Read source](https://news.google.com/rss/articles/CBMipgFBVV95cUxNR3ZvVlRSOW43N2FsRlFHUEtHOC1ySy1Dejhrek9TakRvZXRFTlRMSTdNVEs2eEM4OWx5V2JvRWFVUnZQQVhPdmhXaXk5Z25BdWNJYXNwbDFVdmtBQ1FRdUN5MEgtODk5NjVwUmtMMFRIZUpaY1NoY09wYzBXd1lqeUtqcXpPbm5ycEx0UjdtV1VURXJXVjBRb2o2SHJ3emZGUGl4b2JB?oc=5)
+
+**Other opens:**
+- *stakes:* The VA admitted thousands of appeal denials were errors. Here's what that means.
+- *deadline:* If your VA appeal was denied in recent years, there may be a limited window to act.
+- *myth_bust:* A VA appeal denial is not necessarily the end of the road.
+
+**Audience-language opens (try these):**
+- VA appeal denied want to reopen
+- VA erroneously denied claim how to fix
+- VA claim denied on appeal what next
+
+**Question answered:** How do you find out if your denied VA appeal qualifies for a second review?
+
+**Caution:** Do not promise that any viewer's specific denial will be reversed; position Harris as the guide to evaluating eligibility, not as guarantors of an outcome.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [Thousands of veterans' disability claims erroneously denied on appeal will get another look](https://news.google.com/rss/articles/CBMipgFBVV95cUxNR3ZvVlRSOW43N2FsRlFHUEtHOC1ySy1Dejhrek9TakRvZXRFTlRMSTdNVEs2eEM4OWx5V2JvRWFVUnZQQVhPdmhXaXk5Z25BdWNJYXNwbDFVdmtBQ1FRdUN5MEgtODk5NjVwUmtMMFRIZUpaY1NoY09wYzBXd1lqeUtqcXpPbm5ycEx0UjdtV1VURXJXVjBRb2o2SHJ3emZGUGl4b2JB?oc=5)
+
+**Outlet:** Stars and Stripes
+
+**Full eval:** The Stripes report on mass erroneous appeal denials is a concrete, actionable news hook that maps directly to Harris appeals work and will capture veterans actively searching after a denial.
+
+**Snippet:** Thousands of veterans' disability claims erroneously denied on appeal will get another look
+
+</details>
+
+---
+
+### 4. 47 senators say the VA's new sleep apnea and tinnitus rating rule is wrong — what's at stake for your rating?
+
+**Consider filming if:** Sleep apnea and tinnitus are among the most commonly claimed VA conditions; bipartisan Senate opposition to a proposed rating rule change gives this story immediate urgency for a huge segment of rated veterans.
+
+_pass · news · rating|appeals_
+
+**Who this catches:** Already looking (search / YouTube stop)
+
+**Harris overlap:** rating|appeals
+
+[Read source](https://news.google.com/rss/articles/CBMikAFBVV95cUxQbmxYNDlWWjdFY1g0ZXZCMWw4eDB5VnN5N1ZPWUdhQjdWRl80Zk5xd0RJN25mbV8wVktTX3VBTWdpZVczR2tnd2hhX1pGeGpTT2NBNDdUNWV3Z19INGZpUlJkajEwQ1VOUnA5SlN0b3dtWXZLQ0dZRU1tSU16eURJeHlWQ1BEdjQ0LUNhOHlzeDc?oc=5)
+
+**Other opens:**
+- *stakes:* A VA rule change could slash sleep apnea and tinnitus ratings for hundreds of thousands of veterans.
+- *deadline:* If you're rated for sleep apnea or tinnitus, this proposed VA rule change affects you now.
+- *myth_bust:* Think your current VA sleep apnea rating is safe? Not if this rule change goes through.
+
+**Audience-language opens (try these):**
+- VA sleep apnea rating rule change 2026
+- VA tinnitus rating reduced
+- sleep apnea VA rating going away
+
+**Question answered:** If the VA changes how it rates sleep apnea and tinnitus, what options do veterans have to protect their current rating?
+
+**Caution:** Do not state the rule has passed or that ratings have already been cut; the Senate opposition shows it is still contested — frame accurately.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [47 Senate Lawmakers Oppose VA Disability Rule on Sleep Apnea, Tinnitus](https://news.google.com/rss/articles/CBMikAFBVV95cUxQbmxYNDlWWjdFY1g0ZXZCMWw4eDB5VnN5N1ZPWUdhQjdWRl80Zk5xd0RJN25mbV8wVktTX3VBTWdpZVczR2tnd2hhX1pGeGpTT2NBNDdUNWV3Z19INGZpUlJkajEwQ1VOUnA5SlN0b3dtWXZLQ0dZRU1tSU16eURJeHlWQ1BEdjQ0LUNhOHlzeDc?oc=5)
+
+**Outlet:** Military.com
+
+**Full eval:** Sleep apnea and tinnitus generate some of the highest search volume in the VA disability space; a bipartisan Senate pushback story gives Harris a news-pegged, non-DIY angle that maps to rating and appeals work.
+
+**Snippet:** 47 Senate Lawmakers Oppose VA Disability Rule on Sleep Apnea, Tinnitus
+
+</details>
+
+---
+
+### 5. Did you know a 100% VA rating could be worth $1.5 million compared to civilian retirement?
+
+**Consider filming if:** The Reddit 401(k) equivalency post frames VA disability pay in a financial planning language that resonates with veterans who don't yet realize they may be underrated — strong scroll-stopper for a general feed.
+
+_review · reddit · pay|rating|tdiu_
+
+**Who this catches:** Has the need (may not have searched yet)
+
+**Harris overlap:** pay|rating|tdiu
 
 [Read source](https://www.reddit.com/r/VeteransBenefits/comments/1vxguny/va_disability_compensation_and_401k_equivalency/)
 
 **Other opens:**
-- *stakes:* Your VA rating has a dollar value most veterans never calculate.
-- *deadline:* Every month you're under-rated, that number keeps shrinking.
-- *myth_bust:* VA disability isn't charity — it's compensation worth more than most 401(k)s.
+- *stakes:* Your VA disability rating has a dollar value most veterans never calculate.
+- *deadline:* Every month you're underrated is tax-free money you're leaving on the table.
+- *myth_bust:* VA disability pay isn't just a monthly check — it's a retirement asset most veterans underestimate.
 
 **Audience-language opens (try these):**
-- va disability how much is it worth
-- 100% va disability pay 2026
-- va disability vs retirement
+- how much is VA disability worth
+- VA disability pay calculator
+- VA disability tax-free monthly pay
 
-**Question answered:** If a civilian needs $1.5 million saved to match what a 100%-rated veteran gets tax-free, why are so many veterans still rated lower than they should be?
+**Question answered:** If your rating is lower than it should be, how much lifetime value are you actually losing?
 
-**Caution:** Do not imply Harris guarantees a specific rating or dollar amount.
+**Caution:** Do not display or narrate specific dollar amounts as guaranteed outcomes for any viewer; use the Reddit framing as a conceptual lens, not a promise.
 
 <details>
 <summary>Original headline & context</summary>
@@ -70,7 +234,7 @@ _pass · reddit · rating|pay_
 
 **Outlet:** r/VeteransBenefits
 
-**Full eval:** Reddit post [1] from today quantifies the financial value of a 100% rating in terms civilians understand — strong hook for veterans who underestimate what an accurate rating means. Bridges pay frame directly to Harris's rating and service-connection work.
+**Full eval:** The 401k equivalency framing is a viral-friendly financial hook that meets veterans who haven't yet considered a claim or appeal, while pointing naturally toward Harris rating and TDIU work.
 
 **Snippet:** Civilian requires $1.5 million at retirement to match 100% VBA rating.
 
@@ -78,303 +242,198 @@ _pass · reddit · rating|pay_
 
 ---
 
-### 2. PACT Act turns 4 — are veterans still being left out of toxic-exposure claims?
+### 6. The PACT Act turned 4 — are you one of the veterans who still hasn't claimed what you're owed?
 
-**Consider filming if:** PACT Act's four-year anniversary gives a news peg; mandatory-review angle means new conditions may be added — urgency for veterans who assumed they didn't qualify.
+**Consider filming if:** The Military.com anniversary piece gives a timely news peg to reach veterans with toxic exposure who have not yet filed — a large untapped audience who may scroll past a generic PACT explainer but stop for an anniversary hook.
 
-_pass · news · service_connection|appeals_
-
-**Who this catches:** Already looking (search / YouTube stop)
-
-**Harris overlap:** service_connection|appeals
-
-[Read source](https://www.military.com/the-pact-act-veterans-toxic-exposure-turned-4-what-its-delivered-and-whats-still-to-come)
-
-**Other opens:**
-- *stakes:* Four years in, thousands of toxic-exposure veterans still haven't filed a VA claim.
-- *deadline:* A mandatory review could expand the presumptive list — your window to file matters.
-- *myth_bust:* Think the PACT Act doesn't cover your condition? That list is still growing.
-
-**Audience-language opens (try these):**
-- pact act presumptive conditions 2026
-- burn pit va claim
-- toxic exposure va disability
-
-**Question answered:** With hundreds of thousands enrolled and a mandatory review that could add more conditions, how do veterans know if they qualify — and what happens if they missed the window?
-
-**Caution:** Do not walk through how to file a PACT Act claim or how to write a nexus letter for non-presumptive conditions.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [The PACT Act Turned 4. What It's Delivered and What's Still to Come](https://www.military.com/the-pact-act-veterans-toxic-exposure-turned-4-what-its-delivered-and-whats-still-to-come)
-
-**Outlet:** Military.com
-
-**Full eval:** Military.com's four-year anniversary piece [3] published today is a strong news peg with built-in urgency and a forward-looking hook (mandatory review). Aligns with Harris's service-connection and appeals work for toxic-exposure veterans.
-
-**Snippet:** With hundreds of thousands of veterans enrolled in care, a mandatory review could add more toxic exposure conditions to the list.
-
-</details>
-
----
-
-### 3. Can you get 100% VA pay without a 100% disability rating?
-
-**Consider filming if:** Military.com published a TDIU explainer today — high search intent term, natural Harris reaction opportunity without becoming a how-to.
-
-_pass · news · tdiu|pay_
-
-**Who this catches:** Already looking (search / YouTube stop)
-
-**Harris overlap:** tdiu|pay
-
-[Read source](https://www.military.com/how-veterans-can-receive-100-va-pay-without-a-100-disability-rating-what-is-tdiu)
-
-**Other opens:**
-- *stakes:* Your rating stays the same, but your VA paycheck can jump to 100% — here's why.
-- *deadline:* If you can't work because of your service-connected condition, waiting costs you money.
-- *myth_bust:* You don't need a 100% rating to receive 100% VA pay — most veterans don't know this.
-
-**Audience-language opens (try these):**
-- TDIU va disability
-- individual unemployability va
-- va 100% pay without 100% rating
-
-**Question answered:** If a veteran's service-connected conditions prevent them from holding steady employment, what does TDIU actually pay — and who qualifies?
-
-**Caution:** React to the concept; do not coach how to document unemployability or fill out VA Form 21-4140.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [How Veterans Can Receive 100% VA Pay Without a 100% Disability Rating: What Is TDIU?](https://www.military.com/how-veterans-can-receive-100-va-pay-without-a-100-disability-rating-what-is-tdiu)
-
-**Outlet:** Military.com
-
-**Full eval:** Today's Military.com piece [19] is a timely news peg on one of the highest-search VA terms. TDIU is a core Harris offering and this avoids the DIY trap by framing it as a rights conversation, not a filing tutorial.
-
-**Snippet:** The rating on paper never changes. The paycheck does. Here's how the program works.
-
-</details>
-
----
-
-### 4. 90,000 veterans had their VA appeals wrongly denied — is yours one of them?
-
-**Consider filming if:** Denial-and-reopen story with a large, specific number — high emotional pull for veterans who received appeal denials and assumed the fight was over.
-
-_pass · news · Appeals_
-
-**Who this catches:** Already looking (search / YouTube stop)
-
-**Harris overlap:** Appeals
-
-[Read source](https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1RhMzZsODVoRk1tZmZmSVRsUDRjRkxlOHpDVjNORW1IV3czb1JfbUpvYWg0cDZmVGN6RkZGN05XOTVESWV4WVk5cGdVaVNmYjVGQWc4YUpaekhUSVBZbWtRQW1LVVowOFlGYUFoT2RmbzRabWhXdlVtMGlTRnowMmxsWnFPMHptbWl4TE5TS2kxRFZDaUFfTGZn)
-
-**Other opens:**
-- *stakes:* Tens of thousands of veterans gave up on appeals that should have been approved.
-- *deadline:* The VA is reopening denied appeals — but veterans have to act to benefit.
-- *myth_bust:* A VA appeal denial doesn't always mean the decision was correct.
-
-**Audience-language opens (try these):**
-- va disability appeal denied
-- va claim appeal reopened
-- erroneous va denial
-
-**Question answered:** If the VA has admitted tens of thousands of appeal denials were wrong, how does a veteran find out if their case is one of them — and what are the next steps?
-
-**Caution:** Do not promise that any specific veteran's denial will be reversed; note outcomes vary.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [90,000 Veterans Could Get VA Disability Appeals Reopened After Decades](https://news.google.com/rss/articles/CBMimgFBVV95cUxQa1RhMzZsODVoRk1tZmZmSVRsUDRjRkxlOHpDVjNORW1IV3czb1JfbUpvYWg0cDZmVGN6RkZGN05XOTVESWV4WVk5cGdVaVNmYjVGQWc4YUpaekhUSVBZbWtRQW1LVVowOFlGYUFoT2RmbzRabWhXdlVtMGlTRnowMmxsWnFPMHptbWl4TE5TS2kxRFZDaUFfTGZn)
-
-**Outlet:** Military.com
-
-**Full eval:** Stars and Stripes [4] and Military.com [22] both cover this story; Military.com puts the figure at 90,000. Strong appeal-and-reopen hook that maps directly to Harris's appeals practice. Use Military.com as primary source for the larger, more specific number.
-
-**Snippet:** 90,000 Veterans Could Get VA Disability Appeals Reopened After Decades.
-
-</details>
-
----
-
-### 5. Your VA disability pay goes up every year — do you know by how much?
-
-**Consider filming if:** COLA is a perennial high-search topic; MOAA's 2027 projection piece is fresh and gives a concrete forward-looking hook without being evergreen filler.
-
-_review · news · pay|rating_
-
-**Who this catches:** Already looking (search / YouTube stop)
-
-**Harris overlap:** pay|rating
-
-[Read source](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVlUwSElyQVZmZmc0ODlfQ0kydm9zLTNEUEVhU3JUTWZ2N3d4YTJxSEV0aHhLVVNydEhadV9fYmVkdERGajRXbkZab2NVa01od014TWRrLUd2anduRjFCaG4wcHJBSlZydFoxc3VQLWIzb1lwS1YwYi15QUtFbEVTNTlxOC1oVlhNSklYRG1mTzZMMTNBNjJ1QmhQak5XYTdoNUFNNFVSTlZEZThKWEY2T2J3c1JteGJxellaMmZPWTlsWVpZSlBuR2F3MFkwUG5uRkdoQVBSYzl3YUEyd3VPUg)
-
-**Other opens:**
-- *stakes:* A higher rating means a bigger COLA raise every single year — the math adds up fast.
-- *deadline:* The 2027 COLA projection is already out — see what it means for your VA check.
-- *myth_bust:* VA disability pay isn't frozen — it adjusts for inflation automatically each year.
-
-**Audience-language opens (try these):**
-- va disability cola 2027
-- va disability pay increase 2027
-- how much does va disability go up each year
-
-**Question answered:** With the 2027 COLA projection already published, what does an annual inflation adjustment actually mean for a veteran's monthly tax-free payment — especially if their rating isn't where it should be?
-
-**Caution:** Do not quote a specific COLA percentage as guaranteed; note projections can change.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [COLA Countdown: Latest Projection on the 2027 Increase](https://news.google.com/rss/articles/CBMi4AFBVV95cUxNVlUwSElyQVZmZmc0ODlfQ0kydm9zLTNEUEVhU3JUTWZ2N3d4YTJxSEV0aHhLVVNydEhadV9fYmVkdERGajRXbkZab2NVa01od014TWRrLUd2anduRjFCaG4wcHJBSlZydFoxc3VQLWIzb1lwS1YwYi15QUtFbEVTNTlxOC1oVlhNSklYRG1mTzZMMTNBNjJ1QmhQak5XYTdoNUFNNFVSTlZEZThKWEY2T2J3c1JteGJxellaMmZPWTlsWVpZSlBuR2F3MFkwUG5uRkdoQVBSYzl3YUEyd3VPUg)
-
-**Outlet:** MOAA
-
-**Full eval:** MOAA's August 19 piece [2] is the freshest and highest-credibility COLA source in the intake. Pairs naturally with Harris's pay and rating work — a higher accurate rating compounds the COLA benefit every year.
-
-**Snippet:** COLA Countdown: Latest Projection on the 2027 Increase.
-
-</details>
-
----
-
-### 6. Can VA disability pay affect your Social Security — what veterans need to know?
-
-**Consider filming if:** SSA-overlap confusion is evergreen Reddit gold; no direct intake news peg this week but the need is constant and maps to Harris's TDIU and rating work.
-
-_review · evergreen · tdiu|pay_
+_review · news · Service connection_
 
 **Who this catches:** Has the need (may not have searched yet)
 
-**Harris overlap:** tdiu|pay
+**Harris overlap:** Service connection
+
+[Read source](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSU9PZ05OUlhVblFuZF96YWw5Ylpyc2lrRm5MZ1F6MW5HMXpMb08yUmE4UzRZQVI1Z1hNMnk5VXd6MGhyaEdBaVBKMzhkdUp3dDB4dmQ0cTRtVVNUcmZXdkpkbXFQZ2pCVWdWOUtYTEZmMzBacnlaSHBENmp3ckxEZDV5ZG9vUl92TjJwT2ZMcWZDZHRJRVBUbXJiZ3dkdVFtdHhYeG9oTjBuMjBvQjF6TXlkdw?oc=5)
 
 **Other opens:**
-- *stakes:* Many veterans don't realize VA pay and Social Security interact in ways that cost them money.
-- *deadline:* If you're approaching retirement age with a VA rating, the timing of your claims matters.
-- *myth_bust:* VA disability compensation does NOT reduce your Social Security — but SSDI is a different story.
+- *stakes:* Four years after the PACT Act, thousands of veterans still haven't filed a presumptive claim.
+- *deadline:* The PACT Act window is open — but not acting now means more months of back pay you'll never recover.
+- *myth_bust:* Think you have to prove your burn pit exposure caused your illness? The PACT Act changed that.
 
 **Audience-language opens (try these):**
-- va disability and social security
-- can i get va disability and ssdi
-- tdiu and social security
+- PACT Act claim how to qualify
+- burn pit VA claim presumptive
+- toxic exposure VA disability
 
-**Question answered:** When a veteran receives TDIU and also qualifies for Social Security disability, how do those two programs interact — and is there any benefit to having the right legal help managing both?
+**Question answered:** If you were exposed to burn pits or toxic chemicals and haven't filed, what are you leaving behind?
 
-**Caution:** Do not provide legal or Social Security advice; frame as a complexity that warrants professional guidance.
+**Caution:** Do not teach the filing process or list every presumptive condition; keep focus on whether veterans know they may qualify and what Harris can help evaluate.
 
 <details>
 <summary>Original headline & context</summary>
 
-**Full eval:** No strong news peg this week; treat as evergreen. SSA-overlap is one of the most-searched confusion points for rated veterans and aligns with Harris's TDIU practice. Clearly separated from the COLA/pay cluster.
+**Source headline:** [The PACT Act Turned 4. What It's Delivered and What's Still to Come](https://news.google.com/rss/articles/CBMiswFBVV95cUxQSU9PZ05OUlhVblFuZF96YWw5Ylpyc2lrRm5MZ1F6MW5HMXpMb08yUmE4UzRZQVI1Z1hNMnk5VXd6MGhyaEdBaVBKMzhkdUp3dDB4dmQ0cTRtVVNUcmZXdkpkbXFQZ2pCVWdWOUtYTEZmMzBacnlaSHBENmp3ckxEZDV5ZG9vUl92TjJwT2ZMcWZDZHRJRVBUbXJiZ3dkdVFtdHhYeG9oTjBuMjBvQjF6TXlkdw?oc=5)
+
+**Outlet:** Military.com
+
+**Full eval:** A four-year anniversary is a natural news hook for a presumptive/service-connection video that reaches veterans who have the need but haven't acted — directly supporting Harris service connection work.
+
+**Snippet:** The PACT Act Turned 4. What It's Delivered and What's Still to Come
 
 </details>
 
 ---
 
-### 7. VA disability pay rose 40% in 14 years — but are veterans getting what they're owed?
+### 7. Did you know your VA rating has to hit 30% before you can add a dependent spouse?
 
-**Consider filming if:** Military Times study [26] provides a credible data point that reframes the conversation from 'veterans cost too much' to 'are ratings accurate' — good for veterans who feel stigmatized.
+**Consider filming if:** The Reddit dependent question thread reflects a very common and costly mistake — veterans miss dependent pay for months because they don't know the 30% threshold rule. Strong evergreen-adjacent hook with real financial stakes.
 
-_review · news · rating|service_connection_
-
-**Who this catches:** Has the need (may not have searched yet)
-
-**Harris overlap:** rating|service_connection
-
-[Read source](https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVVXX29sZWI2ZHh5SW1CZ0swckhHUGFuaFF2MWVsUGNTaURkZ2JQd2ZvT2Q5UUxFbWFHZzdvZW5aWWZwanBTTEpLdVhtSERUclFIODZ2Ykdiajd6MUc0UmJsb0FoNl8tSUVRTDVKbDlNb2VDQWVUaFRpZ044NXRwTER2YVRlblJLcGdDU1dqeHpJOE5oY1BfZEJKVnhfb3RSbjBERmUza3A5WTJubmVlSW9PaXRDbm4wRmJZOVZ6LTdINk0)
-
-**Other opens:**
-- *stakes:* Average VA payments grew 40% — but only if your rating is accurate in the first place.
-- *deadline:* The longer an incorrect rating sits unchallenged, the more back pay a veteran forfeits.
-- *myth_bust:* Higher average payments don't mean veterans are over-rated — they reflect more veterans finally getting service-connected.
-
-**Audience-language opens (try these):**
-- va disability rating increase
-- va disability average payment
-- are va ratings accurate
-
-**Question answered:** If average VA disability payments have risen nearly 40% over 14 years, does that mean veterans are being over-compensated — or that more of them are finally getting the rating they deserve?
-
-**Caution:** Do not editorialize about VA overpayment or fraud concerns; keep framing on accurate ratings for legitimate claimants.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [Average VA disability payments rose nearly 40% in past 14 years, study finds](https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVVXX29sZWI2ZHh5SW1CZ0swckhHUGFuaFF2MWVsUGNTaURkZ2JQd2ZvT2Q5UUxFbWFHZzdvZW5aWWZwanBTTEpLdVhtSERUclFIODZ2Ykdiajd6MUc0UmJsb0FoNl8tSUVRTDVKbDlNb2VDQWVUaFRpZ044NXRwTER2YVRlblJLcGdDU1dqeHpJOE5oY1BfZEJKVnhfb3RSbjBERmUza3A5WTJubmVlSW9PaXRDbm4wRmJZOVZ6LTdINk0)
-
-**Outlet:** Military Times
-
-**Full eval:** Military Times [26] study from July 30 is recent, credible, and can be used as a reaction piece. Distinct from the denial-reopen cluster and the COLA cluster — this is a ratings-accuracy and stigma-busting angle.
-
-**Snippet:** Average VA disability payments rose nearly 40% in past 14 years, study finds.
-
-</details>
-
----
-
-### 8. Working part-time on TDIU — can the VA pull your disability rating?
-
-**Consider filming if:** Reddit post [35] from today captures a real veteran fear about TDIU and work — high anxiety topic with direct Harris overlap, clearly different from the TDIU explainer film.
-
-_review · reddit · tdiu|appeals_
+_review · reddit · rating|pay_
 
 **Who this catches:** Already looking (search / YouTube stop)
 
-**Harris overlap:** tdiu|appeals
+**Harris overlap:** rating|pay
 
-[Read source](https://www.reddit.com/r/VeteransBenefits/comments/1vx3xoh/va_disability_pulled/)
+[Read source](https://www.reddit.com/r/VeteransBenefits/comments/1vxz0fi/dependent_question_while_waiting_on_va_rating/)
 
 **Other opens:**
-- *stakes:* One wrong step on TDIU and the VA could reduce your entire disability payment.
-- *deadline:* If you're on TDIU and thinking about returning to work, you need to know the rules first.
-- *myth_bust:* TDIU doesn't mean you can never work again — but the income limits are strict.
+- *stakes:* Missing the 30% VA rating threshold could cost you hundreds of dollars a month in dependent pay.
+- *deadline:* If you just crossed 30% on your VA rating, you have a limited window to add dependents and recapture back pay.
+- *myth_bust:* You can't add a spouse to your VA disability pay at any rating — here's the threshold most veterans miss.
 
 **Audience-language opens (try these):**
-- tdiu and working part time
-- can va take away 100% unemployability
-- individual unemployability income limits
+- VA rating add dependent spouse
+- VA disability dependent pay 30 percent
+- how to add dependent VA claim
 
-**Question answered:** If a veteran on TDIU tries part-time work to make ends meet, what are the real risks to their rating — and what does 'marginal employment' actually mean under VA rules?
+**Question answered:** If your rating recently crossed 30%, are you collecting everything you're entitled to for your family?
 
-**Caution:** Do not explain exactly how much a veteran can earn or coach them to stay under an income threshold — direct to professional guidance.
+**Caution:** Do not walk through the online form for adding dependents; focus on the threshold concept and what a rating review could mean for total household pay.
 
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [VA Disability Pulled? : r/VeteransBenefits](https://www.reddit.com/r/VeteransBenefits/comments/1vx3xoh/va_disability_pulled/)
+**Source headline:** [Dependent question while waiting on VA rating](https://www.reddit.com/r/VeteransBenefits/comments/1vxz0fi/dependent_question_while_waiting_on_va_rating/)
 
 **Outlet:** r/VeteransBenefits
 
-**Full eval:** Today's Reddit post [35] is a live veteran fear about TDIU continuity — distinct from the Military.com TDIU explainer (what is TDIU) by focusing on the threat of losing it. Maps to Harris's TDIU defense and appeals work.
+**Full eval:** Fresh Reddit thread with high relatable search intent; connects to Harris rating work because the path to dependent pay runs through getting the right rating first.
 
-**Snippet:** I'm currently at 70% but rated at 100% unemployable. I've chosen to try and work part time because I just can't get by on one income.
+**Snippet:** I didn't realize you had to be rated at least 30% before you could receive additional compensation for a dependent spouse.
 
 </details>
 
 ---
 
-### 9. What extra VA benefits kick in once your rating hits 100%?
+### 8. Congress proposed cutting VA disability benefits for 1.5 million veterans — what can you do right now?
+
+**Consider filming if:** The DAV condemnation of a congressional cut proposal and the VFW action alert together make a strong legislative-threat angle for veterans who aren't yet engaged with the issue but stand to lose compensation.
+
+_review · news · pay|appeals_
+
+**Who this catches:** Has the need (may not have searched yet)
+
+**Harris overlap:** pay|appeals
+
+[Read source](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaGlZWndNWUlhYkhxSkFWY3VlUFl3V3ppODhDdlBIY2s3Skdhclo3V0hOZXpBcUFIaktGRnZKXzE4N3ZPNEtLYzBEa0NURkJXM19kVHhkUHNaLUNwQmpDWUppa3NNV2RxQ3BobWdmQ0dDWm1QRUtxc2xnSkt3MTYzREstZGlza0Fpa28yOWRfQjFibXBwb3dOeVd3ZV9Ya0lQeVdTSThYT1FIZXJYSlh2WlhvcmIwd09hclVLRTlDaTE1MVNvdDVfYQ?oc=5)
+
+**Other opens:**
+- *stakes:* A congressional proposal could reduce earned disability compensation for over a million veterans.
+- *deadline:* The window to influence this vote is now — here's what 1.5 million veterans are facing.
+- *myth_bust:* VA disability compensation isn't untouchable — and a current proposal proves it.
+
+**Audience-language opens (try these):**
+- VA disability cuts Congress 2026
+- veteran disability compensation protected
+- DAV VFW disability benefits cut proposal
+
+**Question answered:** If your VA disability compensation is reduced by legislation, what legal avenues exist to protect your benefits?
+
+**Caution:** Do not state the cuts have passed or are certain; DAV framing as a proposal is accurate — present as an active threat, not a fait accompli.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [DAV condemns congressional proposal to cut disability benefits for 1.5 million veterans](https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaGlZWndNWUlhYkhxSkFWY3VlUFl3V3ppODhDdlBIY2s3Skdhclo3V0hOZXpBcUFIaktGRnZKXzE4N3ZPNEtLYzBEa0NURkJXM19kVHhkUHNaLUNwQmpDWUppa3NNV2RxQ3BobWdmQ0dDWm1QRUtxc2xnSkt3MTYzREstZGlza0Fpa28yOWRfQjFibXBwb3dOeVd3ZV9Ya0lQeVdTSThYT1FIZXJYSlh2WlhvcmIwd09hclVLRTlDaTE1MVNvdDVfYQ?oc=5)
+
+**Outlet:** DAV
+
+**Full eval:** Pairs the DAV condemnation with the VFW action alert for a legislative-threat video that differs from the Senate-block film_first by focusing on the compensation-cut angle rather than the blocked bill's broader provisions.
+
+**Snippet:** DAV condemns congressional proposal to cut disability benefits for 1.5 million veterans
+
+</details>
+
+---
+
+### 9. You served, you're rated — but are you rated correctly?
 
 _Evergreen — not breaking news._
 
 **Who this catches:** Has the need (may not have searched yet)
 
-**Harris overlap:** ancillary|rating
+**Harris overlap:** Ratings
 
-**Question answered:** Beyond monthly pay, what ancillary benefits — adapted housing, vehicle grants, SMC, life insurance — does a 100% rating unlock, and how many veterans are leaving them on the table?
+**Question answered:** What does it actually mean to have the right VA disability rating, and what changes if yours is wrong?
 
-**Why it’s here:** Veterans routinely miss ancillary benefits after reaching 100% or P&T status. Maps to Harris's extra-benefits practice (auto, housing, SMC, VR&E) and catches both searchers and scrollers who don't know what they're missing.
+**Why it’s here:** Massive search volume around 'VA rating' and 'VA rating increase' from veterans who suspect they're underrated but don't know what to do next — points directly to Harris rating review work without teaching DIY.
 
-**Caution:** Do not frame as a guaranteed package — eligibility varies by condition and rating type.
+**Caution:** Do not show or narrate the rating formula or combined-ratings math; keep focus on the concept of an accurate rating and what professional review looks like.
 
 
 ---
 
-### 10. What is a C&P exam and why does it decide your VA rating?
+### 10. What is TDIU and why do so many veterans with less than 100% qualify for 100% pay?
+
+_Evergreen — not breaking news._
+
+**Who this catches:** Has the need (may not have searched yet)
+
+**Harris overlap:** Unemployability (TDIU)
+
+**Question answered:** If your service-connected disability keeps you from holding a job, are you missing out on Individual Unemployability benefits?
+
+**Why it’s here:** TDIU is consistently one of the highest-value Harris offerings and is deeply misunderstood — veterans with 60% or 70% ratings who can't work often don't know this pathway exists.
+
+**Caution:** Do not promise that any viewer qualifies; frame TDIU as a pathway worth evaluating with professional help.
+
+
+---
+
+### 11. Your VA claim was denied — that is not the end of the road.
+
+_Evergreen — not breaking news._
+
+**Who this catches:** Has the need (may not have searched yet)
+
+**Harris overlap:** Appeals
+
+**Question answered:** What are the real options after a VA denial, and how long do veterans actually have to act?
+
+**Why it’s here:** Denial is the single most searched moment in the VA disability journey; veterans who just received a denial letter will find this video at peak motivation to take action.
+
+**Caution:** Do not walk through AMA lanes or deadlines in tutorial form; frame the existence of options and the value of professional evaluation.
+
+
+---
+
+### 12. What extra VA benefits come with a 100% disability rating that most veterans never use?
+
+_Evergreen — not breaking news._
+
+**Who this catches:** Has the need (may not have searched yet)
+
+**Harris overlap:** Extra benefits
+
+**Question answered:** Beyond the monthly check, what ancillary benefits — adapted housing, auto allowance, SMC — does a 100% rating unlock?
+
+**Why it’s here:** Veterans who are already rated often don't know about adapted housing grants, the auto allowance, SMC, or VR&E — high-value content for a rated audience that deepens Harris's relationship with existing clients and their networks.
+
+**Caution:** Do not frame as 'free money' or imply every viewer qualifies for all benefits; make clear eligibility depends on individual circumstances.
+
+
+---
+
+### 13. What is a C&P exam and why can it make or break your VA disability rating?
 
 _Evergreen — not breaking news._
 
@@ -382,62 +441,11 @@ _Evergreen — not breaking news._
 
 **Harris overlap:** rating|service_connection
 
-**Question answered:** The C&P exam is the single most consequential appointment in most veterans' claims process — what actually happens there and why do so many veterans leave money behind after one?
+**Question answered:** If the VA scheduled a Compensation and Pension exam for you, what should you understand about what happens next?
 
-**Why it’s here:** C&P exam is one of the top-searched VA disability terms. A Harris reaction video can explain stakes and consequences without coaching exam tactics — naturally leads to 'having representation can help ensure your evidence is complete beforehand.'
+**Why it’s here:** C&P exam is a top-searched term among veterans mid-claim; this video catches people in a high-anxiety, high-intent moment and positions Harris as a knowledgeable guide without teaching exam tactics.
 
-**Caution:** Do not coach how to pass, answer questions, or present symptoms — reaction and stakes only.
-
-
----
-
-### 11. Is your VA disability rating permanent — or can it be reduced?
-
-_Evergreen — not breaking news._
-
-**Who this catches:** Has the need (may not have searched yet)
-
-**Harris overlap:** rating|appeals
-
-**Question answered:** Veterans with P&T status have strong protections, but most rated veterans don't know when or how the VA can propose a reduction — what should they understand about protecting their rating?
-
-**Why it’s here:** Rating reduction fear is perennial Reddit anxiety. Covers P&T protections, reexamination triggers, and the value of legal help — all core Harris territory with no DIY risk.
-
-**Caution:** Do not provide a checklist of how to avoid a reduction — frame as a reasons-to-get-help topic.
-
-
----
-
-### 12. Can a secondary condition increase your VA disability rating?
-
-_Evergreen — not breaking news._
-
-**Who this catches:** Has the need (may not have searched yet)
-
-**Harris overlap:** service_connection|rating
-
-**Question answered:** If a service-connected condition causes or worsens another medical problem, veterans may be able to claim the second condition as secondary — how does that change the overall rating math?
-
-**Why it’s here:** Secondary conditions and nexus are high-search topics. Harris can react to the concept — what qualifies, why it matters for combined ratings — without writing the nexus letter for the viewer.
-
-**Caution:** Do not explain how to write a nexus letter or what medical language to use — direct to professional help.
-
-
----
-
-### 13. What happens to your VA claim if you file an Intent to File first?
-
-_Evergreen — not breaking news._
-
-**Who this catches:** Has the need (may not have searched yet)
-
-**Harris overlap:** pay|service_connection|appeals
-
-**Question answered:** Intent to File is one of the most underused tools in VA disability — it locks in an effective date up to a year before a formal claim is submitted, potentially meaning thousands in retroactive pay. Why don't more veterans use it?
-
-**Why it’s here:** Intent to File is a high-search term among veterans who are gathering evidence. A Harris reaction video explains the financial stakes of the effective date without crossing into DIY filing territory.
-
-**Caution:** Do not walk through how to complete the form — focus on the financial consequence of the effective date.
+**Caution:** Do not coach veterans on how to perform at a C&P exam or what to say — that crosses into DIY how-to territory. Focus on what the exam determines and why professional support around the claim matters.
 
 
 ---
