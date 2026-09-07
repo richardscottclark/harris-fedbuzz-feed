@@ -1,133 +1,98 @@
 **Private:** Do not share this page link or the RSS feed URL outside the Harris producer team.
 
-# FedBuzz Producer Brief — 2026-08-31
+# FedBuzz Producer Brief — 2026-09-07
 
-**11 topics** (5 film-first · 6 also consider) + **6 Fed Department Focus** + **5 evergreen** — each block opens with the walkaround line. Skim the list; expand only what you might film.
+**8 topics** (2 film-first · 6 also consider) + **6 Fed Department Focus** + **5 evergreen** — each block opens with the walkaround line. Skim the list; expand only what you might film.
 
 ## Film these
 
 _Stronger short-form fit — start here._
 
-1. [Are the job protections every federal employee relies on now void?](#topic-1)
-2. [Adding a dependent to FEHB this year? OPM is now checking everyone.](#topic-2)
-3. [Are you a federal employee who posts political content online?](#topic-3)
-4. [Are you a fed? New OPM rules on firings are being challenged in court.](#topic-4)
-5. [Are State Department feds about to lose their civil service protections?](#topic-5)
+1. [Feds took the buyout — and their jobs just got filled anyway?](#topic-1)
+2. [Are USPS managers delaying your mail to dodge paying you OT?](#topic-2)
 
 ## Also consider
 
 _Softer fit — worth a look if the list above is thin or these match your lane._
 
-6. [Feds, OPM just killed the survey that rated your workplace.](#topic-6)
-7. [Postal workers: your union just voted on your sick leave rights.](#topic-7)
-8. [Are your USPS pension payments actually suspended right now?](#topic-8)
-9. [Postal workers, your union just voted away the right to strike.](#topic-9)
-10. [Are SSA's 'ghost offices' about to affect your federal retirement timeline?](#topic-10)
-11. [Are new voices at NALC about to change things for postal workers?](#topic-11)
+3. [Are USPS workers being set up to fail on mail voting?](#topic-3)
+4. [Are federal employees next under OPM's new RIF rules?](#topic-4)
+5. [Could your federal job lose its civil service protections?](#topic-5)
+6. [Are you an NTEU federal employee who stopped paying dues?](#topic-6)
+7. [Are you a fed with a side gig — do you know the rules?](#topic-7)
+8. [Are USPS retirement funds putting your postal FERS benefit at risk?](#topic-8)
 
 ## Fed Department Focus
 
 _News about specific federal agencies, with a clear angle for federal employees. Use these if they are stronger than the week’s main list._
 
-12. [Arbitrator: HHS broke the CBA firing 5,000 probationary feds](#topic-12)
-13. [Arbitrator orders IRS telework back — but your CBA protection may differ](#topic-13)
-14. [Probationary feds: MSPB ruling may not end your appeal fight](#topic-14)
-15. [Arbitrator wins mean nothing if agency appeals — Forest Service risk](#topic-15)
-16. [Your VA telework IS your ADA accommodation — RTO can strip it](#topic-16)
-17. [Federal Circuit ruling could reshape DHS probationary workers' appeal rights](#topic-17)
+9. [Arbitrator: HHS broke the CBA firing 5,000 probationary feds](#topic-9)
+10. [Arbitrator orders IRS telework back — but your CBA protection may differ](#topic-10)
+11. [Probationary feds: MSPB ruling may not end your appeal fight](#topic-11)
+12. [Arbitrator wins mean nothing if agency appeals — Forest Service risk](#topic-12)
+13. [Your VA telework IS your ADA accommodation — RTO can strip it](#topic-13)
+14. [Federal Circuit ruling could reshape DHS probationary workers' appeal rights](#topic-14)
 
 ## Evergreen
 
 _Short money / retirement seeds. Film one if you want a different lane from this week’s news._
 
-18. [Are you leaving free TSP matching on the table?](#topic-18)
-19. [Feds — have you checked your FERS calculator this year?](#topic-19)
-20. [TSP funds explained — which one fits your timeline?](#topic-20)
-21. [TSP rollover options — stay in, roll out, or wait?](#topic-21)
-22. [Federal retirement planning — what should you verify this year?](#topic-22)
+15. [Are you leaving free TSP matching on the table?](#topic-15)
+16. [Feds — have you checked your FERS calculator this year?](#topic-16)
+17. [TSP funds explained — which one fits your timeline?](#topic-17)
+18. [TSP rollover options — stay in, roll out, or wait?](#topic-18)
+19. [Federal retirement planning — what should you verify this year?](#topic-19)
 
 ---
 
-### 1. Are the job protections every federal employee relies on now void?
+### 1. Feds took the buyout — and their jobs just got filled anyway?
 
-**Consider filming if:** The CSRA is the foundational law protecting federal civil servants from arbitrary firing — if courts greenlight the administration's unitar…
+**Consider filming if:** Feds who took the Deferred Resignation Program were told they could step back — now reports say their positions have been backfilled, raisi…
 
-_pass · news · career_security · 5d ago_
+_pass · news · retirement · 12d ago_
 
-[Read source](https://federalnewsnetwork.com/commentary/2026/08/can-the-president-ignore-the-csras-job-protections-for-federal-employees/)
+[Read source](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVTh2UnZ4QUloZ284MWE5Z1VydGI4V2pVSkZkQjJ6ZFExa3h1LXJGV0lOenNPYUtsdjJYc1M2djV5X1R4dWg0UklJWHBDQlI5dDIxQmIwLUZEbDJuZHI1MHpjQkJlYTRkMk9IQklrM2VlVU4zeDFuS0R3cXZEU21nOWh3SEdsYkdOeG9Vb0U1V0RLN0tmVlliX01lY2tFWjNPeFpJQ2JxMWl3cUpGN0dYdlhDYmxMZzRiWTQ4dEdERQ?oc=5)
 
 **Other opens:**
-- *Stakes / FOMO:* Federal workers' firing protections may be gutted — here's what's at stake.
-- *Deadline:* Before the Court rules, every fed needs to understand this CSRA threat.
-- *Myth-bust:* Feds, your civil service protections aren't as locked in as you think.
+- *Stakes / FOMO:* Feds who took the DRP may have given up jobs that still exist.
+- *Deadline:* Still deciding on a buyout? Federal replacements are already being hired.
+- *Myth-bust:* The DRP wasn't workforce reduction — agencies are already rehiring those roles.
 
-**Question answered:** Can the president legally bypass the CSRA's job protections for federal employees?
+**Question answered:** Were federal DRP takers replaced, and what does that mean for those who stayed?
 
-**Caution:** Do not overstate the ruling as final — litigation is ongoing; hedge accordingly on camera.
+**Caution:** Snippet is thin — confirm 'replaced' means active backfill, not reorganization, before filming.
 
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [Can the president ignore the CSRA’s job protections for federal employees?](https://federalnewsnetwork.com/commentary/2026/08/can-the-president-ignore-the-csras-job-protections-for-federal-employees/)
+**Source headline:** [Thousands of feds who took the DRP have essentially been replaced](https://news.google.com/rss/articles/CBMivwFBVV95cUxNVTh2UnZ4QUloZ284MWE5Z1VydGI4V2pVSkZkQjJ6ZFExa3h1LXJGV0lOenNPYUtsdjJYc1M2djV5X1R4dWg0UklJWHBDQlI5dDIxQmIwLUZEbDJuZHI1MHpjQkJlYTRkMk9IQklrM2VlVU4zeDFuS0R3cXZEU21nOWh3SEdsYkdOeG9Vb0U1V0RLN0tmVlliX01lY2tFWjNPeFpJQ2JxMWl3cUpGN0dYdlhDYmxMZzRiWTQ4dEdERQ?oc=5)
 
-**Outlet:** FNN · Workforce
+**Outlet:** Google News · VERA buyout
 
-**Full eval:** The CSRA is the foundational law protecting federal civil servants from arbitrary firing — if courts greenlight the administration's unitary executive theory, those protections could collapse for every fed. Stakes are personal and immediate: job security, due-process rights, appeal rights. Possibly good for a walk-and-talk news reaction, though the constitutional mechanics may need tight scripting to land in under 45 seconds without losing the viewer.
+**Full eval:** Feds who took the Deferred Resignation Program were told they could step back — now reports say their positions have been backfilled, raising real questions about whether the DRP was a workforce reduction in disguise. Stakes are concrete: job security, the legitimacy of that buyout offer, and whether feds who stayed are now watching their colleagues get quietly replaced. Possibly good for a walk-and-talk news reaction; the core irony lands in one sentence without needing charts.
 
-**Snippet:** If the Court ultimately endorses this administration’s actions for all employees as a matter of unitary executive theory, the entire CSRA will be invalidated.
+**Snippet:** Thousands of feds who took the DRP have essentially been replaced Federal News Network
 
 </details>
 
 ---
 
-### 2. Adding a dependent to FEHB this year? OPM is now checking everyone.
+### 2. Are USPS managers delaying your mail to dodge paying you OT?
 
-**Consider filming if:** Federal employees adding a spouse or dependent to FEHB this Open Season now face mandatory documentation checks — every case, no exceptions…
+**Consider filming if:** Postal workers face a direct livelihood question here: is USPS deliberately holding mail to dodge overtime pay, and what does that mean for…
 
-_pass · news · retirement · 6d ago_
+_pass · news · federal_workforce · 13d ago_
 
-[Read source](https://www.fedsmith.com/2026/08/25/adding-spouse-or-child-fehb-every-case-now-gets-checked/)
-
-**Other opens:**
-- *Stakes / FOMO:* Miss FEHB verification documents and your family loses coverage.
-- *Deadline:* Open Season is live — OPM now verifies every FEHB dependent you add.
-- *Myth-bust:* Federal employees: FEHB family additions are no longer taken on your word.
-
-**Question answered:** What documentation do federal employees need to add a dependent to FEHB now?
-
-**Caution:** Do not list every document type on camera — it risks running long or becoming a reference explainer.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [Adding a Spouse or Child to FEHB This Year? Every Case Now Gets Checked](https://www.fedsmith.com/2026/08/25/adding-spouse-or-child-fehb-every-case-now-gets-checked/)
-
-**Outlet:** FedSmith
-
-**Full eval:** Federal employees adding a spouse or dependent to FEHB this Open Season now face mandatory documentation checks — every case, no exceptions — which raises real stakes around enrollment timing and paperwork readiness. The personal 'am I affected?' angle is strong and concrete. Possibly good for walk-and-talk as a 30-45 second reaction; consider whether listing required documents pushes it into explainer territory that needs a follow-up video.
-
-**Snippet:** OPM now requires 100% verification of every family member added to FEHB during Open Season. Here is what documentation you will need.
-
-</details>
-
----
-
-### 3. Are you a federal employee who posts political content online?
-
-**Consider filming if:** Hatch Act charges filed by OSC against USPS and VA employees carry real job-security stakes — MSPB proceedings can end in removal, and many…
-
-_pass · news · federal_workforce · 6d ago_
-
-[Read source](https://www.fedweek.com/federal-managers-daily-report/hatch-act-charges-filed-against-usps-va-employees/)
+[Read source](https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXlFMGtES2p1ZWl4NG5XOVprUFp4bGcta2JERmFtTVBKUTFLZTAxSlU5cHNTeHpHaE1aN3g1ei1pZTRMTnNRb2JDWGhrZHdFTk0wMmdlUUdLMllLejczdVhvTlFiX3NjdXNYZk9vM2VBNi1Ba1VFVFo2SGh1UVhyT1Myc1JQVEgxMG5vMEx4bHZFRU5CRXE1SVdIWmF4S05nZXI1TUJkVEwtTGxTNGpBMUdsNGZCSVdVUnNoMmR4U0JsX1EyRVdZcGFYLUM?oc=5)
 
 **Other opens:**
-- *Stakes / FOMO:* USPS and VA feds are facing removal over Hatch Act violations.
-- *Deadline:* OSC just filed charges — federal employees, know your exposure now.
-- *Myth-bust:* Federal employees think off-duty posts are safe — OSC disagrees.
+- *Stakes / FOMO:* Postal unions say USPS is killing your overtime to cut costs.
+- *Deadline:* Mail piling up at your USPS facility? Union leaders say that's no accident.
+- *Myth-bust:* USPS delays aren't weather — union leaders say it's management avoiding OT.
 
-**Question answered:** What do new Hatch Act charges mean for USPS and VA employees?
+**Question answered:** Is USPS intentionally holding mail to avoid paying postal workers overtime?
 
-**Caution:** Do not characterize specific charged employees; stick to OSC-confirmed public filings only.
+**Caution:** Present as union allegation only — USPS has not confirmed this as policy.
 
 **Audience-language opens (try these):**
 - USPS retirement benefits — what postal workers need to verify
@@ -135,83 +100,13 @@ _pass · news · federal_workforce · 6d ago_
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [Hatch Act Charges Filed against USPS, VA Employees](https://www.fedweek.com/federal-managers-daily-report/hatch-act-charges-filed-against-usps-va-employees/)
+**Source headline:** [USPS union leaders claim post office delays mail instead of paying OT](https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXlFMGtES2p1ZWl4NG5XOVprUFp4bGcta2JERmFtTVBKUTFLZTAxSlU5cHNTeHpHaE1aN3g1ei1pZTRMTnNRb2JDWGhrZHdFTk0wMmdlUUdLMllLejczdVhvTlFiX3NjdXNYZk9vM2VBNi1Ba1VFVFo2SGh1UVhyT1Myc1JQVEgxMG5vMEx4bHZFRU5CRXE1SVdIWmF4S05nZXI1TUJkVEwtTGxTNGpBMUdsNGZCSVdVUnNoMmR4U0JsX1EyRVdZcGFYLUM?oc=5)
 
-**Outlet:** FedWeek
+**Outlet:** Google News · USPS workforce
 
-**Full eval:** Hatch Act charges filed by OSC against USPS and VA employees carry real job-security stakes — MSPB proceedings can end in removal, and many feds may not know where the political-activity line is drawn. Possibly good for a walk-and-talk news reaction; consider whether 30-45 seconds is enough to cover 'what this means for me' without sliding into a procedural explainer.
+**Full eval:** Postal workers face a direct livelihood question here: is USPS deliberately holding mail to dodge overtime pay, and what does that mean for carriers' hours and paychecks? The union allegation gives this real teeth for USPS employees wondering why routes are backing up. Possibly good for a walk-and-talk news reaction — the single claim is punchy enough to carry 30-45 seconds without charts, though the host should note this is an allegation, not confirmed agency policy.
 
-**Snippet:** The Office of Special Counsel has filed charges with the MSPB of what it called “serious” violations of Hatch Act ...More The article Hatch Act Charges Filed against USPS, VA Employees was first published on FEDweek .
-
-</details>
-
----
-
-### 4. Are you a fed? New OPM rules on firings are being challenged in court.
-
-**Consider filming if:** Federal unions suing OPM over rules that directly govern how feds are fired and rated carries real livelihood stakes — job security, perfor…
-
-_pass · news · career_security · 5d ago_
-
-[Read source](https://www.fedsmith.com/2026/08/26/unions-sue-opm-over-new-suitability-and-performance-appraisal-rules/)
-
-**Other opens:**
-- *Stakes / FOMO:* Federal unions are suing OPM over rules reshaping how feds get fired.
-- *Deadline:* These OPM rules are already in effect — and feds are already affected.
-- *Myth-bust:* Federal job protections aren't untouched — OPM just changed the rules.
-
-**Question answered:** What do the new OPM suitability and performance rules mean for federal job security?
-
-**Caution:** Lawsuit is ongoing — avoid stating outcome; frame as 'challenge filed, rules still in effect.'
-
-**Audience-language opens (try these):**
-- Federal job security — is your position still as safe as you think?
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [Unions Sue OPM Over New Suitability and Performance Appraisal Rules](https://www.fedsmith.com/2026/08/26/unions-sue-opm-over-new-suitability-and-performance-appraisal-rules/)
-
-**Outlet:** FedSmith
-
-**Full eval:** Federal unions suing OPM over rules that directly govern how feds are fired and rated carries real livelihood stakes — job security, performance appraisals, and suitability determinations all affect whether a federal employee keeps their position. Possibly good for a walk-and-talk news reaction; the core tension (new rules already in effect, now being challenged in court) can be framed in under 45 seconds without charts.
-
-**Snippet:** Four federal unions sued OPM over new suitability and performance rating rules already reshaping how employees are fired.
-
-</details>
-
----
-
-### 5. Are State Department feds about to lose their civil service protections?
-
-**Consider filming if:** State Department feds face a fast-moving push to strip civil service protections by reclassifying career employees as at-will Schedule Poli…
-
-_pass · news · retirement · 18d ago_
-
-[Read source](https://www.govexec.com/workforce/2026/08/state-department-expands-push-reclassify-employees-will-workers/415385/)
-
-**Other opens:**
-- *Stakes / FOMO:* State Department feds could be reclassified as at-will workers — fast.
-- *Deadline:* State Dept's at-will push is moving fast — federal workers, what's your status?
-- *Myth-bust:* Federal civil service protection isn't guaranteed — State Department is proving it.
-
-**Question answered:** Could State Department career feds be stripped of civil service protections?
-
-**Caution:** Do not imply reclassification is final or department-wide — sourcing says early stages.
-
-**Audience-language opens (try these):**
-- What FERS retirement benefits are you actually counting on?
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [State Department expands push to reclassify employees as at-will workers](https://www.govexec.com/workforce/2026/08/state-department-expands-push-reclassify-employees-will-workers/415385/)
-
-**Outlet:** GovExec Workforce
-
-**Full eval:** State Department feds face a fast-moving push to strip civil service protections by reclassifying career employees as at-will Schedule Policy/Career workers — directly threatening job security and, downstream, FERS retirement eligibility and continuity. Possibly good for a walk-and-talk news reaction; the personal stakes ('am I next?') land without charts, though the host should avoid overstating how far the reclassification has spread.
-
-**Snippet:** An expanded search for more Schedule Policy/Career conversions is still in its early stages, but a department employee says the effort is “moving relatively fast.”
+**Snippet:** USPS union leaders claim post office delays mail instead of paying OT IndyStar
 
 </details>
 
@@ -219,126 +114,22 @@ _pass · news · retirement · 18d ago_
 
 ## Also consider — detail
 
-### 6. Feds, OPM just killed the survey that rated your workplace.
+### 3. Are USPS workers being set up to fail on mail voting?
 
-**Consider filming if:** OPM scrapping the long-running FEVS and replacing it with a quarterly accountability survey is a real structural change to how federal work…
+**Consider filming if:** Postal workers are directly implicated as USPS would bear the operational weight of any new mail-in voting restrictions, touching job deman…
 
-_review · news · career_security · 6d ago_
+_review · news · federal_workforce · 4d ago_
 
-[Read source](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSURsdDNtb1lVLVJ6QWFqYVp4OE03Rjg0cHJRQmlOTUpVeXZrSVlGZWhXNXBHdVUwdG5iajNkZzNFYmdKdlE3bTdUOHRCX3NwZDZUR3hfdHJDbmpnVmoyeFNqdk1iRThvTDFtRnBsTXJIQnJ5TXM2akM5aGNJSG5hbVZPRk5LZ2xKOXZpdldveDI2WHV1ODFsemRteUUyZlU?oc=5)
-
-**Other opens:**
-- *Stakes / FOMO:* Federal workers: the watchdog survey on your agency just ended.
-- *Deadline:* FEVS is gone — feds now get a new quarterly survey instead.
-- *Myth-bust:* No, feds, OPM's new survey isn't just FEVS with a new name.
-
-**Question answered:** What does OPM ending FEVS actually mean for federal employees?
-
-**Caution:** Snippet is thin — confirm FEVS is fully discontinued, not suspended, before filming.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [OPM Ends FEVS, Highlights Strong Accountability in Quarterly Survey](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSURsdDNtb1lVLVJ6QWFqYVp4OE03Rjg0cHJRQmlOTUpVeXZrSVlGZWhXNXBHdVUwdG5iajNkZzNFYmdKdlE3bTdUOHRCX3NwZDZUR3hfdHJDbmpnVmoyeFNqdk1iRThvTDFtRnBsTXJIQnJ5TXM2akM5aGNJSG5hbVZPRk5LZ2xKOXZpdldveDI2WHV1ODFsemRteUUyZlU?oc=5)
-
-**Outlet:** Google News · stay vs leave / RTO morale
-
-**Full eval:** OPM scrapping the long-running FEVS and replacing it with a quarterly accountability survey is a real structural change to how federal workplaces are measured — feds who've participated in FEVS for years may wonder what this means for workplace transparency and whether scores that shaped agency culture still matter. The stakes are real but diffuse: this affects federal employees collectively rather than individual job security or a hard deadline, which makes the 'am I affected?' hook harder to land. Consider whether a 30-45 second walk-and-talk can convey why discontinuing FEVS matters to a fed's day-to-day working life without needing context charts.
-
-**Snippet:** OPM Ends FEVS, Highlights Strong Accountability in Quarterly Survey FEDmanager
-
-</details>
-
----
-
-### 7. Postal workers: your union just voted on your sick leave rights.
-
-**Consider filming if:** APWU convention resolutions on PSE status, paid leave, and grievance procedures carry real livelihood stakes for postal workers covered und…
-
-_review · news · federal_workforce · 13d ago_
-
-[Read source](https://apwu.org/news/day-two-apwu-convention-2026/)
+[Read source](https://www.fedweek.com/federal-managers-daily-report/why-the-rushed-postal-service-plan-for-mail-in-voting-has-states-in-a-panic/)
 
 **Other opens:**
-- *Stakes / FOMO:* APWU delegates just debated your paid leave as a postal worker.
-- *Deadline:* Convention resolutions are being locked in now — postal workers, pay attention.
-- *Myth-bust:* APWU conventions aren't just speeches — postal workers' rules get rewritten there.
+- *Stakes / FOMO:* Postal workers may carry the impossible burden of this voting order.
+- *Deadline:* States say the USPS timeline for mail voting changes is unworkable.
+- *Myth-bust:* This mail-in voting order isn't just a state problem — it's a USPS problem.
 
-**Question answered:** What did APWU delegates decide on paid leave and PSE rights this week?
+**Question answered:** What does Trump's mail-in voting executive order actually mean for USPS workers?
 
-**Caution:** Resolutions debated are not yet ratified policy — avoid stating outcomes as final contract changes.
-
-**Audience-language opens (try these):**
-- What FERS retirement benefits are you actually counting on?
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [Debates, Decisions, Unity: Day Two of APWU’s 28th Biennial Convention](https://apwu.org/news/day-two-apwu-convention-2026/)
-
-**Outlet:** APWU news
-
-**Full eval:** APWU convention resolutions on PSE status, paid leave, and grievance procedures carry real livelihood stakes for postal workers covered under FERS and FEHB. The snippet is convention-floor process reporting, though, and the personal stakes are buried — consider whether a 30-45 second walk-and-talk can surface a single concrete 'what this means for you' moment without needing the full resolution text in hand.
-
-**Snippet:** Delegates continued to make significant progress during Tuesday’s proceedings. They debated several resolutions related to Postal Support Employees (PSEs), paid leave, workplace violations, and grievance procedures as the Labor-Management Committee continued its report. Delegates held a lengthy debate on Resolution 25, which called for voluntary participation in a sick leave exchange option that a
-
-</details>
-
----
-
-### 8. Are your USPS pension payments actually suspended right now?
-
-**Consider filming if:** USPS pension payment suspension hits postal workers' livelihood directly — fear of missing retirement income is high-stakes and personal.
-
-_review · news · federal_workforce · 29d ago_
-
-[Read source](https://news.google.com/rss/articles/CBMimgJBVV95cUxQa3AwcFhUWHZ5MzdDS3V1RFlWZHFPZkwxSFowaVIyc1p4QWhPdC1lYUdFakNoOFhBcEhHdVhMYzlvejR1MURleExoUTdHazFlbmpUdkVwR3NBbDlYWkZvbVN0aW5IeTd6WVlQVXJOV3Y2R09PNDdkV2ViQ1FvNU9IeXpnbHpFRmlncW16ckNkQjdRd1g1MEpGYnBINl9fbGRXbUE5aWhoalVxdUFMc0tWbVRjV3BUekN3LXFnU1k5TFFaVHU5SUY0Y2JIdVhLNURFLTY5Qm5USWd0V1FoQlJxNGlCazBDZnhMY2lUZGFIanpaWGdodUVDWXp5cUtIY21kUnE3UWFyNG1aekQ0UTRia2JvVFJxMkZmaUE?oc=5)
-
-**Other opens:**
-- *Stakes / FOMO:* Postal workers: USPS pension suspended — what stops next?
-- *Deadline:* USPS pension payments paused — feds, check your accounts now.
-- *Myth-bust:* Your Social Security isn't USPS's to suspend, postal workers.
-
-**Question answered:** If USPS suspends pension payments, is a postal worker's Social Security also at risk?
-
-**Caution:** Verify suspension is confirmed and active — 24/7 Wall St. may be amplifying a single anecdote.
-
-**Audience-language opens (try these):**
-- FERS vs CSRS — which system are you under, and why it matters now
-- Still on CSRS? Here's what feds miss about retirement rules
-- What FERS retirement benefits are you actually counting on?
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [A Postal Worker Panicked When USPS Suspended Its Pension Payments. His Social Security Check Is the One Piece That's Separate.](https://news.google.com/rss/articles/CBMimgJBVV95cUxQa3AwcFhUWHZ5MzdDS3V1RFlWZHFPZkwxSFowaVIyc1p4QWhPdC1lYUdFakNoOFhBcEhHdVhMYzlvejR1MURleExoUTdHazFlbmpUdkVwR3NBbDlYWkZvbVN0aW5IeTd6WVlQVXJOV3Y2R09PNDdkV2ViQ1FvNU9IeXpnbHpFRmlncW16ckNkQjdRd1g1MEpGYnBINl9fbGRXbUE5aWhoalVxdUFMc0tWbVRjV3BUekN3LXFnU1k5TFFaVHU5SUY0Y2JIdVhLNURFLTY5Qm5USWd0V1FoQlJxNGlCazBDZnhMY2lUZGFIanpaWGdodUVDWXp5cUtIY21kUnE3UWFyNG1aekQ0UTRia2JvVFJxMkZmaUE?oc=5)
-
-**Outlet:** Google News · USPS workforce
-
-**Full eval:** USPS pension payment suspension hits postal workers' livelihood directly — fear of missing retirement income is high-stakes and personal. The Social Security separation angle is genuinely clarifying for panicked FERS/CSRS postal workers, but the piece appears to be a 24/7 Wall St. Consumer explainer built around one anecdote, which risks being SEO content rather than hard news. Consider whether the underlying suspension is confirmed and current before filming; if it is, this is possibly good for a walk-and-talk reaction.
-
-**Snippet:** A Postal Worker Panicked When USPS Suspended Its Pension Payments. His Social Security Check Is the One Piece That's Separate. 24/7 Wall St.
-
-</details>
-
----
-
-### 9. Postal workers, your union just voted away the right to strike.
-
-**Consider filming if:** Postal workers face a double hit: the USPS Inspector General is outlining historic operational cuts while NALC delegates just voted down th…
-
-_review · news · federal_workforce · 22d ago_
-
-[Read source](https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5SUtQNG45bWNTNXlRRzFmaDM1YmRNY3htbmlwTFFNQUtVZGpVdkpPRHRWZXNwaUtNVFVvV0lxOVBVYl9IZDRLLUw3LWJfcGVIaVhRQWhValdwV2QtTWlha0RpdVpSZzJ4?oc=5)
-
-**Other opens:**
-- *Stakes / FOMO:* USPS faces historic cuts — and postal workers can't legally strike.
-- *Deadline:* NALC just voted: postal workers, your leverage changed this week.
-- *Myth-bust:* Think your federal union still has strike power? NALC just said no.
-
-**Question answered:** What do USPS historic cuts and the NALC no-strike vote mean for postal workers?
-
-**Caution:** WSWS is an advocacy outlet; verify IG report details and NALC vote outcome independently before filming.
+**Caution:** Avoid partisan framing; keep focus on USPS operational stakes, not electoral politics.
 
 **Audience-language opens (try these):**
 - USPS retirement benefits — what postal workers need to verify
@@ -346,69 +137,168 @@ _review · news · federal_workforce · 22d ago_
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [As USPS Inspector General lays out historic cuts, NALC convention votes against workers’ right to strike](https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5SUtQNG45bWNTNXlRRzFmaDM1YmRNY3htbmlwTFFNQUtVZGpVdkpPRHRWZXNwaUtNVFVvV0lxOVBVYl9IZDRLLUw3LWJfcGVIaVhRQWhValdwV2QtTWlha0RpdVpSZzJ4?oc=5)
+**Source headline:** [Why the Rushed Postal Service Plan for Mail-in Voting has States in a Panic](https://www.fedweek.com/federal-managers-daily-report/why-the-rushed-postal-service-plan-for-mail-in-voting-has-states-in-a-panic/)
 
-**Outlet:** Google News · union workforce (AFGE NTEU NALC APWU)
+**Outlet:** FedWeek
 
-**Full eval:** Postal workers face a double hit: the USPS Inspector General is outlining historic operational cuts while NALC delegates just voted down the right to strike, stripping a key piece of collective leverage at the worst possible moment. The two-part nature of this story — IG cuts plus union vote — is a lot to land in 30-45 seconds without losing the thread; consider whether splitting into two separate videos might serve postal-worker viewers better than one cramped reaction.
+**Full eval:** Postal workers are directly implicated as USPS would bear the operational weight of any new mail-in voting restrictions, touching job demands and institutional pressure. The story has real stakes for federal postal employees, but the core tension is state-level policy panic rather than a concrete change to a fed's paycheck or benefits — consider whether the walk-and-talk can stay tight on what this means for USPS workers specifically, without sliding into political commentary.
 
-**Snippet:** As USPS Inspector General lays out historic cuts, NALC convention votes against workers’ right to strike World Socialist Web Site
+**Snippet:** President Donald Trump’s executive order placing new restrictions on mail-in voting would assign state officials a Herculean task to reach ...More The article Why the Rushed Postal Service Plan for Mail-in Voting has States in a Panic was first published on FEDweek .
 
 </details>
 
 ---
 
-### 10. Are SSA's 'ghost offices' about to affect your federal retirement timeline?
+### 4. Are federal employees next under OPM's new RIF rules?
 
-**Consider filming if:** The Social Security union's call for $3B and 20,000 more workers touches federal workforce stakes — staffing, job creation, and service col…
+**Consider filming if:** Federal employees facing potential RIF exposure have real livelihood stakes here — job security anxiety tied to new OPM performance rules i…
 
-_review · news · federal_workforce · 10d ago_
+_review · news · retirement · 7d ago_
 
-[Read source](https://news.google.com/rss/articles/CBMizwFBVV95cUxPT1hlYzZ4aVVtQ2RHZXhVcWM4QWloWGRlUWU5VTVIN3ZFT1lPM09EUHE4V2ZmSDQyM3lrSjc3clMyb0dqNDZJOWNZMlRqb2lLWU9FblBNWVFqY18zSnZiMk43bUd4N3hSNWpPcGpZY0ZPNFhmY0hMb1FIaWc5c2RpeXUtT2loRl9jbFZEaE1pV2xyYkQ4aTVQMFRuOTNFS3RxVHNBU3RwY3dGYVFVdGU2U19Cb0cxRWV6aU5BN3lOcUM1QUlPNDZ5SUNMWVhwU28?oc=5)
+[Read source](https://www.fedsmith.com/2026/08/31/hidden-mental-health-toll-opm-rif-rules/)
 
 **Other opens:**
-- *Stakes / FOMO:* SSA is understaffed — and federal retirees waiting on WEP math feel it.
-- *Deadline:* FERS supplement ends when Social Security starts — can SSA even process it?
-- *Myth-bust:* Federal employees don't depend on Social Security — actually, many FERS workers do.
+- *Stakes / FOMO:* OPM's new RIF rules could put your federal job at risk.
+- *Deadline:* These OPM performance RIF rules are already in effect, feds.
+- *Myth-bust:* Federal job security isn't what it was before these OPM changes.
 
-**Question answered:** Does SSA's staffing crisis put federal employees' retirement benefits at risk?
+**Question answered:** How do OPM's new performance-based RIF rules affect federal employees' job security?
 
-**Caution:** Do not imply SSA collapse is imminent; union request is not an enacted budget.
+**Caution:** Source focuses on HR leaders, not workers — verify personal impact angle before filming.
 
 **Audience-language opens (try these):**
-- What FERS retirement benefits are you actually counting on?
+- Federal job security — is your position still as safe as you think?
 
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [Social Security union says it needs $3 billion and another 20,000 workers to fix long wait times and ‘ghost offices’](https://news.google.com/rss/articles/CBMizwFBVV95cUxPT1hlYzZ4aVVtQ2RHZXhVcWM4QWloWGRlUWU5VTVIN3ZFT1lPM09EUHE4V2ZmSDQyM3lrSjc3clMyb0dqNDZJOWNZMlRqb2lLWU9FblBNWVFqY18zSnZiMk43bUd4N3hSNWpPcGpZY0ZPNFhmY0hMb1FIaWc5c2RpeXUtT2loRl9jbFZEaE1pV2xyYkQ4aTVQMFRuOTNFS3RxVHNBU3RwY3dGYVFVdGU2U19Cb0cxRWV6aU5BN3lOcUM1QUlPNDZ5SUNMWVhwU28?oc=5)
+**Source headline:** [The Hidden Mental Health Toll of OPM’s New RIF Rules](https://www.fedsmith.com/2026/08/31/hidden-mental-health-toll-opm-rif-rules/)
 
-**Outlet:** Google News · union workforce (AFGE NTEU NALC APWU)
+**Outlet:** FedSmith
 
-**Full eval:** The Social Security union's call for $3B and 20,000 more workers touches federal workforce stakes — staffing, job creation, and service collapse — but the direct livelihood angle for existing federal employees is indirect unless framed around WEP/GPO timing or SSA workforce conditions. Consider whether the walk-and-talk can land a tight personal stake in under 45 seconds without sliding into a briefing on agency budget politics.
+**Full eval:** Federal employees facing potential RIF exposure have real livelihood stakes here — job security anxiety tied to new OPM performance rules is exactly the kind of 'am I affected?' moment that stops a fed mid-scroll. Consider whether this could work as a short walk-and-talk reaction, though the mental health framing skews toward HR leadership audiences rather than rank-and-file feds, which may dilute the personal stakes needed for short-form.
 
-**Snippet:** Social Security union says it needs $3 billion and another 20,000 workers to fix long wait times and ‘ghost offices’ MarketWatch
+**Snippet:** As OPM's new performance-based RIF rules take effect, federal HR leaders must address the anxiety and uncertainty employees are facing.
 
 </details>
 
 ---
 
-### 11. Are new voices at NALC about to change things for postal workers?
+### 5. Could your federal job lose its civil service protections?
 
-**Consider filming if:** A leadership shift at the NALC convention could affect contract priorities, grievance culture, and working conditions for letter carriers w…
+**Consider filming if:** Schedule Policy/Career reclassification directly threatens federal civil service protections — job security stakes are real for career feds…
 
-_review · news · federal_workforce · 11d ago_
+_review · news · retirement · 25d ago_
 
-[Read source](https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3R2T1FDOWJma0VPWGxXcGIwSDlOUW9WZEhCNlJrOV9Yc1JoOTJwYVFNZ182LXhxcjZyN3ZUeU9qMWRxVVY2dTdqVTJzTGNYalBMOHdfeDFOV1JBWkJwT3FLcW5iazNTY2xaYUE1bnk5cTgyc2lVTFVpdHBUYXpxaThRb1duNEE?oc=5)
+[Read source](https://news.google.com/rss/articles/CBMioAFBVV95cUxOdTdjX2xjNHpTVnRmcGMyUk9ja29nZ2lvcmhURHZEb0ZpMGhRYm5QQ1N4VFFFQmdzVkpGQVJOWHBEdHN3UUk2M2RlZ3BLd2JUV2NhV0d3enlOb2Yyanl4MHhIM2x1NkEyc2VpbzdNUVBuM0Q5dmtuX3c0cnZEaWIyY3QxcGVPTE9kdXpELU5PU2pQdzdDanlqRWtVLTNsVG1O?oc=5)
 
 **Other opens:**
-- *Stakes / FOMO:* A leadership shift at NALC — what it means for postal federal workers.
-- *Deadline:* NALC convention results are in — where does that leave letter carriers now?
-- *Myth-bust:* USPS union politics aren't just internal — your FERS contract is on the table.
+- *Stakes / FOMO:* Federal career status isn't guaranteed anymore — here's why.
+- *Deadline:* Reclassification is moving fast — do federal workers know what's at stake?
+- *Myth-bust:* Civil service protections don't automatically shield every federal employee now.
 
-**Question answered:** What does a leadership shift at the NALC convention mean for letter carriers?
+**Question answered:** What does Schedule Policy/Career reclassification mean for my federal job security?
 
-**Caution:** Avoid claiming specific policy wins or losses — source snippet is thin on confirmed outcomes.
+**Caution:** Avoid overstating certainty — rulemaking status and implementation timelines may still be in flux.
+
+**Audience-language opens (try these):**
+- Federal job security — is your position still as safe as you think?
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [Undermining independence and eroding transparency: Examining Schedule Policy/Career reclassifications](https://news.google.com/rss/articles/CBMioAFBVV95cUxOdTdjX2xjNHpTVnRmcGMyUk9ja29nZ2lvcmhURHZEb0ZpMGhRYm5QQ1N4VFFFQmdzVkpGQVJOWHBEdHN3UUk2M2RlZ3BLd2JUV2NhV0d3enlOb2Yyanl4MHhIM2x1NkEyc2VpbzdNUVBuM0Q5dmtuX3c0cnZEaWIyY3QxcGVPTE9kdXpELU5PU2pQdzdDanlqRWtVLTNsVG1O?oc=5)
+
+**Outlet:** Google News · federal workforce job security
+
+**Full eval:** Schedule Policy/Career reclassification directly threatens federal civil service protections — job security stakes are real for career feds who could lose appeal rights and merit protections. The topic needs careful framing to avoid becoming a procedural explainer; consider whether a 30-45 second walk-and-talk can land the personal stakes without slides or context-dumps.
+
+**Snippet:** Undermining independence and eroding transparency: Examining Schedule Policy/Career reclassifications Partnership for Public Service
+
+</details>
+
+---
+
+### 6. Are you an NTEU federal employee who stopped paying dues?
+
+**Consider filming if:** NTEU members who stopped paying dues — likely during allotment suspension disputes — now face a hard deadline to resume, with potential mem…
+
+_review · news · federal_workforce · 26d ago_
+
+[Read source](https://news.google.com/rss/articles/CBMivwFBVV95cUxPX1FyNmxMcXNwZFdOdjFPc2JrejVyVVFKN0JpODRjdXhMWloxaHhiUFNwQmxXSVpwSVlKNUpmblVqcWRvRjR3ZTc2NEk5YnpsMEJBWDF5aGk4Y0UxemlMWU0xLXg4WVhRVTgtRjFxYTFCckZYdDhsVlQ0VFgyTjBEcDBJajd6YjhpNElQN0lOODlNTWdyR1VyREZTaGdiY0ExV3hSSlRuMjlSOEEwMmRmYVk1V2lUR0hBcXNpRThzRQ?oc=5)
+
+**Other opens:**
+- *Stakes / FOMO:* NTEU members: missing this dues deadline could cost your federal union coverage.
+- *Deadline:* NTEU just set a hard deadline — federal members, do you know the date?
+- *Myth-bust:* Federal employees: skipping dues doesn't quietly keep your NTEU protections.
+
+**Question answered:** What happens to NTEU federal members who miss the dues resumption deadline?
+
+**Caution:** Confirm exact deadline date and stated consequences before filming — snippet alone is insufficient.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [NTEU sets deadline for its members to resume paying dues](https://news.google.com/rss/articles/CBMivwFBVV95cUxPX1FyNmxMcXNwZFdOdjFPc2JrejVyVVFKN0JpODRjdXhMWloxaHhiUFNwQmxXSVpwSVlKNUpmblVqcWRvRjR3ZTc2NEk5YnpsMEJBWDF5aGk4Y0UxemlMWU0xLXg4WVhRVTgtRjFxYTFCckZYdDhsVlQ0VFgyTjBEcDBJajd6YjhpNElQN0lOODlNTWdyR1VyREZTaGdiY0ExV3hSSlRuMjlSOEEwMmRmYVk1V2lUR0hBcXNpRThzRQ?oc=5)
+
+**Outlet:** Google News · union workforce (AFGE NTEU NALC APWU)
+
+**Full eval:** NTEU members who stopped paying dues — likely during allotment suspension disputes — now face a hard deadline to resume, with potential membership consequences that could affect union representation and workplace protections for federal employees. The story has real livelihood stakes if the deadline carries discipline or loss of coverage, but the snippet is thin: confirm the deadline date and consequences before filming. Possibly good for a walk-and-talk reaction if the deadline is imminent and stakes are concrete; consider whether the lack of detail makes this feel procedural without more sourcing.
+
+**Snippet:** NTEU sets deadline for its members to resume paying dues GovExec.com
+
+</details>
+
+---
+
+### 7. Are you a fed with a side gig — do you know the rules?
+
+**Consider filming if:** A federal employee pleading guilty to secretly moonlighting across six agencies while logging impossible 33-hour days is a genuine cautiona…
+
+_review · news · career_security · 4d ago_
+
+[Read source](https://www.govexec.com/workforce/2026/09/former-cisa-employee-pleads-guilty-defrauding-government-secret-contractor-jobs/415805/)
+
+**Other opens:**
+- *Stakes / FOMO:* This federal employee hid six contractor jobs — and just pleaded guilty.
+- *Deadline:* Before your next outside gig, feds — check your disclosure requirements now.
+- *Myth-bust:* Federal employees think side work is fine — this case says otherwise.
+
+**Question answered:** What outside employment rules apply to federal employees, and what breaks them?
+
+**Caution:** Stick to public court record; do not characterize CISA policy beyond what prosecutors stated.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [Former CISA employee pleads guilty to defrauding government with secret contractor jobs](https://www.govexec.com/workforce/2026/09/former-cisa-employee-pleads-guilty-defrauding-government-secret-contractor-jobs/415805/)
+
+**Outlet:** GovExec Workforce
+
+**Full eval:** A federal employee pleading guilty to secretly moonlighting across six agencies while logging impossible 33-hour days is a genuine cautionary tale with direct career-security stakes — outside employment rules, conflict-of-interest disclosures, and termination risk apply broadly to feds. Possibly good for a walk-and-talk reaction framed around what the rules actually require, though the procedural detail of the case may push past 45 seconds without discipline.
+
+**Snippet:** Prosecutors say Richeline Fung secretly held contractor jobs tied to six agencies and claimed up to 33-hour workdays while working full time for the federal cyber agency.
+
+</details>
+
+---
+
+### 8. Are USPS retirement funds putting your postal FERS benefit at risk?
+
+**Consider filming if:** USPS postal workers and FERS-covered employees have real skin in this: rising retirement liabilities, a FERS contribution freeze, and a dec…
+
+_review · news · federal_workforce · 32d ago_
+
+[Read source](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM0djREg4dVZUZFZDQjRFX01UUG5ib0N4TFNmd1ZHdFZBU08zRzZNNHB0WVZCTm9rUFlHQ09lbmFXZFhfb0g5MU1INW1mOGRPNzREel9DaWdxSzJBdTZzQXRIaWJpNjNGd2dKZElFZkprY1FJdlFBV2l3VENZRGtCMklTVXBRaU9PUWJDeENxRmhiUll4bDFnZGUwRWltQU9LZ2JkMUNRV2ZmcFhnOHJlbzdTcjR4OE5OOF9MTEdkR01JQU4zYTJpcmpwVE5NTjVGaWR5RFpiNA?oc=5)
+
+**Other opens:**
+- *Stakes / FOMO:* USPS retirement liabilities are surging — postal workers, your FERS is involved.
+- *Deadline:* FERS freeze and health fund decline: how long before postal feds feel this?
+- *Myth-bust:* USPS insolvency fears don't stay at USPS — your FERS and FEHB connect.
+
+**Question answered:** Does the USPS retirement liability surge put postal FERS benefits at risk?
+
+**Caution:** Avoid implying FERS benefits are being cut now — source signals rising risk, not confirmed reductions.
 
 **Audience-language opens (try these):**
 - What FERS retirement benefits are you actually counting on?
@@ -417,13 +307,13 @@ _review · news · federal_workforce · 11d ago_
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [New Voices Gain Ground at Letter Carriers Convention - Labor Notes |](https://news.google.com/rss/articles/CBMihwFBVV95cUxQc3R2T1FDOWJma0VPWGxXcGIwSDlOUW9WZEhCNlJrOV9Yc1JoOTJwYVFNZ182LXhxcjZyN3ZUeU9qMWRxVVY2dTdqVTJzTGNYalBMOHdfeDFOV1JBWkJwT3FLcW5iazNTY2xaYUE1bnk5cTgyc2lVTFVpdHBUYXpxaThRb1duNEE?oc=5)
+**Source headline:** [USPS Retirement Liabilities Surge as FERS Freeze and Health Fund Decline Raise Stakes](https://news.google.com/rss/articles/CBMi1wFBVV95cUxNM0djREg4dVZUZFZDQjRFX01UUG5ib0N4TFNmd1ZHdFZBU08zRzZNNHB0WVZCTm9rUFlHQ09lbmFXZFhfb0g5MU1INW1mOGRPNzREel9DaWdxSzJBdTZzQXRIaWJpNjNGd2dKZElFZkprY1FJdlFBV2l3VENZRGtCMklTVXBRaU9PUWJDeENxRmhiUll4bDFnZGUwRWltQU9LZ2JkMUNRV2ZmcFhnOHJlbzdTcjR4OE5OOF9MTEdkR01JQU4zYTJpcmpwVE5NTjVGaWR5RFpiNA?oc=5)
 
-**Outlet:** Google News · union workforce (AFGE NTEU NALC APWU)
+**Outlet:** Google News · federal retirement
 
-**Full eval:** A leadership shift at the NALC convention could affect contract priorities, grievance culture, and working conditions for letter carriers who are federal employees under FERS, FEHB, and TSP. The story has real stakes for postal workers wondering whether new union leadership will push harder on their federal benefits and working conditions. Consider whether a 30-45 second walk-and-talk can carry this without requiring convention backstory or internal union context the average viewer won't have.
+**Full eval:** USPS postal workers and FERS-covered employees have real skin in this: rising retirement liabilities, a FERS contribution freeze, and a declining health fund all point toward potential benefit instability down the road. The topic is substantive but risks sliding into macro budget territory that needs charts to land — consider whether a short reaction can stay personal ('what does this mean for my FERS benefit?') without needing a whiteboard.
 
-**Snippet:** New Voices Gain Ground at Letter Carriers Convention Labor Notes |
+**Snippet:** USPS Retirement Liabilities Surge as FERS Freeze and Health Fund Decline Raise Stakes FEDweek
 
 </details>
 
@@ -433,7 +323,7 @@ _review · news · federal_workforce · 11d ago_
 
 _From the latest federal-department news scan (2026-08-03)._
 
-### 12. Arbitrator: HHS broke the CBA firing 5,000 probationary feds
+### 9. Arbitrator: HHS broke the CBA firing 5,000 probationary feds
 
 _Fed Department Focus — agency-specific angle._
 
@@ -451,7 +341,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 13. Arbitrator orders IRS telework back — but your CBA protection may differ
+### 10. Arbitrator orders IRS telework back — but your CBA protection may differ
 
 _Fed Department Focus — agency-specific angle._
 
@@ -469,7 +359,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 14. Probationary feds: MSPB ruling may not end your appeal fight
+### 11. Probationary feds: MSPB ruling may not end your appeal fight
 
 _Fed Department Focus — agency-specific angle._
 
@@ -487,7 +377,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 15. Arbitrator wins mean nothing if agency appeals — Forest Service risk
+### 12. Arbitrator wins mean nothing if agency appeals — Forest Service risk
 
 _Fed Department Focus — agency-specific angle._
 
@@ -505,7 +395,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 16. Your VA telework IS your ADA accommodation — RTO can strip it
+### 13. Your VA telework IS your ADA accommodation — RTO can strip it
 
 _Fed Department Focus — agency-specific angle._
 
@@ -523,7 +413,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 17. Federal Circuit ruling could reshape DHS probationary workers' appeal rights
+### 14. Federal Circuit ruling could reshape DHS probationary workers' appeal rights
 
 _Fed Department Focus — agency-specific angle._
 
@@ -545,7 +435,7 @@ _Fed Department Focus — agency-specific angle._
 
 _Money / retirement seeds — not breaking news._
 
-### 18. Are you leaving free TSP matching on the table?
+### 15. Are you leaving free TSP matching on the table?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
@@ -557,7 +447,7 @@ _Evergreen — money / retirement demand seed, not breaking news._
 
 ---
 
-### 19. Feds — have you checked your FERS calculator this year?
+### 16. Feds — have you checked your FERS calculator this year?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
@@ -569,7 +459,7 @@ _Evergreen — money / retirement demand seed, not breaking news._
 
 ---
 
-### 20. TSP funds explained — which one fits your timeline?
+### 17. TSP funds explained — which one fits your timeline?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
@@ -581,7 +471,7 @@ _Evergreen — money / retirement demand seed, not breaking news._
 
 ---
 
-### 21. TSP rollover options — stay in, roll out, or wait?
+### 18. TSP rollover options — stay in, roll out, or wait?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
@@ -593,7 +483,7 @@ _Evergreen — money / retirement demand seed, not breaking news._
 
 ---
 
-### 22. Federal retirement planning — what should you verify this year?
+### 19. Federal retirement planning — what should you verify this year?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
