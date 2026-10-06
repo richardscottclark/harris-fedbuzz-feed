@@ -1,113 +1,217 @@
 **Private:** Do not share this page link or the RSS feed URL outside the Harris producer team.
 
-# FedBuzz Producer Brief — 2026-09-28
+# FedBuzz Producer Brief — 2026-10-06
 
-**8 topics** (2 film-first · 6 also consider) + **6 Fed Department Focus** + **5 evergreen** — each block opens with the walkaround line. Skim the list; expand only what you might film.
+**11 topics** (5 film-first · 6 also consider) + **6 Fed Department Focus** + **5 evergreen** — each block opens with the walkaround line. Skim the list; expand only what you might film.
 
 ## Film these
 
 _Stronger short-form fit — start here._
 
-1. [Feds, the shutdown RIF threat just got officially cancelled — here's what that means.](#topic-1)
-2. [Could your federal NDA get you fired for speaking up?](#topic-2)
+1. [Are you a postal worker? Your boss may be walking out.](#topic-1)
+2. [Are you a postal worker about to hit a new top step?](#topic-2)
+3. [Are EPA feds losing union rights because they criticized their boss?](#topic-3)
+4. [Feds, your FEHB premium is going up 10.9% in 2027.](#topic-4)
+5. [Feds, your FEHB premiums are going up again in 2027.](#topic-5)
 
 ## Also consider
 
 _Softer fit — worth a look if the list above is thin or these match your lane._
 
-3. [Are postal workers being sidelined from running election mail?](#topic-3)
-4. [Are USPS carriers actually safer, or is this just optics?](#topic-4)
-5. [Going through divorce? Your FEHB and FEGLI coverage could change.](#topic-5)
-6. [Is the USPS chief about to quit — and what does that mean for postal workers?](#topic-6)
-7. [Is OPM changing how your federal workplace survey counts?](#topic-7)
-8. [Retiring at your federal MRA could cost you more than you think, fed.](#topic-8)
+6. [Are your TSP withdrawals quietly locking in losses, feds?](#topic-6)
+7. [Are federal telework investigators watching you right now?](#topic-7)
+8. [Feds, the government just got the bill for that resignation offer.](#topic-8)
+9. [Feds, your FEHB premiums are jumping — how bad is it?](#topic-9)
+10. [Is AI about to reshape your federal job?](#topic-10)
+11. [Are you a VA federal employee — is your union contract still valid?](#topic-11)
 
 ## Fed Department Focus
 
 _News about specific federal agencies, with a clear angle for federal employees. Use these if they are stronger than the week’s main list._
 
-9. [Arbitrator: HHS broke the CBA firing 5,000 probationary feds](#topic-9)
-10. [Arbitrator orders IRS telework back — but your CBA protection may differ](#topic-10)
-11. [Probationary feds: MSPB ruling may not end your appeal fight](#topic-11)
-12. [Arbitrator wins mean nothing if agency appeals — Forest Service risk](#topic-12)
-13. [Your VA telework IS your ADA accommodation — RTO can strip it](#topic-13)
-14. [Federal Circuit ruling could reshape DHS probationary workers' appeal rights](#topic-14)
+12. [Arbitrator: HHS broke the CBA firing 5,000 probationary feds](#topic-12)
+13. [Arbitrator orders IRS telework back — but your CBA protection may differ](#topic-13)
+14. [Probationary feds: MSPB ruling may not end your appeal fight](#topic-14)
+15. [Arbitrator wins mean nothing if agency appeals — Forest Service risk](#topic-15)
+16. [Your VA telework IS your ADA accommodation — RTO can strip it](#topic-16)
+17. [Federal Circuit ruling could reshape DHS probationary workers' appeal rights](#topic-17)
 
 ## Evergreen
 
 _Short money / retirement seeds. Film one if you want a different lane from this week’s news._
 
-15. [Are you leaving free TSP matching on the table?](#topic-15)
-16. [Feds — have you checked your FERS calculator this year?](#topic-16)
-17. [TSP funds explained — which one fits your timeline?](#topic-17)
-18. [TSP rollover options — stay in, roll out, or wait?](#topic-18)
-19. [Federal retirement planning — what should you verify this year?](#topic-19)
+18. [Are you leaving free TSP matching on the table?](#topic-18)
+19. [Feds — have you checked your FERS calculator this year?](#topic-19)
+20. [TSP funds explained — which one fits your timeline?](#topic-20)
+21. [TSP rollover options — stay in, roll out, or wait?](#topic-21)
+22. [Federal retirement planning — what should you verify this year?](#topic-22)
 
 ---
 
-### 1. Feds, the shutdown RIF threat just got officially cancelled — here's what that means.
+### 1. Are you a postal worker? Your boss may be walking out.
 
-**Consider filming if:** Federal employees who feared shutdown-related RIF notices now have confirmation those plans are officially off the table — real job-securit…
+**Consider filming if:** The USPS Postmaster General signaling he wants to resign carries real uncertainty for postal workers — leadership transitions at the top of…
 
-_pass · news · retirement · 3d ago_
+_pass · news · federal_workforce · 4d ago_
 
-[Read source](https://federalnewsnetwork.com/litigation/2026/09/trump-administration-settles-with-unions-over-shutdown-rif-challenge/)
+[Read source](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmYtdjN3bUVNZE9lYjJlN3Jmd2xyRzlIZ1kzYUtPdUxMLW1BeDZMXzVKdV8yaE9jYjc1WWxFdjZyZjROQXNTcUdibnBUYlJLVGt6U3NyVUdLQXVUUzBsb1l3V1M3Uk5KSjBHOXQ5UHdWdlFmOVpCeS01ZWhkLVBPcnExRmZ3NHN0T1VjSmktZ0RMR2YteURKYzY3aHAzSkdpS2R6T0dXZVlxdVJaOVE?oc=5)
 
 **Other opens:**
-- *Stakes / FOMO:* Federal employees: those shutdown RIF plans are dead — settlement confirmed.
-- *Deadline:* If you're a fed still waiting on RIF news, the answer just dropped.
-- *Myth-bust:* No, federal agencies can't still push those shutdown RIFs through.
+- *Stakes / FOMO:* USPS leadership shakeup could mean big changes for postal workers.
+- *Deadline:* Before a new USPS chief arrives, here's what federal postal workers should watch.
+- *Myth-bust:* USPS chief quitting doesn't mean postal workers are safe from changes.
 
-**Question answered:** Are shutdown-related RIF plans against federal employees really cancelled now?
+**Question answered:** What does the USPS Postmaster General possibly quitting mean for postal workers?
 
-**Caution:** Confirm settlement is fully executed before filming — do not overstate permanence of RIF abandonment.
+**Caution:** Story is sourced, not confirmed — avoid stating resignation as fact on camera.
 
 **Audience-language opens (try these):**
-- Federal RIFs — what happens to your benefits if your job is cut?
 - What FERS retirement benefits are you actually counting on?
+- USPS retirement benefits — what postal workers need to verify
 
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [Trump administration settles with unions over shutdown RIF challenge](https://federalnewsnetwork.com/litigation/2026/09/trump-administration-settles-with-unions-over-shutdown-rif-challenge/)
+**Source headline:** [US Postal Service chief said he wants to quit, sources say](https://news.google.com/rss/articles/CBMirgFBVV95cUxNQmYtdjN3bUVNZE9lYjJlN3Jmd2xyRzlIZ1kzYUtPdUxMLW1BeDZMXzVKdV8yaE9jYjc1WWxFdjZyZjROQXNTcUdibnBUYlJLVGt6U3NyVUdLQXVUUzBsb1l3V1M3Uk5KSjBHOXQ5UHdWdlFmOVpCeS01ZWhkLVBPcnExRmZ3NHN0T1VjSmktZ0RMR2YteURKYzY3aHAzSkdpS2R6T0dXZVlxdVJaOVE?oc=5)
 
-**Outlet:** Federal News Network
+**Outlet:** Google News · USPS job feasibility
 
-**Full eval:** Federal employees who feared shutdown-related RIF notices now have confirmation those plans are officially off the table — real job-security stakes with a clear 'am I still at risk?' question driving viewer interest. Possibly good for a walk-and-talk news reaction if filmed this week while the settlement is fresh; consider whether the retirement pillar angle (RIF triggering early FERS separation) gets enough air time in 45 seconds.
+**Full eval:** The USPS Postmaster General signaling he wants to resign carries real uncertainty for postal workers — leadership transitions at the top often precede reorganization, workforce changes, or policy shifts that hit FERS-covered employees directly. Possibly good for a walk-and-talk news reaction; consider whether the sourced-but-unconfirmed nature of the story requires a careful hedge on camera to avoid stating resignation as fact.
 
-**Snippet:** Under the settlement agreement, the Trump administration agreed to inform agencies that all remaining shutdown-related RIF plans have been abandoned.
+**Snippet:** US Postal Service chief said he wants to quit, sources say Martinsville Bulletin
 
 </details>
 
 ---
 
-### 2. Could your federal NDA get you fired for speaking up?
+### 2. Are you a postal worker about to hit a new top step?
 
-**Consider filming if:** Federal employees facing expanded NDA requirements have real livelihood stakes here — the bill would give feds a legal path if they're disc…
+**Consider filming if:** Postal workers in APWU-covered grades 4–7 on the post-2011 pay schedule have a concrete pay change landing September 19, 2026 — real wage s…
 
-_pass · news · career_security · 18d ago_
+_pass · news · federal_workforce · 18d ago_
 
-[Read source](https://www.govexec.com/workforce/2026/09/bill-federal-whistleblowers-sue-disciplined-violating-ndas/415921/)
+[Read source](https://apwu.org/news/new-top-steps-take-effect-sept-19/)
 
 **Other opens:**
-- *Stakes / FOMO:* Feds: a new bill could protect you from NDA disciplinary action.
-- *Deadline:* Before the Trump admin expands NDAs, here's what feds should know.
-- *Myth-bust:* Federal whistleblower protections don't automatically override your NDA — yet.
+- *Stakes / FOMO:* Some postal workers just got a new pay ceiling — here's who.
+- *Deadline:* September 19: USPS pay schedule changes hit — are you covered?
+- *Myth-bust:* Not all postal grades get this new top step — check yours first.
 
-**Question answered:** What does the new whistleblower NDA bill mean for federal employees?
+**Question answered:** Which USPS workers get a new top step on September 19, 2026?
 
-**Caution:** Bill is not law — state clearly this is proposed legislation, not current protection.
+**Caution:** Confirm RSC codes P7, K7, C7 on-camera without a chart — verbal list may confuse viewers.
+
+**Harris QA:** Timely — confirm date before filming. References 2024, 2011 — name the year explicitly.
+
+**Audience-language opens (try these):**
+- USPS retirement benefits — what postal workers need to verify
 
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [Bill would let federal whistleblowers sue if disciplined over violating NDAs](https://www.govexec.com/workforce/2026/09/bill-federal-whistleblowers-sue-disciplined-violating-ndas/415921/)
+**Source headline:** [New Top Steps Take Effect Sept. 19](https://apwu.org/news/new-top-steps-take-effect-sept-19/)
+
+**Outlet:** APWU news
+
+**Full eval:** Postal workers in APWU-covered grades 4–7 on the post-2011 pay schedule have a concrete pay change landing September 19, 2026 — real wage stakes with a hard date. Possibly good for a walk-and-talk reaction tied to the CBA rollout; consider whether the RSC code specificity (P7, K7, C7) requires too much on-screen text to land cleanly in 30–45 seconds.
+
+**Snippet:** The pay schedule changes under the 2024-2027 Collective Bargaining Agreement will be implemented on September 19, 2026. For employees covered by the main agreement who are on the post-2011 pay schedule in Grades 4-7, a new top step will be added. Officially, the change applies to workers in Rate Schedule Codes (RSCs) P7, K7, and C7. Employees in these […] The post New Top Steps Take Effect Sept. 1
+
+</details>
+
+---
+
+### 3. Are EPA feds losing union rights because they criticized their boss?
+
+**Consider filming if:** EPA employees who signed the open letter criticizing Zeldin face a concrete, named threat: loss of union contract protections that could ma…
+
+_pass · news · federal_workforce · 6d ago_
+
+[Read source](https://www.govexec.com/workforce/2026/09/epa-union-sues-management-over-contract-termination/416353/)
+
+**Other opens:**
+- *Stakes / FOMO:* EPA feds could face discipline after signing that open letter.
+- *Deadline:* EPA's union contract is gone — federal workers' protections are expiring now.
+- *Myth-bust:* Federal employees still have free speech rights — EPA's union disagrees.
+
+**Question answered:** Can EPA management strip federal workers' union rights to punish dissent?
+
+**Caution:** Lawsuit is ongoing — avoid stating outcome; stick to what AFGE alleges in the filing.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [EPA union sues management over contract termination](https://www.govexec.com/workforce/2026/09/epa-union-sues-management-over-contract-termination/416353/)
 
 **Outlet:** GovExec Workforce
 
-**Full eval:** Federal employees facing expanded NDA requirements have real livelihood stakes here — the bill would give feds a legal path if they're disciplined for whistleblowing despite an NDA, which is a direct career-security question. Possibly good for walk-and-talk as a news reaction; consider whether the legislative status (bill, not law) needs a clear caveat so viewers don't overread their current protections.
+**Full eval:** EPA employees who signed the open letter criticizing Zeldin face a concrete, named threat: loss of union contract protections that could make discipline easier to impose. The link between the executive order, collective bargaining termination, and retaliation risk gives federal viewers a clear 'am I affected?' hook. Possibly good for a walk-and-talk news reaction, though the legal procedural layer (union lawsuit mechanics) may need trimming to land cleanly in 30-45 seconds.
 
-**Snippet:** New legislation from Virginia Democrats seeks to beef up federal whistleblower protections as the Trump administration weighs drastically expanding agencies’ use of non-disclosure agreements.
+**Snippet:** AFGE accused EPA leadership of implementing President Trump’s executive order stripping many federal employees of their collective bargaining rights partly so it could discipline employees who signed an open letter criticizing Administrator Lee Zeldin more easily.
+
+</details>
+
+---
+
+### 4. Feds, your FEHB premium is going up 10.9% in 2027.
+
+**Consider filming if:** A 10.9% average premium increase hits FEHB enrollees directly in their paycheck — high livelihood stakes for active federal employees and r…
+
+_pass · news · retirement · 6d ago_
+
+[Read source](https://www.fedsmith.com/2026/09/30/2027-fehb-premiums-enrollees-to-pay-10-9-more-on-average/)
+
+**Other opens:**
+- *Stakes / FOMO:* Federal employees: your FEHB bill just got bigger in 2027.
+- *Deadline:* Open Season is coming — feds need to know this FEHB number now.
+- *Myth-bust:* FEHB increases are 'slowing' — but feds still pay 10.9% more.
+
+**Question answered:** How much more will federal employees pay for FEHB coverage in 2027?
+
+**Caution:** Confirm OPM release date; 2027 framing may reduce urgency if Open Season is months out.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [2027 FEHB Premiums: Enrollees to Pay 10.9% More on Average](https://www.fedsmith.com/2026/09/30/2027-fehb-premiums-enrollees-to-pay-10-9-more-on-average/)
+
+**Outlet:** FedSmith
+
+**Full eval:** A 10.9% average premium increase hits FEHB enrollees directly in their paycheck — high livelihood stakes for active federal employees and retirees alike. Possibly good for walk-and-talk as a straight news reaction; consider whether the Open Season timing adds urgency or whether the 2027 date feels too distant to land in a short format.
+
+**Snippet:** FEHB premium increases are slowing, but enrollees will still pay 10.9% more on average in 2027. Here is what OPM released ahead of Open Season.
+
+</details>
+
+---
+
+### 5. Feds, your FEHB premiums are going up again in 2027.
+
+**Consider filming if:** FEHB premium increases directly hit federal employees' take-home pay starting 2027, with postal workers on PSHB seeing a different — lower …
+
+_pass · news · federal_workforce · 4d ago_
+
+[Read source](https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ0hEOWx0Q2hPRnYyYkRvQ1V0SGxoTjU4WVJqWXpqZHQ4djBodE9TbHpEZldxTEpMWmN2R2NUQzJLQTI2Tm51dzRvWXVBNWhCTzRCbC10RnNXOTVDRGlCRU5TVEtCVDRUSHdISUpSVWZmRVVSeXhrWUw4Z3pJb25FUTFNcjFuV0RWYjdReGdyNWxKOXg1SFl6LTM3dGJUSDA1UkJV?oc=5)
+
+**Other opens:**
+- *Stakes / FOMO:* Federal employees face a 10.9% FEHB premium hike in 2027.
+- *Deadline:* Before 2027 open season, feds need to know this premium number.
+- *Myth-bust:* Postal feds, your PSHB increase is not the same as FEHB.
+
+**Question answered:** How much are FEHB and PSHB premiums rising for feds in 2027?
+
+**Caution:** Confirm OPM has officially announced 2027 rates before filming — FEDweek may be projecting.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [2027 Average FEHB Premium Increase 10.9 Percent; 8.2 Percent for PSHB](https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ0hEOWx0Q2hPRnYyYkRvQ1V0SGxoTjU4WVJqWXpqZHQ4djBodE9TbHpEZldxTEpMWmN2R2NUQzJLQTI2Tm51dzRvWXVBNWhCTzRCbC10RnNXOTVDRGlCRU5TVEtCVDRUSHdISUpSVWZmRVVSeXhrWUw4Z3pJb25FUTFNcjFuV0RWYjdReGdyNWxKOXg1SFl6LTM3dGJUSDA1UkJV?oc=5)
+
+**Outlet:** Google News · Benefeds / union benefits
+
+**Full eval:** FEHB premium increases directly hit federal employees' take-home pay starting 2027, with postal workers on PSHB seeing a different — lower — rate, making the 'am I affected and by how much' question real for both groups. The two-number comparison (10.9% vs 8.2%) is tight enough to anchor a 30–45 second walk-and-talk without charts, though the PSHB split requires a clean verbal setup so postal feds know which number applies to them.
+
+**Snippet:** 2027 Average FEHB Premium Increase 10.9 Percent; 8.2 Percent for PSHB FEDweek
 
 </details>
 
@@ -115,206 +219,197 @@ _pass · news · career_security · 18d ago_
 
 ## Also consider — detail
 
-### 3. Are postal workers being sidelined from running election mail?
+### 6. Are your TSP withdrawals quietly locking in losses, feds?
 
-**Consider filming if:** Postal workers have a direct professional stake in election mail operations, and an executive order pressuring USPS vote-by-mail functions …
+**Consider filming if:** Federal retirees drawing TSP income face a real administrative rule that can force them to lock in losses across funds — concrete financial…
 
-_review · news · federal_workforce · 19d ago_
+_review · news · retirement · 0d ago_
 
-[Read source](https://apwu.org/news/protect-our-right-to-vote-by-mail-apwu-calls-on-usps-board-of-governors-to-act/)
+[Read source](https://www.fedweek.com/tsp/withdrawing-from-one-tsp-fund-to-avoid-locking-in-losses/)
 
 **Other opens:**
-- *Stakes / FOMO:* A new executive order is putting USPS election mail duties at risk.
-- *Deadline:* USPS Board of Governors must act before the next election cycle.
-- *Myth-bust:* Postal workers don't just deliver mail — they run federal elections.
+- *Stakes / FOMO:* This TSP rule could cost federal retirees real retirement money.
+- *Deadline:* Before your next TSP withdrawal, federal retirees need to know this.
+- *Myth-bust:* Feds, TSP withdrawals don't come from the fund you choose.
 
-**Question answered:** What does the executive order mean for postal workers handling election mail?
+**Question answered:** How does TSP's withdrawal rule force federal retirees to lock in losses?
 
-**Caution:** Avoid taking a partisan stance; frame around postal worker job function, not voting politics.
-
-**Audience-language opens (try these):**
-- USPS retirement benefits — what postal workers need to verify
+**Caution:** Confirm the specific TSP sequencing rule from source before filming; avoid overstating fund-choice control.
 
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [Protect Our Right to Vote-by-Mail: APWU Calls on USPS Board of Governors to Act](https://apwu.org/news/protect-our-right-to-vote-by-mail-apwu-calls-on-usps-board-of-governors-to-act/)
-
-**Outlet:** APWU news
-
-**Full eval:** Postal workers have a direct professional stake in election mail operations, and an executive order pressuring USPS vote-by-mail functions touches both their mission and potential workload or policy constraints. The topic is more of a union advocacy call-to-action than a personal livelihood change, which limits the 'am I affected today' urgency — consider whether the video can stay grounded in what the order actually changes for postal workers rather than sliding into political commentary.
-
-**Snippet:** Postal workers play a fundamental role in our democracy: moving America’s mail, including election mail and ballots. But a new executive order is putting that role, as well as the public’s ability to Vote-by-Mail under growing pressure. The USPS Board of Governors “ultimate control and authority” over the Postal Service, and they have the power […] The post Protect Our Right to Vote-by-Mail: APWU 
-
-</details>
-
----
-
-### 4. Are USPS carriers actually safer, or is this just optics?
-
-**Consider filming if:** Postal workers face real on-the-job safety stakes here — armed robberies of letter carriers are the concrete threat, and the armed guard pr…
-
-_review · news · federal_workforce · 4d ago_
-
-[Read source](https://www.fedweek.com/federal-managers-daily-report/usps-armed-guard-program-is-a-symptom-of-failed-policy-not-a-solution/)
-
-**Other opens:**
-- *Stakes / FOMO:* Postal workers are being robbed — and the fix may not be working.
-- *Deadline:* USPS rolled out armed guards — but letter carriers are still getting robbed.
-- *Myth-bust:* Armed guards don't mean postal carriers are actually safer on route.
-
-**Question answered:** Does the USPS armed guard program actually protect letter carriers from robbery?
-
-**Caution:** Source is opinion-editorial — avoid presenting the 'failed policy' framing as established fact.
-
-**Audience-language opens (try these):**
-- USPS retirement benefits — what postal workers need to verify
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [USPS Armed Guard Program is a Symptom of Failed Policy, Not a Solution](https://www.fedweek.com/federal-managers-daily-report/usps-armed-guard-program-is-a-symptom-of-failed-policy-not-a-solution/)
+**Source headline:** [Withdrawing from One TSP Fund to Avoid Locking in Losses](https://www.fedweek.com/tsp/withdrawing-from-one-tsp-fund-to-avoid-locking-in-losses/)
 
 **Outlet:** FedWeek
 
-**Full eval:** Postal workers face real on-the-job safety stakes here — armed robberies of letter carriers are the concrete threat, and the armed guard program is the policy response being questioned. The opinion-editorial framing ('symptom of failed policy') makes this harder to play as straight news; consider whether a 30-45 second walk-and-talk can land a clear takeaway without sliding into punditry or requiring too much backstory.
+**Full eval:** Federal retirees drawing TSP income face a real administrative rule that can force them to lock in losses across funds — concrete financial stakes for anyone near or in retirement. The mechanics of TSP withdrawal sequencing may need careful scripting to land in 30-45 seconds without a chart; consider whether a single concrete example can carry the explanation without visual aids.
 
-**Snippet:** The U.S. Postal Inspection Service has become remarkably proficient at explaining away its failures. Letter carriers are robbed at gunpoint. ...More The article USPS Armed Guard Program is a Symptom of Failed Policy, Not a Solution was first published on FEDweek .
-
-</details>
-
----
-
-### 5. Going through divorce? Your FEHB and FEGLI coverage could change.
-
-**Consider filming if:** Divorce is a high-stakes life event that can directly disrupt a federal employee's FEHB/PSHB coverage and FEGLI beneficiary designations — …
-
-_review · news · federal_workforce · 5d ago_
-
-[Read source](https://www.fedweek.com/retirement-financial-planning/your-federal-benefits-in-divorce/)
-
-**Other opens:**
-- *Stakes / FOMO:* Divorce can strip your federal health coverage faster than you think.
-- *Deadline:* Feds: missing this FEHB divorce deadline could leave you uninsured.
-- *Myth-bust:* Federal employees assume FEHB auto-continues after divorce — it doesn't.
-
-**Question answered:** How does divorce affect a federal employee's FEHB, PSHB, and FEGLI coverage?
-
-**Caution:** Avoid implying specific divorce timelines or legal advice; stakes are real but rules vary by situation.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [FEHB / PSHB and FEGLI in Divorce](https://www.fedweek.com/retirement-financial-planning/your-federal-benefits-in-divorce/)
-
-**Outlet:** FedWeek
-
-**Full eval:** Divorce is a high-stakes life event that can directly disrupt a federal employee's FEHB/PSHB coverage and FEGLI beneficiary designations — real financial and coverage consequences that feds often don't learn about until it's too late. The topic has genuine livelihood stakes, but explaining the interplay of health benefits and life insurance in a divorce scenario may require more structure than a 30-45 second walkaround comfortably allows; consider whether this works better as a two-part short or a slightly longer explainer format.
-
-**Snippet:** Among the life events that might affect your Federal Employees Health Benefits/Postal Service Health Benefits and Federal Employees’ Group Life ...More The article FEHB / PSHB and FEGLI in Divorce was first published on FEDweek .
+**Snippet:** When federal employees retire and begin drawing income from the Thrift Savings Plan (TSP), a critical administrative rule often takes ...More The article Withdrawing from One TSP Fund to Avoid Locking in Losses was first published on FEDweek .
 
 </details>
 
 ---
 
-### 6. Is the USPS chief about to quit — and what does that mean for postal workers?
+### 7. Are federal telework investigators watching you right now?
 
-**Consider filming if:** The USPS Postmaster General's reported desire to quit carries real uncertainty for postal workers — leadership transitions at USPS have his…
+**Consider filming if:** Federal telework abuse investigations carry real job-security stakes — feds caught in time-and-attendance fraud face termination or crimina…
 
-_review · news · federal_workforce · 10d ago_
+_review · news · career_security · 21d ago_
 
-[Read source](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNVJuc21tc3RDMVpiTzVpdlFLQlV6cHp1YXFUU0JWc19xRDlOYk9jRGFFS2JuQ1RfRDEtOUd2V0NXZGdXMnRaLUpWYmxCYV8wN2JtMDVhVVFacmh1UE1hNTVkTThkZjhIZjFBZlZDTDBxbEZsWDhraHRNVEFzaTdxeXREVlBXMU1iTEduTFNhWFl0YUVEMEI4SWo0WDhxZFB4emgwRmlMUmhoQWs?oc=5)
+[Read source](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbkNibXJQUjZmbkx2ZXNuS25fNm9zWGMwbWJ2aE5HQ1RBSjBRTWs1NmVWNWxGdXFHM1Rzdl9sRUFvdm9zNmQ3OFRsUTEyenRkWi00c0Rfdlo2ZklXX3hkQ05vR0Npd1FPcG1VZ3dLeXpsYmRCemRMRWk5dU5VVnEwOWdUSkVydkVXNWMwNDlHTUhyVTJpQUxfY294R1FhaXdTWDZkVnc2NA?oc=5)
 
 **Other opens:**
-- *Stakes / FOMO:* A leadership vacuum at USPS could hit postal workers hardest.
-- *Deadline:* If the USPS chief quits, what changes first for postal employees?
-- *Myth-bust:* USPS leadership changes don't just affect management — ask any postal worker.
+- *Stakes / FOMO:* Federal telework fraud cases end careers — here's how.
+- *Deadline:* OIG telework audits are already open — feds, pay attention.
+- *Myth-bust:* Feds assume telework abuse goes unnoticed — it doesn't.
 
-**Question answered:** What does a potential USPS Postmaster General resignation mean for postal workers?
+**Question answered:** How do agencies actually catch and prove federal telework fraud?
 
-**Caution:** Reuters story is exclusive and unconfirmed — hold filming until resignation is officially reported.
-
-**Audience-language opens (try these):**
-- What FERS retirement benefits are you actually counting on?
-- USPS retirement benefits — what postal workers need to verify
+**Caution:** Do not overstate enforcement speed; source says investigations take a long time.
 
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [EXCLUSIVE: US Postal Service chief told associates he wants to quit, sources say](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNVJuc21tc3RDMVpiTzVpdlFLQlV6cHp1YXFUU0JWc19xRDlOYk9jRGFFS2JuQ1RfRDEtOUd2V0NXZGdXMnRaLUpWYmxCYV8wN2JtMDVhVVFacmh1UE1hNTVkTThkZjhIZjFBZlZDTDBxbEZsWDhraHRNVEFzaTdxeXREVlBXMU1iTEduTFNhWFl0YUVEMEI4SWo0WDhxZFB4emgwRmlMUmhoQWs?oc=5)
-
-**Outlet:** Google News · USPS job feasibility
-
-**Full eval:** The USPS Postmaster General's reported desire to quit carries real uncertainty for postal workers — leadership transitions at USPS have historically triggered reorganization, workforce changes, and policy shifts that affect FERS-covered employees directly. The story is sourced exclusively and thinly, so filming before confirmation risks dating the video badly; consider whether the 'what happens to postal workers if he leaves' angle holds up as a standalone reaction without more confirmed detail.
-
-**Snippet:** EXCLUSIVE: US Postal Service chief told associates he wants to quit, sources say Reuters
-
-</details>
-
----
-
-### 7. Is OPM changing how your federal workplace survey counts?
-
-**Consider filming if:** OPM overhauling the Federal Employee Viewpoint Survey carries real stakes for feds — survey results have historically shaped agency culture…
-
-_review · news · career_security · 27d ago_
-
-[Read source](https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUdBazl4U3BnczYxMldiSjJCNTFtTkkyVExGNGFyajBodHpsaVpSSm9YSng5VV8yOEZQT0hhTEpVSUpvQUtfLUl1OWJvXzVLWjlNajh1cEZqaC1EWF80YVZBdUJnYmNfSUVZUDdtcWNCaEpYSEstTEdLZDJyUlkzdHhwSnRjcTl1aTVSMC1ybEhiVERRMGN5bGFPcE9TaHVPaXU0NW52dUhHNUNoWEhKeU5WOV9PNng5MEJKcnJfMFZUOGJFdzZF?oc=5)
-
-**Other opens:**
-- *Stakes / FOMO:* Your FEVS answers could carry different weight under OPM's overhaul.
-- *Deadline:* Before the next FEVS drops, feds should know what OPM changed.
-- *Myth-bust:* Feds, the employee survey isn't just symbolic — OPM just proved it.
-
-**Question answered:** How does OPM's FEVS overhaul affect federal employees and their agencies?
-
-**Caution:** Avoid overstating impact — experts say risks and opportunities, not confirmed policy changes.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [OPM’s overhauls to FEVS pose both opportunities and risks, workforce experts say](https://news.google.com/rss/articles/CBMixwFBVV95cUxPRUdBazl4U3BnczYxMldiSjJCNTFtTkkyVExGNGFyajBodHpsaVpSSm9YSng5VV8yOEZQT0hhTEpVSUpvQUtfLUl1OWJvXzVLWjlNajh1cEZqaC1EWF80YVZBdUJnYmNfSUVZUDdtcWNCaEpYSEstTEdLZDJyUlkzdHhwSnRjcTl1aTVSMC1ybEhiVERRMGN5bGFPcE9TaHVPaXU0NW52dUhHNUNoWEhKeU5WOV9PNng5MEJKcnJfMFZUOGJFdzZF?oc=5)
+**Source headline:** [How federal telework fraud actually gets caught, and why it takes so long](https://news.google.com/rss/articles/CBMipwFBVV95cUxPbkNibXJQUjZmbkx2ZXNuS25fNm9zWGMwbWJ2aE5HQ1RBSjBRTWs1NmVWNWxGdXFHM1Rzdl9sRUFvdm9zNmQ3OFRsUTEyenRkWi00c0Rfdlo2ZklXX3hkQ05vR0Npd1FPcG1VZ3dLeXpsYmRCemRMRWk5dU5VVnEwOWdUSkVydkVXNWMwNDlHTUhyVTJpQUxfY294R1FhaXdTWDZkVnc2NA?oc=5)
 
 **Outlet:** Google News · stay vs leave / RTO morale
 
-**Full eval:** OPM overhauling the Federal Employee Viewpoint Survey carries real stakes for feds — survey results have historically shaped agency culture scores, workforce decisions, and accountability pressure on managers. The topic is abstract enough that a walk-and-talk risks feeling like an inside-baseball explainer without a sharp personal angle; consider whether the 'your answers may matter differently now' frame gives a fed viewer a concrete reason to watch through to the end.
+**Full eval:** Federal telework abuse investigations carry real job-security stakes — feds caught in time-and-attendance fraud face termination or criminal referral, so the 'why it takes so long' angle speaks directly to anyone who wonders whether agencies are watching. The explainer risk is real: the mechanics of how OIG builds a case may require more detail than a 45-second walk-and-talk can carry without turning into a briefing. Consider whether a tight reaction cut — 'here's the one reason it takes years' — can hold the format, or whether this needs a longer video.
 
-**Snippet:** OPM’s overhauls to FEVS pose both opportunities and risks, workforce experts say federalnewsnetwork.com
+**Snippet:** How federal telework fraud actually gets caught, and why it takes so long Washington Times
 
 </details>
 
 ---
 
-### 8. Retiring at your federal MRA could cost you more than you think, fed.
+### 8. Feds, the government just got the bill for that resignation offer.
 
-**Consider filming if:** Federal employees considering MRA retirement face real income, COLA, and FEHB consequences that compound over decades — the livelihood stak…
+**Consider filming if:** The $6.7B GAO figure on the Deferred Resignation Program has real stakes for federal employees — it signals congressional and OMB scrutiny …
 
-_review · news · retirement · 5d ago_
+_review · news · retirement · 14d ago_
 
-[Read source](https://www.fedsmith.com/2026/09/23/14-financial-advantages-federal-employees-lose-retire-mra/)
+[Read source](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUNNNVdLaG51QzlHUGNKTkxWb2taYVBFZG1yYW5faW0wenVsVWRram5sbGx5UXVrdlVYNlJBNlRHQnpJRXc5OGprNE1OY2YtWS1qMk8ta21qRzljZHZ2ZXdXcXoyWl9MUXkwRHhOUXlKV2VQeGdmR0lJelFmY2p1cTk1ZEt3ekNuSU9wX0xxdWlVMDdKcTdWMGxzS2tzX1RRZ3FEYXdPTQ?oc=5)
 
 **Other opens:**
-- *Stakes / FOMO:* Federal retirees at MRA quietly lose FEHB and COLA advantages.
-- *Deadline:* Planning MRA retirement this year? Check these FERS trade-offs first.
-- *Myth-bust:* Feds assume MRA retirement is full retirement — it's not.
+- *Stakes / FOMO:* That deferred resignation offer cost $6.7B — feds should know why.
+- *Deadline:* GAO's verdict is in — federal workers need to see this number.
+- *Myth-bust:* Feds, that 'free' resignation offer wasn't free — here's the tab.
 
-**Question answered:** What key FERS and FEHB benefits do feds lose retiring at MRA?
+**Question answered:** What does the $6.7B deferred resignation cost mean for federal employees going forward?
 
-**Caution:** Fourteen points cannot fit one short video — narrow to two or three highest-stakes losses.
+**Caution:** Do not imply GAO findings trigger new layoffs or mandatory buyouts — stick to what the report states.
 
 **Audience-language opens (try these):**
+- Federal buyout offer on the table — what should you check first?
 - What FERS retirement benefits are you actually counting on?
 
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [14 Financial Advantages Federal Employees Lose When They Retire at MRA](https://www.fedsmith.com/2026/09/23/14-financial-advantages-federal-employees-lose-retire-mra/)
+**Source headline:** [Deferred Resignation Program Cost Government About $6.7B in 2025, GAO Finds](https://news.google.com/rss/articles/CBMipwFBVV95cUxOMUNNNVdLaG51QzlHUGNKTkxWb2taYVBFZG1yYW5faW0wenVsVWRram5sbGx5UXVrdlVYNlJBNlRHQnpJRXc5OGprNE1OY2YtWS1qMk8ta21qRzljZHZ2ZXdXcXoyWl9MUXkwRHhOUXlKV2VQeGdmR0lJelFmY2p1cTk1ZEt3ekNuSU9wX0xxdWlVMDdKcTdWMGxzS2tzX1RRZ3FEYXdPTQ?oc=5)
+
+**Outlet:** Google News · VERA buyout
+
+**Full eval:** The $6.7B GAO figure on the Deferred Resignation Program has real stakes for federal employees — it signals congressional and OMB scrutiny that could reshape future workforce reduction offers and early-out terms. The retirement pillar angle is thin here unless the video connects the cost findings to what future buyout or deferred-resignation options might look like for feds still on the fence. Possibly good for a walk-and-talk news reaction, but consider whether the video can land a personal 'what this means for you' moment without needing to explain GAO methodology.
+
+**Snippet:** Deferred Resignation Program Cost Government About $6.7B in 2025, GAO Finds FEDmanager
+
+</details>
+
+---
+
+### 9. Feds, your FEHB premiums are jumping — how bad is it?
+
+**Consider filming if:** A 10.9% average FEHB premium hike in 2027 — with some plans climbing even higher — hits federal employees and annuitants directly in the pa…
+
+_review · news · retirement · 1d ago_
+
+[Read source](https://federalnewsnetwork.com/feds-with-benefits/2026/10/how-the-2027-fehb-premium-increase-will-impact-federal-employees-and-annuitants/)
+
+**Other opens:**
+- *Stakes / FOMO:* Federal annuitants, a 10.9% FEHB hike is hitting your fixed income.
+- *Deadline:* Before 2027 Open Season, feds need to know this FEHB number.
+- *Myth-bust:* That FEHB average hides plans climbing way above 10.9%, feds.
+
+**Question answered:** How much will FEHB cost federal employees and annuitants in 2027?
+
+**Caution:** Do not speculate on specific plan names or rates beyond what the source confirms.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [How the 2027 FEHB premium increase will impact federal employees and annuitants](https://federalnewsnetwork.com/feds-with-benefits/2026/10/how-the-2027-fehb-premium-increase-will-impact-federal-employees-and-annuitants/)
+
+**Outlet:** Federal News Network
+
+**Full eval:** A 10.9% average FEHB premium hike in 2027 — with some plans climbing even higher — hits federal employees and annuitants directly in the paycheck and retirement budget. Stakes are real and personal. Consider whether the 30-45 second format can land the key point (average vs. Plan-level variance) without tipping into a chart-dependent breakdown; a single reaction beat on the average figure may hold, but plan-comparison nuance could push this toward explainer territory.
+
+**Snippet:** FEHB premiums are rising an average of 10.9% in 2027, but many plans will see even steeper increases.
+
+</details>
+
+---
+
+### 10. Is AI about to reshape your federal job?
+
+**Consider filming if:** Federal employees facing uncertainty about AI and workforce downsizing have real livelihood stakes here — the combination of America.gov an…
+
+_review · news · career_security · 4d ago_
+
+[Read source](https://www.fedsmith.com/2026/10/02/ai-could-change-federal-jobs/)
+
+**Other opens:**
+- *Stakes / FOMO:* Federal jobs, skills, and headcount — AI is changing all three.
+- *Deadline:* Before America.gov rolls out: what feds need to know now.
+- *Myth-bust:* This isn't just efficiency — AI could cut federal positions entirely.
+
+**Question answered:** Could America.gov and AI eliminate or transform your federal position?
+
+**Caution:** Snippet is speculative; do not overstate confirmed policy — hedge claims clearly on camera.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [Federal Workforce and AI: How America.gov Could Change Federal Jobs](https://www.fedsmith.com/2026/10/02/ai-could-change-federal-jobs/)
 
 **Outlet:** FedSmith
 
-**Full eval:** Federal employees considering MRA retirement face real income, COLA, and FEHB consequences that compound over decades — the livelihood stakes are genuine. However, 14 distinct advantages is a list-format premise that resists compression into 30-45 seconds without feeling like a listicle teaser; consider whether this works better as a short reaction to one or two high-impact losses rather than a catalogue.
+**Full eval:** Federal employees facing uncertainty about AI and workforce downsizing have real livelihood stakes here — the combination of America.gov and AI reshaping job counts, skill requirements, and workforce age touches core career security concerns for feds. The concept is broad enough that a walk-and-talk risks drifting into vague speculation without a concrete news peg or announced policy change; consider whether the snippet has enough specifics to anchor a 30-45 second reaction without slides or explainer scaffolding.
 
-**Snippet:** Early federal retirement at 57 cuts benefits, delays COLAs, and reduces tax advantages, impacting income, healthcare, and long-term financial stability.
+**Snippet:** America.gov and AI could reshape federal jobs, increase productivity and accelerate changes in the size, age and skills of the federal workforce.
+
+</details>
+
+---
+
+### 11. Are you a VA federal employee — is your union contract still valid?
+
+**Consider filming if:** VA employees covered by the union contract face real uncertainty — a stayed court order means workplace protections that were briefly uphel…
+
+_review · news · federal_workforce · 0d ago_
+
+[Read source](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnUyNjdQZ01yZWNOQURZS19HZHg1QlVNNHBrc0FyVU91cHQzNkxOUS0xd0dJUWhSYWFES2RjTzlkUkNjQ0cxa2RHODBwb3psdEZmU2lzN0RKTDFHd3NjWTBRRFZab3F3R2YwQkg4U0hNaUU5UzlvdW9SNlNMQXEycHBuYTl0V3lDVGpQZk1DenZkNzdlSFJNcEVLSVMzb3phS1dZY2JUY0dBRFU?oc=5)
+
+**Other opens:**
+- *Stakes / FOMO:* VA feds: your union contract protections just got frozen by a court.
+- *Deadline:* VA federal workers, the clock is ticking on your contract rights.
+- *Myth-bust:* A court upheld your federal VA contract — but that ruling no longer stands.
+
+**Question answered:** What does the appeals court stay mean for VA federal employees' contract rights?
+
+**Caution:** Avoid implying the contract is permanently invalidated — the stay is pending appeal, outcome is unresolved.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [Appeals court stays order that upheld VA’s union contract](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVnUyNjdQZ01yZWNOQURZS19HZHg1QlVNNHBrc0FyVU91cHQzNkxOUS0xd0dJUWhSYWFES2RjTzlkUkNjQ0cxa2RHODBwb3psdEZmU2lzN0RKTDFHd3NjWTBRRFZab3F3R2YwQkg4U0hNaUU5UzlvdW9SNlNMQXEycHBuYTl0V3lDVGpQZk1DenZkNzdlSFJNcEVLSVMzb3phS1dZY2JUY0dBRFU?oc=5)
+
+**Outlet:** Google News · union workforce (AFGE NTEU NALC APWU)
+
+**Full eval:** VA employees covered by the union contract face real uncertainty — a stayed court order means workplace protections that were briefly upheld are now on hold pending appeal, which touches job security and working conditions for tens of thousands of federal workers. The story has genuine livelihood stakes, but the legal procedural layer (stays, injunctions, appeals) may require more setup than a 30-45 second walk-and-talk can carry cleanly; consider whether the hook can anchor on the practical 'what changes for you' angle rather than the court mechanics.
+
+**Snippet:** Appeals court stays order that upheld VA’s union contract Federal News Network
 
 </details>
 
@@ -324,7 +419,7 @@ _review · news · retirement · 5d ago_
 
 _From the latest federal-department news scan (2026-08-03)._
 
-### 9. Arbitrator: HHS broke the CBA firing 5,000 probationary feds
+### 12. Arbitrator: HHS broke the CBA firing 5,000 probationary feds
 
 _Fed Department Focus — agency-specific angle._
 
@@ -342,7 +437,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 10. Arbitrator orders IRS telework back — but your CBA protection may differ
+### 13. Arbitrator orders IRS telework back — but your CBA protection may differ
 
 _Fed Department Focus — agency-specific angle._
 
@@ -360,7 +455,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 11. Probationary feds: MSPB ruling may not end your appeal fight
+### 14. Probationary feds: MSPB ruling may not end your appeal fight
 
 _Fed Department Focus — agency-specific angle._
 
@@ -378,7 +473,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 12. Arbitrator wins mean nothing if agency appeals — Forest Service risk
+### 15. Arbitrator wins mean nothing if agency appeals — Forest Service risk
 
 _Fed Department Focus — agency-specific angle._
 
@@ -396,7 +491,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 13. Your VA telework IS your ADA accommodation — RTO can strip it
+### 16. Your VA telework IS your ADA accommodation — RTO can strip it
 
 _Fed Department Focus — agency-specific angle._
 
@@ -414,7 +509,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 14. Federal Circuit ruling could reshape DHS probationary workers' appeal rights
+### 17. Federal Circuit ruling could reshape DHS probationary workers' appeal rights
 
 _Fed Department Focus — agency-specific angle._
 
@@ -436,7 +531,7 @@ _Fed Department Focus — agency-specific angle._
 
 _Money / retirement seeds — not breaking news._
 
-### 15. Are you leaving free TSP matching on the table?
+### 18. Are you leaving free TSP matching on the table?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
@@ -448,7 +543,7 @@ _Evergreen — money / retirement demand seed, not breaking news._
 
 ---
 
-### 16. Feds — have you checked your FERS calculator this year?
+### 19. Feds — have you checked your FERS calculator this year?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
@@ -460,7 +555,7 @@ _Evergreen — money / retirement demand seed, not breaking news._
 
 ---
 
-### 17. TSP funds explained — which one fits your timeline?
+### 20. TSP funds explained — which one fits your timeline?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
@@ -472,7 +567,7 @@ _Evergreen — money / retirement demand seed, not breaking news._
 
 ---
 
-### 18. TSP rollover options — stay in, roll out, or wait?
+### 21. TSP rollover options — stay in, roll out, or wait?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
@@ -484,7 +579,7 @@ _Evergreen — money / retirement demand seed, not breaking news._
 
 ---
 
-### 19. Federal retirement planning — what should you verify this year?
+### 22. Federal retirement planning — what should you verify this year?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
