@@ -1,6 +1,6 @@
 **Private:** Do not share this page link or the RSS feed URL outside the Harris producer team.
 
-# FedBuzz Producer Brief — 2026-10-12
+# FedBuzz Producer Brief — 2026-10-19
 
 **8 topics** (2 film-first · 6 also consider) + **6 Fed Department Focus** + **5 evergreen** — each block opens with the walkaround line. Skim the list; expand only what you might film.
 
@@ -8,19 +8,19 @@
 
 _Stronger short-form fit — start here._
 
-1. [Did signing that EPA letter just cost federal workers their union protections?](#topic-1)
-2. [Federal employees: your FEHB premium could jump 84% this Open Season.](#topic-2)
+1. [Denied telework as a fed? This bill could create an appeal.](#topic-1)
+2. [Can EPA fire feds who criticized leadership without a union?](#topic-2)
 
 ## Also consider
 
 _Softer fit — worth a look if the list above is thin or these match your lane._
 
-3. [Postal workers: could the 2026 midterms put your job at risk?](#topic-3)
-4. [Did your USPS career conversion just create a political target on your back?](#topic-4)
-5. [Postal workers — did your October 9th paycheck just go up?](#topic-5)
-6. [Federal employees: OPM just finalized RIF rules — are you ready?](#topic-6)
-7. [Are you an SSA fed losing your federal flexible schedule starting now?](#topic-7)
-8. [Are FERS retirees now paying more tax on Social Security?](#topic-8)
+3. [USPS clerks: is your December overtime pay about to change?](#topic-3)
+4. [Postal workers: why did USPS just halt a key computer system?](#topic-4)
+5. [Feds at BOP: did a judge just save your union contract?](#topic-5)
+6. [Did your federal annuity COLA rules just change?](#topic-6)
+7. [Federal and postal workers: what does Nov. 3 mean for you?](#topic-7)
+8. [Postal worker? A $104B retirement shortfall just got a new report.](#topic-8)
 
 ## Fed Department Focus
 
@@ -45,22 +45,54 @@ _Short money / retirement seeds. Film one if you want a different lane from this
 
 ---
 
-### 1. Did signing that EPA letter just cost federal workers their union protections?
+### 1. Denied telework as a fed? This bill could create an appeal.
 
-**Consider filming if:** EPA employees who signed or considered signing that open letter now face a concrete question about whether their workplace protections stil…
+**Consider filming if:** A bill that would standardize telework requests and add an appeals process touches daily work arrangements for federal employees, though it…
 
-_pass · news · federal_workforce · 12d ago_
+_pass · news · career_security · 6d ago_
+
+[Read source](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUnFtRW9DaGVKeVFjcjNVaWQ0aFVVMW5PTGVHaVNzc3JOMXdFQ3RFZDlWc1FPbUIyU0ltenNtYWIzNDY5ajEyRjkwcVphS2M0Y0F4QUkxZk1ENFVMRlBBU3piOGo4R1VadUtiemVQNTNRUVJ0QnhkaFVxTHJvVlozU2g2eVIxQkM4S3R5bU1FdEZuc3VieTZfWUVWcUs5RGg1bnBUY2JhVUhodw?oc=5)
+
+**Other opens:**
+- *Stakes / FOMO:* Federal telework denied? This bill would give you an appeals process.
+- *Deadline:* Federal telework rules may get standardized. Here's what's actually proposed.
+- *Myth-bust:* Feds: this telework bill isn't law yet. Here's what it would change.
+
+**Question answered:** What would this bill change about how federal employees request and appeal telework decisions?
+
+**Caution:** Snippet confirms only the bill's goals; verify sponsor, status, and date before filming, and don't present it as enacted.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [Bill Seeks to Standardize Federal Telework Requests, Create Appeals Process](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUnFtRW9DaGVKeVFjcjNVaWQ0aFVVMW5PTGVHaVNzc3JOMXdFQ3RFZDlWc1FPbUIyU0ltenNtYWIzNDY5ajEyRjkwcVphS2M0Y0F4QUkxZk1ENFVMRlBBU3piOGo4R1VadUtiemVQNTNRUVJ0QnhkaFVxTHJvVlozU2g2eVIxQkM4S3R5bU1FdEZuc3VieTZfWUVWcUs5RGg1bnBUY2JhVUhodw?oc=5)
+
+**Outlet:** Google News · stay vs leave / RTO morale
+
+**Full eval:** A bill that would standardize telework requests and add an appeals process touches daily work arrangements for federal employees, though it's still only a proposal. Possibly good for a short news reaction, as long as the video stays on what the bill would change and avoids implying anything is law yet.
+
+**Snippet:** Bill Seeks to Standardize Federal Telework Requests, Create Appeals Process FEDmanager
+
+</details>
+
+---
+
+### 2. Can EPA fire feds who criticized leadership without a union?
+
+**Consider filming if:** Federal employees at EPA and other agencies where bargaining rights were stripped have direct stakes: discipline protections, grievance rou…
+
+_pass · news · federal_workforce · 19d ago_
 
 [Read source](https://www.govexec.com/workforce/2026/09/epa-union-sues-management-over-contract-termination/416353/)
 
 **Other opens:**
-- *Stakes / FOMO:* EPA feds could face discipline after losing collective bargaining rights.
-- *Deadline:* AFGE just filed suit — federal EPA workers, here's where things stand now.
-- *Myth-bust:* No, that executive order didn't just affect AFGE — it affects you too.
+- *Stakes / FOMO:* Lose your federal union as a fffed, and discipline gets easier?
+- *Deadline:* This week, EPA's union fought back in court. Feds, here's why.
+- *Myth-bust:* Signing an open letter as a fed doesn't make you untouchable.
 
-**Question answered:** Can EPA management now discipline federal employees who signed that open letter?
+**Question answered:** Does losing collective bargaining make it easier to discipline federal employees who speak out?
 
-**Caution:** Lawsuit is active — avoid stating outcomes; frame as 'alleged' and 'AFGE claims.'
+**Caution:** Attribute claims to AFGE's lawsuit; EPA hasn't confirmed motive. Verify the filing date and the executive order's scope before filming.
 
 <details>
 <summary>Original headline & context</summary>
@@ -69,7 +101,7 @@ _pass · news · federal_workforce · 12d ago_
 
 **Outlet:** GovExec Workforce
 
-**Full eval:** EPA employees who signed or considered signing that open letter now face a concrete question about whether their workplace protections still exist — the union lawsuit makes this a live, unresolved situation with direct discipline stakes. Possibly good for a walk-and-talk news reaction, though the presenter will need to hold the thread clearly: contract termination → EO stripping bargaining rights → retaliation risk, all in under 45 seconds.
+**Full eval:** Federal employees at EPA and other agencies where bargaining rights were stripped have direct stakes: discipline protections, grievance routes, and retaliation risk tied to speaking out. Possibly good for a short news reaction if the date checks out and the claims stay clearly attributed to AFGE's lawsuit and accusations.
 
 **Snippet:** AFGE accused EPA leadership of implementing President Trump’s executive order stripping many federal employees of their collective bargaining rights partly so it could discipline employees who signed an open letter criticizing Administrator Lee Zeldin more easily.
 
@@ -77,92 +109,59 @@ _pass · news · federal_workforce · 12d ago_
 
 ---
 
-### 2. Federal employees: your FEHB premium could jump 84% this Open Season.
-
-**Consider filming if:** FEHB Open Season starts Nov.
-
-_pass · news · retirement · 3d ago_
-
-[Read source](https://www.fedsmith.com/2026/10/09/2027-fehb-premiums-the-plans-with-the-biggest-increases-and-decreases/)
-
-**Other opens:**
-- *Stakes / FOMO:* Some feds are about to pay way more for FEHB — are you one?
-- *Deadline:* FEHB Open Season opens Nov. 9 — federal employees, check your plan now.
-- *Myth-bust:* The average FEHB increase is 10.9% — but your plan could be far worse.
-
-**Question answered:** Which FEHB plans are spiking or dropping in 2027, and am I affected?
-
-**Caution:** Do not name specific plan winners or losers without verifying OPM's published 2027 rate tables.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [2027 FEHB Premiums: The Plans With the Biggest Increases and Decreases](https://www.fedsmith.com/2026/10/09/2027-fehb-premiums-the-plans-with-the-biggest-increases-and-decreases/)
-
-**Outlet:** FedSmith
-
-**Full eval:** FEHB Open Season starts Nov. 9 and some federal employees face premium swings of +84% or -42% — real money at stake before the enrollment deadline locks in. The 'am I affected?' urgency is strong and the news peg is clean. Possibly good for a walk-and-talk reaction; consider whether naming a few plan-type examples (HDHP vs. HMO) can land without needing a table on screen.
-
-**Snippet:** The average FEHB increase is 10.9%, but plans range from +84% to -42%. Here are the 2027 premiums worth knowing before Open Season starts Nov. 9.
-
-</details>
-
----
-
 ## Also consider — detail
 
-### 3. Postal workers: could the 2026 midterms put your job at risk?
+### 3. USPS clerks: is your December overtime pay about to change?
 
-**Consider filming if:** Postal workers covered under FERS, FEHB, and TSP have real livelihood stakes if the 2026 midterms shift control of committees overseeing US…
+**Consider filming if:** Postal clerks and other APWU-represented USPS employees have a direct pay stake: during this four-week December window, penalty overtime pr…
 
-_review · news · federal_workforce · 3d ago_
+_review · news · federal_workforce · 4d ago_
 
-[Read source](https://apwu.org/news/apwu-live-oct-20-do-the-midterms-put-your-job-at-risk/)
+[Read source](https://apwu.org/news/2026-penalty-overtime-exclusion-period/)
 
 **Other opens:**
-- *Stakes / FOMO:* APWU says the midterms could directly affect postal workers' jobs.
-- *Deadline:* Postal workers, APWU's October 20 livestream covers your job security.
-- *Myth-bust:* Federal postal jobs aren't election-proof — here's what APWU says.
+- *Stakes / FOMO:* Postal workers: your December overtime may pay less than you expect.
+- *Deadline:* USPS employees: penalty overtime pauses starting November 28. Are you ready?
+- *Myth-bust:* Postal workers: no, penalty overtime doesn't apply all December.
 
-**Question answered:** How could the 2026 midterm elections affect postal workers' jobs and rights?
+**Question answered:** When does penalty overtime stop applying to APWU postal workers in December 2026?
 
-**Caution:** Avoid endorsing candidates; frame as informational — what the union is saying, not who to vote for.
+**Caution:** Snippet is truncated and covers APWU only. Confirm end date and which crafts are covered before filming; don't imply all USPS staff.
 
 **Audience-language opens (try these):**
-- What FERS retirement benefits are you actually counting on?
 - USPS retirement benefits — what postal workers need to verify
 
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [APWU LIVE Oct 20: Do The Midterms Put Your Job At Risk?](https://apwu.org/news/apwu-live-oct-20-do-the-midterms-put-your-job-at-risk/)
+**Source headline:** [2026 Penalty Overtime Exclusion Period](https://apwu.org/news/2026-penalty-overtime-exclusion-period/)
 
 **Outlet:** APWU news
 
-**Full eval:** Postal workers covered under FERS, FEHB, and TSP have real livelihood stakes if the 2026 midterms shift control of committees overseeing USPS funding and labor rights — APWU is explicitly framing this as a job-security event. Consider whether a 30-45 second walk-and-talk can carry this without becoming a political endorsement or requiring chart support; the event-promo nature of the source is the main risk.
+**Full eval:** Postal clerks and other APWU-represented USPS employees have a direct pay stake: during this four-week December window, penalty overtime premiums don't apply under the contract. That affects holiday-season paychecks, and the source gives a start date, so there's a real deadline. It's a union-bulletin item, so consider whether it could work as a short reaction or needs the contract language verified first. Narrow audience, but possibly good for a quick 'here's what changes in your December check' walk-and-talk.
 
-**Snippet:** For postal workers, a lot is at stake in the 2026 midterm elections. On October 20, APWU is hosting a livestream to inform members about how the candidates running for could affect our jobs, our rights, and the public Postal Service. Click here to RSVP. APWU President Jonathan Smith will be joined by Legislative & […] The post APWU LIVE Oct 20: Do The Midterms Put Your Job At Risk? appeared first 
+**Snippet:** In accordance with Article 8, Sections 4 and 5 of the APWU Collective Bargaining Agreement, penalty overtime rules are not applicable for a consecutive four-week period each year during December. The “Penalty Overtime Exclusion” period for calendar year 2026 will begin Pay Period 26-2026, Week 1 (November 28, 2026), and end Pay Period 27-2026, Week 2 […] The post 2026 Penalty Overtime Exclusion Pe
 
 </details>
 
 ---
 
-### 4. Did your USPS career conversion just create a political target on your back?
+### 4. Postal workers: why did USPS just halt a key computer system?
 
-**Consider filming if:** USPS career conversion raised labor costs without measurable performance gains — an audit finding that touches job security framing for pos…
+**Consider filming if:** The stakes for a postal employee are indirect: a stalled USPS computer system tied to election mail could mean shifted workloads or politic…
 
-_review · news · federal_workforce · 6d ago_
+_review · news · federal_workforce · 5d ago_
 
-[Read source](https://www.fedweek.com/fedweek/usps-shift-to-career-employees-clearly-raised-costs-but-not-performance-says-audit/)
+[Read source](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa1BVNlFmaEM5ZllFYTFpRXlzbXZId0VUTDhtQ0hvemZDQ3ROQXA4WXZYenZZTWNOWGZ6SXEyVldubVcxRU92YkZ5a21DZ3ZDc192bmR4VlE5RXN0ak9DM2t4RFdORzhtS3BzM2JycTh4b2ljTTJFc3ZGMi1nOEItTUdFR2RYbVloRXVKNk5DaVdMNG52OWdfclBpSDgxNkhtX3VLU3lGb0NFZWJtTUVhWWNtYkFtMU54UExZX3hKTzY?oc=5)
 
 **Other opens:**
-- *Stakes / FOMO:* USPS career employees cost more — now auditors want answers.
-- *Deadline:* This audit is out now — postal workers should know what it says.
-- *Myth-bust:* Career status didn't protect USPS — it just made you more expensive.
+- *Stakes / FOMO:* Postal workers: could the halted USPS system change your workload?
+- *Deadline:* USPS says work stopped on a key system. What federal employees should watch next.
+- *Myth-bust:* Is USPS leadership really stopping this system? What postal employees should know.
 
-**Question answered:** What does this USPS audit mean for postal workers who got career status?
+**Question answered:** What does the halted USPS computer system mean for postal employees?
 
-**Caution:** Audit findings are systemic; avoid implying individual postal workers face imminent job loss without sourced evidence.
+**Caution:** Snippet is thin and politically charged; verify the date and details, stay neutral, and don't speculate beyond the source.
 
 **Audience-language opens (try these):**
 - USPS retirement benefits — what postal workers need to verify
@@ -170,155 +169,154 @@ _review · news · federal_workforce · 6d ago_
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [USPS Shift to Career Employees Clearly Raised Costs but Not Performance, Says Audit](https://www.fedweek.com/fedweek/usps-shift-to-career-employees-clearly-raised-costs-but-not-performance-says-audit/)
+**Source headline:** [Postal Service Chief Says Work Stopped on Computer System Key to Trump Effort to Limit Mail Voting](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa1BVNlFmaEM5ZllFYTFpRXlzbXZId0VUTDhtQ0hvemZDQ3ROQXA4WXZYenZZTWNOWGZ6SXEyVldubVcxRU92YkZ5a21DZ3ZDc192bmR4VlE5RXN0ak9DM2t4RFdORzhtS3BzM2JycTh4b2ljTTJFc3ZGMi1nOEItTUdFR2RYbVloRXVKNk5DaVdMNG52OWdfclBpSDgxNkhtX3VLU3lGb0NFZWJtTUVhWWNtYkFtMU54UExZX3hKTzY?oc=5)
 
-**Outlet:** FedWeek
+**Outlet:** Google News · USPS job feasibility
 
-**Full eval:** USPS career conversion raised labor costs without measurable performance gains — an audit finding that touches job security framing for postal workers who gained career status and now face scrutiny over whether those conversions stick. The stakes are real for affected USPS employees, but the audit's findings are systemic rather than personal, which makes the 'am I affected' hook harder to land cleanly; consider whether this could work as a short reaction to the audit headline rather than a direct livelihood warning.
+**Full eval:** The stakes for a postal employee are indirect: a stalled USPS computer system tied to election mail could mean shifted workloads or political scrutiny of the agency, but the snippet doesn't say how. Possibly workable as a short news reaction if you can confirm the date and keep it to what the postmaster general actually said. Consider whether it holds up without turning into a politics take.
 
-**Snippet:** The Postal Service’s shift of many pre-career positions to career status raised its spending on labor but the impact on ...More The article USPS Shift to Career Employees Clearly Raised Costs but Not Performance, Says Audit was first published on FEDweek .
+**Snippet:** Postal Service Chief Says Work Stopped on Computer System Key to Trump Effort to Limit Mail Voting EDGE Media Network
 
 </details>
 
 ---
 
-### 5. Postal workers — did your October 9th paycheck just go up?
+### 5. Feds at BOP: did a judge just save your union contract?
 
-**Consider filming if:** Postal workers in APWU Grades 4-7 under RSCs P7, K7, and C7 face a concrete pay change tied to new top steps — real checkbook stakes for af…
+**Consider filming if:** Directly affects Bureau of Prisons employees and, more broadly, feds watching how collective bargaining rights hold up in court.
 
 _review · news · federal_workforce · 3d ago_
 
-[Read source](https://apwu.org/news/new-top-steps-effective-now-for-career-employees/)
+[Read source](https://federalnewsnetwork.com/unions/2026/10/judge-voids-bureau-of-prisons-attempt-to-re-terminate-union-contract/)
 
 **Other opens:**
-- *Stakes / FOMO:* USPS career employees in Grades 4-7 may have a new top step.
-- *Deadline:* Postal workers: new pay kicks in on paychecks dated October 9th.
-- *Myth-bust:* Not all USPS grades got new top steps — here's who qualifies.
+- *Stakes / FOMO:* Federal union contract at BOP: a judge just blocked the termination.
+- *Deadline:* BOP tried to end your federal union contract again. A judge said no.
+- *Myth-bust:* Federal win in court, but BOP still dodged contempt. What gives?
 
-**Question answered:** Which USPS career employees are affected by the new top steps effective September 19?
+**Question answered:** What does the judge voiding BOP's union contract re-termination mean for federal employees?
 
-**Caution:** Confirm RSC eligibility on-screen; misstating affected codes could mislead postal workers into false expectations.
-
-**Harris QA:** Timely — confirm date before filming. References 2024 — name the year explicitly.
-
-**Audience-language opens (try these):**
-- USPS retirement benefits — what postal workers need to verify
+**Caution:** Verify ruling date and that the injunction is still in effect; don't imply BOP is complying or that the case is settled.
 
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [New Top Steps Effective Now for Career Employees](https://apwu.org/news/new-top-steps-effective-now-for-career-employees/)
+**Source headline:** [Judge voids Bureau of Prisons’ attempt to re-terminate union contract](https://federalnewsnetwork.com/unions/2026/10/judge-voids-bureau-of-prisons-attempt-to-re-terminate-union-contract/)
 
-**Outlet:** APWU news
+**Outlet:** Federal News Network
 
-**Full eval:** Postal workers in APWU Grades 4-7 under RSCs P7, K7, and C7 face a concrete pay change tied to new top steps — real checkbook stakes for affected career employees. The narrow scope (specific RSCs and grades) means a walk-and-talk host must either speak directly to that slice or risk losing everyone else; consider whether the audience is broad enough for short-form without becoming a reference lookup.
+**Full eval:** Directly affects Bureau of Prisons employees and, more broadly, feds watching how collective bargaining rights hold up in court. Possibly good for a short news reaction, but consider whether the legal back-and-forth (void notice, injunction, contempt denied) can be explained in 30-45 seconds without losing viewers; confirm the ruling date and details before filming.
 
-**Snippet:** Some employees in Grades 4-7 covered by the 2024-2027 Collective Bargaining Agreement should see an increase in their paychecks dated October 9, 2026 thanks to the new top steps implemented on Sept. 19. Employees in Rate Schedule Codes (RSCs) P7, K7, and C7 will now progress to the following top steps: • Grade 4 Top Step […] The post New Top Steps Effective Now for Career Employees appeared first 
+**Snippet:** Despite voiding the re-termination notice, the judge denied AFGE’s request to hold BOP in contempt of court for not abiding by a preliminary injunction.
 
 </details>
 
 ---
 
-### 6. Federal employees: OPM just finalized RIF rules — are you ready?
+### 6. Did your federal annuity COLA rules just change?
 
-**Consider filming if:** OPM's finalized RIF rules carry direct livelihood stakes for federal employees facing potential layoffs — job security, appeal rights, and …
+**Consider filming if:** COLA treatment directly affects annuity income for retired and soon-to-retire feds, so the stakes are real.
 
 _review · news · retirement · 4d ago_
 
-[Read source](https://www.fedweek.com/fedweek/opms-final-rif-rules-are-here-7-steps-federal-employees-can-take-before-or-when-a-notice-arrives/)
+[Read source](https://news.google.com/rss/articles/CBMickFVX3lxTFBjR0tZVV95V2liVjdUcU53TE1kX09wb29LemF6aVNOSy1aa0hlbXVDdThXbk11LXU4Tm1IRHNuVTd6SlBSaHAwc3JEVUFWQlVadXdHV0lFeDd5eGk1dm9BT0gyenpqV2hYT3dFc2RrajA4UQ?oc=5)
 
 **Other opens:**
-- *Stakes / FOMO:* A RIF notice could hit your federal desk — know your rights.
-- *Deadline:* OPM's final RIF rules are live — feds, the clock starts now.
-- *Myth-bust:* Federal employees don't just get fired — RIF rules protect you.
+- *Stakes / FOMO:* Your federal annuity check may shift. Here's what changed.
+- *Deadline:* Retiring soon? Check this federal COLA update first.
+- *Myth-bust:* Think your federal COLA works the old way? Not anymore.
 
-**Question answered:** What do OPM's final RIF rules mean for federal employees facing layoffs?
+**Question answered:** What did the clarified COLA changes mean for federal civil service annuitants?
 
-**Caution:** Avoid listing all seven steps on camera — narrow to one or two highest-stakes actions to stay under 45 seconds.
-
-**Audience-language opens (try these):**
-- Federal RIFs — what happens to your benefits if your job is cut?
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [OPM’s Final RIF Rules Are Here: 7 Steps Federal Employees Can Take Before, or When a Notice Arrives](https://www.fedweek.com/fedweek/opms-final-rif-rules-are-here-7-steps-federal-employees-can-take-before-or-when-a-notice-arrives/)
-
-**Outlet:** FedWeek
-
-**Full eval:** OPM's finalized RIF rules carry direct livelihood stakes for federal employees facing potential layoffs — job security, appeal rights, and severance all hinge on these rules. The '7 steps' framing risks tipping into listicle territory that needs a visual aid or cheat sheet, so consider whether the walk-and-talk can distill one or two high-stakes actions rather than enumerate all seven.
-
-**Snippet:** Federal employees who have been watching the government’s renewed focus on reductions in force (RIFs) should pay close attention to ...More The article OPM’s Final RIF Rules Are Here: 7 Steps Federal Employees Can Take Before, or When a Notice Arrives was first published on FEDweek .
-
-</details>
-
----
-
-### 7. Are you an SSA fed losing your federal flexible schedule starting now?
-
-**Consider filming if:** This story has direct stakes for SSA employees whose flexible schedules are being eliminated, and surfaces a live labor dispute with union …
-
-_review · news · financial_planning · 5d ago_
-
-[Read source](https://www.govexec.com/workforce/2026/10/social-security-ends-flexible-work-schedules/416480/)
-
-**Other opens:**
-- *Stakes / FOMO:* SSA feds: your flexible schedule just got eliminated unilaterally.
-- *Deadline:* SSA federal workers — flex schedules are ending, possibly this week.
-- *Myth-bust:* Your federal union contract doesn't automatically protect your flex schedule.
-
-**Question answered:** Can SSA end federal employee flex schedules without union agreement?
-
-**Caution:** Confirm effective date before filming; union dispute status may have changed since publication.
+**Caution:** Snippet lacks specifics; confirm the date and who is affected (CSRS vs FERS, current vs future retirees) before filming. Don't assume the nature of the change.
 
 **Audience-language opens (try these):**
+- FERS vs CSRS — which system are you under, and why it matters now
+- Still on CSRS? Here's what feds miss about retirement rules
 - What FERS retirement benefits are you actually counting on?
 
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [Social Security ends flexible work schedules, teeing up clash with union](https://www.govexec.com/workforce/2026/10/social-security-ends-flexible-work-schedules/416480/)
+**Source headline:** [Cost-of-Living Changes for Civil Service Annuities Clarified](https://news.google.com/rss/articles/CBMickFVX3lxTFBjR0tZVV95V2liVjdUcU53TE1kX09wb29LemF6aVNOSy1aa0hlbXVDdThXbk11LXU4Tm1IRHNuVTd6SlBSaHAwc3JEVUFWQlVadXdHV0lFeDd5eGk1dm9BT0gyenpqV2hYT3dFc2RrajA4UQ?oc=5)
 
-**Outlet:** GovExec Workforce
+**Outlet:** Google News · federal retirement
 
-**Full eval:** This story has direct stakes for SSA employees whose flexible schedules are being eliminated, and surfaces a live labor dispute with union pushback — both concrete livelihood concerns for federal workers inside SSA. The special_edition filter flagged a WEP/GPO angle, but the source snippet is about a workplace policy clash, not Social Security benefit calculations; grafting a FERS/WEP frame onto this headline would be cosmetic. Consider whether the video can stay grounded in the schedule elimination story without drifting into a benefits explainer that needs more sourcing.
+**Full eval:** COLA treatment directly affects annuity income for retired and soon-to-retire feds, so the stakes are real. The snippet is only a headline fragment, so the specific change isn't known; consider whether it can be stated plainly in one sentence before filming. Possibly good for a calm short reaction if the date and details check out, otherwise it risks drifting into a FERS/CSRS COLA formula explainer.
 
-**Snippet:** The agency’s top HR official says these changes are necessary to “deliver the service the public expects.” A union argues SSA violated its labor contract making this decision on its own.
+**Snippet:** Cost-of-Living Changes for Civil Service Annuities Clarified Legis1
 
 </details>
 
 ---
 
-### 8. Are FERS retirees now paying more tax on Social Security?
+### 7. Federal and postal workers: what does Nov. 3 mean for you?
 
-**Consider filming if:** FERS retirees collecting Social Security face the same rising tax bite described here, and the WEP/GPO layer makes the timing and taxabilit…
+**Consider filming if:** The snippet is the opening of a union magazine election-stakes piece.
 
-_review · news · financial_planning · 5d ago_
+_review · news · federal_workforce · 8d ago_
 
-[Read source](https://www.fedweek.com/retirement-financial-planning/report-social-security-beneficiaries-paying-more-taxes-but-providing-needed-funding-for-program/)
+[Read source](https://apwu.org/news/this-election-season-the-stakes-have-never-been-higher/)
 
 **Other opens:**
-- *Stakes / FOMO:* Your FERS Social Security check may be taxed more than you planned.
-- *Deadline:* Before you claim Social Security, feds need to know this tax shift.
-- *Myth-bust:* FERS retirees, Social Security is not tax-free — and it's getting worse.
+- *Stakes / FOMO:* Could this Congress change your USPS job or federal benefits?
+- *Deadline:* Nov. 3 is coming: what do postal workers need to know?
+- *Myth-bust:* Think midterms don't touch your federal paycheck? Think again.
 
-**Question answered:** Are FERS and federal retirees paying more tax on Social Security benefits now?
+**Question answered:** How could the Nov. 3 midterm elections affect postal and federal employees?
 
-**Caution:** Do not imply WEP/GPO repeal changes this tax liability — those are separate issues.
+**Caution:** Snippet names no specific policy or benefit change; read the full article before claiming concrete stakes, and keep the tone nonpartisan.
 
 **Audience-language opens (try these):**
 - What FERS retirement benefits are you actually counting on?
+- USPS retirement benefits — what postal workers need to verify
 
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [Report: Social Security Beneficiaries Paying More Taxes, but Providing Needed Funding for Program](https://www.fedweek.com/retirement-financial-planning/report-social-security-beneficiaries-paying-more-taxes-but-providing-needed-funding-for-program/)
+**Source headline:** [This Election Season, the Stakes Have Never Been Higher](https://apwu.org/news/this-election-season-the-stakes-have-never-been-higher/)
+
+**Outlet:** APWU news
+
+**Full eval:** The snippet is the opening of a union magazine election-stakes piece. It names the Nov. 3 midterms but gives no specific policy, bill, or benefit change, so any livelihood stakes (USPS funding, FERS, FEHB) would have to come from the full article. Possibly workable as a short reaction if the full text names concrete postal-worker stakes; consider whether it reads as a generic get-out-the-vote message without them.
+
+**Snippet:** (This article appeared in the September/October 2026 issue of The American Postal Worker magazine) On Nov. 3, the people of this country will elect House representatives and senators to represent them in the 120th Congress, which begins in January 2027. Governors, state delegates, countless local offices, and ballot measures will also be voted on. These […] The post This Election Season, the Stake
+
+</details>
+
+---
+
+### 8. Postal worker? A $104B retirement shortfall just got a new report.
+
+**Consider filming if:** USPS employees are federal workers with FERS and FEHB stakes, so a $104B retirement shortfall report is on-topic and may prompt personal qu…
+
+_review · news · federal_workforce · 6d ago_
+
+[Read source](https://www.fedweek.com/federal-managers-daily-report/postal-ig-lays-out-options-to-address-104b-retirement-funding-shortfall/)
+
+**Other opens:**
+- *Stakes / FOMO:* Federal postal worker: is your FERS pension tied to this $104B hole?
+- *Deadline:* USPS retirement shortfall report is out: what feds should watch next
+- *Myth-bust:* Postal retirement funding gap: does it actually touch your federal pension?
+
+**Question answered:** What does the postal IG's $104B retirement shortfall report mean for postal workers' benefits?
+
+**Caution:** Snippet is thin: confirm the report's actual options and date before implying any change to employee pensions or health benefits.
+
+**Audience-language opens (try these):**
+- What FERS retirement benefits are you actually counting on?
+- USPS retirement benefits — what postal workers need to verify
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [Postal IG Lays Out Options to Address $104B Retirement Funding Shortfall](https://www.fedweek.com/federal-managers-daily-report/postal-ig-lays-out-options-to-address-104b-retirement-funding-shortfall/)
 
 **Outlet:** FedWeek
 
-**Full eval:** FERS retirees collecting Social Security face the same rising tax bite described here, and the WEP/GPO layer makes the timing and taxability calculation distinctly federal — not generic. The topic is substantive enough to matter, but the 'taxes on benefits are rising' angle risks becoming a stats recitation without a clear action item for feds; consider whether a 30-45 second walk-and-talk can land a tight enough point without needing charts or a tax table.
+**Full eval:** USPS employees are federal workers with FERS and FEHB stakes, so a $104B retirement shortfall report is on-topic and may prompt personal questions about benefits. The snippet only says the IG assessed options, so it's unclear whether anything changes for current employees. Consider whether this could work as a short reaction or needs the full report before filming.
 
-**Snippet:** Taxes paid on Social Security benefits received have increased substantially in recent years, and that tax revenue has become an ...More The article Report: Social Security Beneficiaries Paying More Taxes, but Providing Needed Funding for Program was first published on FEDweek .
+**Snippet:** An inspector general report has assessed options for addressing the Postal Service’s retirement funding shortfall–which it says “has driven up ...More The article Postal IG Lays Out Options to Address $104B Retirement Funding Shortfall was first published on FEDweek .
 
 </details>
 
