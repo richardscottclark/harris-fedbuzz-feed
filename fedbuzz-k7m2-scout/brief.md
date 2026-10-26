@@ -1,145 +1,76 @@
 **Private:** Do not share this page link or the RSS feed URL outside the Harris producer team.
 
-# FedBuzz Producer Brief — 2026-10-19
+# FedBuzz Producer Brief — 2026-10-26
 
-**9 topics** (3 film-first · 6 also consider) + **6 Fed Department Focus** + **5 evergreen** — each block opens with the walkaround line. Skim the list; expand only what you might film.
+**7 topics** (1 film-first · 6 also consider) + **6 Fed Department Focus** + **5 evergreen** — each block opens with the walkaround line. Skim the list; expand only what you might film.
 
 ## Film these
 
 _Stronger short-form fit — start here._
 
-1. [Could feds soon get a real appeals process for telework denials?](#topic-1)
-2. [Are federal cuts repeating the 1990s downsizing mistake?](#topic-2)
-3. [Federal employee at SSA? Your flexible schedule may be gone.](#topic-3)
+1. [Did OPM illegally hand DOGE your federal employee data?](#topic-1)
 
 ## Also consider
 
 _Softer fit — worth a look if the list above is thin or these match your lane._
 
-4. [USPS employees: did you know penalty overtime pauses in December?](#topic-4)
-5. [USPS chief says work stopped on a mail voting system: what do feds need to know?](#topic-5)
-6. [Did your federal annuity COLA just change?](#topic-6)
-7. [Postal retirement has a $104B hole. Are federal postal pensions at risk?](#topic-7)
-8. [Feds: is your FEHB vaccine coverage changing in 2027?](#topic-8)
-9. [Can feds be fired for doing the work they were assigned?](#topic-9)
+2. [Postal workers: do the midterms put your federal job at risk?](#topic-2)
+3. [Did the FLRA just hand HHS federal employees a telework win?](#topic-3)
+4. [Postal workers: did USPS cost-cutting just land on your desk?](#topic-4)
+5. [Postal workers: did your top step just change?](#topic-5)
+6. [Federal layoffs hit Black women hard. Are you in that fallout?](#topic-6)
+7. [Federal court just paused plans at Beltsville. Is your research job next?](#topic-7)
 
 ## Fed Department Focus
 
 _News about specific federal agencies, with a clear angle for federal employees. Use these if they are stronger than the week’s main list._
 
-10. [Arbitrator: HHS broke the CBA firing 5,000 probationary feds](#topic-10)
-11. [Arbitrator orders IRS telework back — but your CBA protection may differ](#topic-11)
-12. [Probationary feds: MSPB ruling may not end your appeal fight](#topic-12)
-13. [Arbitrator wins mean nothing if agency appeals — Forest Service risk](#topic-13)
-14. [Your VA telework IS your ADA accommodation — RTO can strip it](#topic-14)
-15. [Federal Circuit ruling could reshape DHS probationary workers' appeal rights](#topic-15)
+8. [Arbitrator: HHS broke the CBA firing 5,000 probationary feds](#topic-8)
+9. [Arbitrator orders IRS telework back — but your CBA protection may differ](#topic-9)
+10. [Probationary feds: MSPB ruling may not end your appeal fight](#topic-10)
+11. [Arbitrator wins mean nothing if agency appeals — Forest Service risk](#topic-11)
+12. [Your VA telework IS your ADA accommodation — RTO can strip it](#topic-12)
+13. [Federal Circuit ruling could reshape DHS probationary workers' appeal rights](#topic-13)
 
 ## Evergreen
 
 _Short money / retirement seeds. Film one if you want a different lane from this week’s news._
 
-16. [Are you leaving free TSP matching on the table?](#topic-16)
-17. [Feds — have you checked your FERS calculator this year?](#topic-17)
-18. [TSP funds explained — which one fits your timeline?](#topic-18)
-19. [TSP rollover options — stay in, roll out, or wait?](#topic-19)
-20. [Federal retirement planning — what should you verify this year?](#topic-20)
+14. [Are you leaving free TSP matching on the table?](#topic-14)
+15. [Feds — have you checked your FERS calculator this year?](#topic-15)
+16. [TSP funds explained — which one fits your timeline?](#topic-16)
+17. [TSP rollover options — stay in, roll out, or wait?](#topic-17)
+18. [Federal retirement planning — what should you verify this year?](#topic-18)
 
 ---
 
-### 1. Could feds soon get a real appeals process for telework denials?
+### 1. Did OPM illegally hand DOGE your federal employee data?
 
-**Consider filming if:** A bill that would standardize telework requests and add an appeals process speaks directly to how many feds work day to day, and the 'am I …
+**Consider filming if:** A judge ruling that OPM broke privacy law when it gave DOGE access to federal employee personal data touches every fed whose records sit in…
 
-_pass · news · career_security · 6d ago_
+_pass · news · career_security · 3d ago_
 
-[Read source](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUnFtRW9DaGVKeVFjcjNVaWQ0aFVVMW5PTGVHaVNzc3JOMXdFQ3RFZDlWc1FPbUIyU0ltenNtYWIzNDY5ajEyRjkwcVphS2M0Y0F4QUkxZk1ENFVMRlBBU3piOGo4R1VadUtiemVQNTNRUVJ0QnhkaFVxTHJvVlozU2g2eVIxQkM4S3R5bU1FdEZuc3VieTZfWUVWcUs5RGg1bnBUY2JhVUhodw?oc=5)
+[Read source](https://www.fedweek.com/federal-managers-daily-report/opm-violated-privacy-law-in-giving-doge-access-to-federal-employee-personal-info-judge-rules/)
 
 **Other opens:**
-- *Stakes / FOMO:* Feds: denied telework could finally come with an appeal.
-- *Deadline:* New bill would change how federal employees request telework. Here's the catch.
-- *Myth-bust:* Introduced isn't law: what this federal telework bill really does.
+- *Stakes / FOMO:* Federal employees: your personal data may have been exposed illegally.
+- *Deadline:* A judge just ruled on OPM and your data. What happens next?
+- *Myth-bust:* Feds assumed OPM kept your data locked down. A judge disagrees.
 
-**Question answered:** Would this bill give federal employees a standard telework request process and appeals?
+**Question answered:** What does the ruling on OPM giving DOGE access to employee data mean for feds?
 
-**Caution:** Snippet is headline-only; confirm bill number, sponsor, and status before filming, and don't imply it's law or likely to pass.
+**Caution:** Snippet doesn't cover remedies, appeals, or what data was accessed; don't speculate beyond the ruling.
 
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [Bill Seeks to Standardize Federal Telework Requests, Create Appeals Process](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUnFtRW9DaGVKeVFjcjNVaWQ0aFVVMW5PTGVHaVNzc3JOMXdFQ3RFZDlWc1FPbUIyU0ltenNtYWIzNDY5ajEyRjkwcVphS2M0Y0F4QUkxZk1ENFVMRlBBU3piOGo4R1VadUtiemVQNTNRUVJ0QnhkaFVxTHJvVlozU2g2eVIxQkM4S3R5bU1FdEZuc3VieTZfWUVWcUs5RGg1bnBUY2JhVUhodw?oc=5)
+**Source headline:** [OPM Violated Privacy Law in Giving DOGE Access to Federal Employee Personal Info, Judge Rules](https://www.fedweek.com/federal-managers-daily-report/opm-violated-privacy-law-in-giving-doge-access-to-federal-employee-personal-info-judge-rules/)
 
-**Outlet:** Google News · stay vs leave / RTO morale
+**Outlet:** FedWeek
 
-**Full eval:** A bill that would standardize telework requests and add an appeals process speaks directly to how many feds work day to day, and the 'am I affected?' angle is real. Possibly good for a short news reaction, but the snippet is only a headline, so consider whether the bill's status and details can be verified before filming.
+**Full eval:** A judge ruling that OPM broke privacy law when it gave DOGE access to federal employee personal data touches every fed whose records sit in OPM systems, which gives it real personal stakes. Possibly good for a calm walk-and-talk news reaction if kept to what the ruling found and what it does and doesn't change yet; consider confirming the ruling date and details against the full article first.
 
-**Snippet:** Bill Seeks to Standardize Federal Telework Requests, Create Appeals Process FEDmanager
-
-</details>
-
----
-
-### 2. Are federal cuts repeating the 1990s downsizing mistake?
-
-**Consider filming if:** Federal workforce cuts landing on newer and younger employees raises a real job-security question for feds, especially those with fewer yea…
-
-_pass · news · career_security · 4d ago_
-
-[Read source](https://www.fedsmith.com/2026/10/15/federal-workforce-repeating-downsizing-mistake/)
-
-**Other opens:**
-- *Stakes / FOMO:* Newer federal employees: are today's cuts aimed at you?
-- *Deadline:* Will federal agencies be short of experienced staff soon?
-- *Myth-bust:* Federal cuts save money? The 1990s suggest otherwise.
-
-**Question answered:** Will federal downsizing repeat the 1990s mistake of thinning out newer employees?
-
-**Caution:** The snippet is a question, not a finding. Verify the article's date and sourcing before asserting a 1990s parallel as fact.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [Is the Federal Workforce Repeating a 1990s Downsizing Mistake?](https://www.fedsmith.com/2026/10/15/federal-workforce-repeating-downsizing-mistake/)
-
-**Outlet:** FedSmith
-
-**Full eval:** Federal workforce cuts landing on newer and younger employees raises a real job-security question for feds, especially those with fewer years in. Possibly good for walk-and-talk as a calm reaction with a historical comparison, though consider whether the 1990s parallel can be stated in a sentence or two without a long explainer.
-
-**Snippet:** Federal workforce cuts are thinning the ranks of younger and newer employees. Will today's downsizing leave agencies short of experienced workers tomorrow?
-
-</details>
-
----
-
-### 3. Federal employee at SSA? Your flexible schedule may be gone.
-
-**Consider filming if:** SSA employees (federal workers) lose flexible schedules, and a union dispute over the labor contract raises real questions about how much s…
-
-_pass · news · financial_planning · 12d ago_
-
-[Read source](https://www.govexec.com/workforce/2026/10/social-security-ends-flexible-work-schedules/416480/)
-
-**Other opens:**
-- *Stakes / FOMO:* Federal workers: can SSA scrap your schedule without the union?
-- *Deadline:* SSA just ended flexible schedules. What federal employees should watch next.
-- *Myth-bust:* Think your federal union contract protects your schedule? Read this.
-
-**Question answered:** Can SSA end flexible schedules for federal employees without union agreement?
-
-**Caution:** Snippet doesn't state effective dates or which employees are covered; verify scope and timing, and avoid predicting the labor dispute's outcome.
-
-**Audience-language opens (try these):**
-- What FERS retirement benefits are you actually counting on?
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [Social Security ends flexible work schedules, teeing up clash with union](https://www.govexec.com/workforce/2026/10/social-security-ends-flexible-work-schedules/416480/)
-
-**Outlet:** GovExec Workforce
-
-**Full eval:** SSA employees (federal workers) lose flexible schedules, and a union dispute over the labor contract raises real questions about how much say feds have in working conditions. Possibly good for a short news reaction, though the special-edition WEP/GPO/FERS supplement angle doesn't connect to this story and would likely feel forced, so consider keeping it a straight workplace-rights piece.
-
-**Snippet:** The agency’s top HR official says these changes are necessary to “deliver the service the public expects.” A union argues SSA violated its labor contract making this decision on its own.
+**Snippet:** The OPM “violated the law and bypassed its established cybersecurity practices” by giving representatives of DOGE “broad access to systems ...More The article OPM Violated Privacy Law in Giving DOGE Access to Federal Employee Personal Info, Judge Rules was first published on FEDweek .
 
 </details>
 
@@ -147,22 +78,22 @@ _pass · news · financial_planning · 12d ago_
 
 ## Also consider — detail
 
-### 4. USPS employees: did you know penalty overtime pauses in December?
+### 2. Postal workers: do the midterms put your federal job at risk?
 
-**Consider filming if:** Postal workers covered by the APWU contract have a direct pay stake: for four weeks in December, penalty overtime rules don't apply, which …
+**Consider filming if:** Postal workers are federal employees, and the midterms could affect USPS jobs, rights, and the future of a public Postal Service, so there …
 
-_review · news · federal_workforce · 4d ago_
+_review · news · federal_workforce · 17d ago_
 
-[Read source](https://apwu.org/news/2026-penalty-overtime-exclusion-period/)
+[Read source](https://apwu.org/news/apwu-live-oct-20-do-the-midterms-put-your-job-at-risk/)
 
 **Other opens:**
-- *Stakes / FOMO:* USPS clerks: your December overtime pay rules are about to change.
-- *Deadline:* Postal workers: penalty overtime stops November 28. Are you ready?
-- *Myth-bust:* Federal postal workers: penalty overtime doesn't apply all year, does it?
+- *Stakes / FOMO:* Could the midterms change your USPS job and postal rights?
+- *Deadline:* Postal workers: APWU goes live October 20 on your job's future.
+- *Myth-bust:* Think postal jobs are safe whoever wins? Federal workers, listen up.
 
-**Question answered:** When does penalty overtime stop applying for APWU postal employees this December?
+**Question answered:** How could the 2026 midterms affect postal workers' jobs, rights, and the public Postal Service?
 
-**Caution:** Snippet cuts off the end date and doesn't explain penalty overtime; verify full dates and APWU bargaining-unit scope before filming.
+**Caution:** Snippet gives no candidate or policy specifics; avoid claiming jobs are at risk beyond the union's framing, and verify the October 20 date.
 
 **Audience-language opens (try these):**
 - USPS retirement benefits — what postal workers need to verify
@@ -170,186 +101,182 @@ _review · news · federal_workforce · 4d ago_
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [2026 Penalty Overtime Exclusion Period](https://apwu.org/news/2026-penalty-overtime-exclusion-period/)
+**Source headline:** [APWU LIVE Oct 20: Do The Midterms Put Your Job At Risk?](https://apwu.org/news/apwu-live-oct-20-do-the-midterms-put-your-job-at-risk/)
 
 **Outlet:** APWU news
 
-**Full eval:** Postal workers covered by the APWU contract have a direct pay stake: for four weeks in December, penalty overtime rules don't apply, which can affect how extra hours are paid during the holiday rush. Possibly good for a short walk-and-talk reaction if kept to the dates and the 'does this apply to me?' question, but the snippet is thin and consider whether the audience beyond APWU-represented postal employees is large enough.
+**Full eval:** Postal workers are federal employees, and the midterms could affect USPS jobs, rights, and the future of a public Postal Service, so there are real livelihood stakes. However, the source is a union livestream promo with no concrete policy detail, so possibly good for a short reaction only if the presenter can add specifics beyond the event announcement. Consider whether this could work as a 30-45 second walk-and-talk or just reads as an event plug.
 
-**Snippet:** In accordance with Article 8, Sections 4 and 5 of the APWU Collective Bargaining Agreement, penalty overtime rules are not applicable for a consecutive four-week period each year during December. The “Penalty Overtime Exclusion” period for calendar year 2026 will begin Pay Period 26-2026, Week 1 (November 28, 2026), and end Pay Period 27-2026, Week 2 […] The post 2026 Penalty Overtime Exclusion Pe
-
-</details>
-
----
-
-### 5. USPS chief says work stopped on a mail voting system: what do feds need to know?
-
-**Consider filming if:** The snippet is a headline plus a source name, and the stakes it names are political (mail voting), not tied to a federal employee's pay, be…
-
-_review · news · federal_workforce · 5d ago_
-
-[Read source](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa1BVNlFmaEM5ZllFYTFpRXlzbXZId0VUTDhtQ0hvemZDQ3ROQXA4WXZYenZZTWNOWGZ6SXEyVldubVcxRU92YkZ5a21DZ3ZDc192bmR4VlE5RXN0ak9DM2t4RFdORzhtS3BzM2JycTh4b2ljTTJFc3ZGMi1nOEItTUdFR2RYbVloRXVKNk5DaVdMNG52OWdfclBpSDgxNkhtX3VLU3lGb0NFZWJtTUVhWWNtYkFtMU54UExZX3hKTzY?oc=5)
-
-**Other opens:**
-- *Stakes / FOMO:* Postal workers: does this USPS system halt change anything about your federal job?
-- *Deadline:* Federal postal employees: why did USPS stop this project right now?
-- *Myth-bust:* Is USPS really halting work on a system tied to mail voting?
-
-**Question answered:** What did the USPS chief say about stopping work on this system, and does it affect postal employees?
-
-**Caution:** Snippet is headline-only. Verify date and details in the full article, avoid partisan framing, and don't claim workforce impact the source doesn't support.
-
-**Audience-language opens (try these):**
-- What FERS retirement benefits are you actually counting on?
-- USPS retirement benefits — what postal workers need to verify
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [Postal Service Chief Says Work Stopped on Computer System Key to Trump Effort to Limit Mail Voting](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa1BVNlFmaEM5ZllFYTFpRXlzbXZId0VUTDhtQ0hvemZDQ3ROQXA4WXZYenZZTWNOWGZ6SXEyVldubVcxRU92YkZ5a21DZ3ZDc192bmR4VlE5RXN0ak9DM2t4RFdORzhtS3BzM2JycTh4b2ljTTJFc3ZGMi1nOEItTUdFR2RYbVloRXVKNk5DaVdMNG52OWdfclBpSDgxNkhtX3VLU3lGb0NFZWJtTUVhWWNtYkFtMU54UExZX3hKTzY?oc=5)
-
-**Outlet:** Google News · USPS job feasibility
-
-**Full eval:** The snippet is a headline plus a source name, and the stakes it names are political (mail voting), not tied to a federal employee's pay, benefits, or job. Postal workers are federal employees and would see the story, but the personal-stakes link to FERS, FEHB, TSP, or job security isn't in the snippet. Possibly workable as a short news reaction only if the full article adds workforce angles and the date checks out; otherwise consider passing.
-
-**Snippet:** Postal Service Chief Says Work Stopped on Computer System Key to Trump Effort to Limit Mail Voting EDGE Media Network
+**Snippet:** For postal workers, a lot is at stake in the 2026 midterm elections. On October 20, APWU is hosting a livestream to inform members about how the candidates running for could affect our jobs, our rights, and the public Postal Service. Click here to RSVP. APWU President Jonathan Smith will be joined by Legislative & […] The post APWU LIVE Oct 20: Do The Midterms Put Your Job At Risk? appeared first 
 
 </details>
 
 ---
 
-### 6. Did your federal annuity COLA just change?
+### 3. Did the FLRA just hand HHS federal employees a telework win?
 
-**Consider filming if:** COLA changes touch every FERS and CSRS annuitant's monthly check, so the stakes are real for retirees and anyone planning to retire.
-
-_review · news · retirement · 4d ago_
-
-[Read source](https://news.google.com/rss/articles/CBMickFVX3lxTFBjR0tZVV95V2liVjdUcU53TE1kX09wb29LemF6aVNOSy1aa0hlbXVDdThXbk11LXU4Tm1IRHNuVTd6SlBSaHAwc3JEVUFWQlVadXdHV0lFeDd5eGk1dm9BT0gyenpqV2hYT3dFc2RrajA4UQ?oc=5)
-
-**Other opens:**
-- *Stakes / FOMO:* Your federal annuity check could look different. Here's why.
-- *Deadline:* Retiring soon? New federal COLA clarity matters before you file.
-- *Myth-bust:* Think your FERS COLA works the old way? Not so fast.
-
-**Question answered:** What did the clarified COLA rules change for federal civil service annuitants?
-
-**Caution:** Snippet lacks specifics. Verify publication date, which annuity system (FERS vs CSRS) is affected, and exact changes before filming.
-
-**Audience-language opens (try these):**
-- FERS vs CSRS — which system are you under, and why it matters now
-- Still on CSRS? Here's what feds miss about retirement rules
-- What FERS retirement benefits are you actually counting on?
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [Cost-of-Living Changes for Civil Service Annuities Clarified](https://news.google.com/rss/articles/CBMickFVX3lxTFBjR0tZVV95V2liVjdUcU53TE1kX09wb29LemF6aVNOSy1aa0hlbXVDdThXbk11LXU4Tm1IRHNuVTd6SlBSaHAwc3JEVUFWQlVadXdHV0lFeDd5eGk1dm9BT0gyenpqV2hYT3dFc2RrajA4UQ?oc=5)
-
-**Outlet:** Google News · federal retirement
-
-**Full eval:** COLA changes touch every FERS and CSRS annuitant's monthly check, so the stakes are real for retirees and anyone planning to retire. But the snippet only says the changes were 'clarified' and gives no specifics, so consider whether there is a concrete number, date, or rule change to anchor a 30-45 second reaction. If the date and details check out, possibly good for a news-reaction walk-and-talk; if not, it drifts toward explainer territory.
-
-**Snippet:** Cost-of-Living Changes for Civil Service Annuities Clarified Legis1
-
-</details>
-
----
-
-### 7. Postal retirement has a $104B hole. Are federal postal pensions at risk?
-
-**Consider filming if:** A $104B retirement funding gap at USPS touches postal workers' FERS pensions and FEHB coverage and could shape USPS finances and policy, th…
-
-_review · news · federal_workforce · 6d ago_
-
-[Read source](https://www.fedweek.com/federal-managers-daily-report/postal-ig-lays-out-options-to-address-104b-retirement-funding-shortfall/)
-
-**Other opens:**
-- *Stakes / FOMO:* USPS has a $104B retirement gap. What does that mean for postal FERS benefits?
-- *Deadline:* A new USPS inspector general report just put fixes for a $104B retirement gap on the table.
-- *Myth-bust:* USPS retirement trouble isn't just a postal problem. Federal workers should pay attention.
-
-**Question answered:** What does the USPS inspector general's $104B retirement shortfall report mean for postal employees?
-
-**Caution:** Snippet omits the actual options and any employee impact. Read the full IG report first and avoid implying benefits are being cut.
-
-**Audience-language opens (try these):**
-- What FERS retirement benefits are you actually counting on?
-- USPS retirement benefits — what postal workers need to verify
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [Postal IG Lays Out Options to Address $104B Retirement Funding Shortfall](https://www.fedweek.com/federal-managers-daily-report/postal-ig-lays-out-options-to-address-104b-retirement-funding-shortfall/)
-
-**Outlet:** FedWeek
-
-**Full eval:** A $104B retirement funding gap at USPS touches postal workers' FERS pensions and FEHB coverage and could shape USPS finances and policy, though the snippet doesn't say what the IG's options are or how they'd hit current employees. Possibly workable as a short reaction if the actual options turn out to be concrete and personally relevant; consider whether it needs more detail than a 30-45 second walk-and-talk allows.
-
-**Snippet:** An inspector general report has assessed options for addressing the Postal Service’s retirement funding shortfall–which it says “has driven up ...More The article Postal IG Lays Out Options to Address $104B Retirement Funding Shortfall was first published on FEDweek .
-
-</details>
-
----
-
-### 8. Feds: is your FEHB vaccine coverage changing in 2027?
-
-**Consider filming if:** FEHB and PSHB coverage terms for 2027 touch every enrolled fed and retiree, so the stakes are real, but the snippet only says OPM details v…
-
-_review · news · retirement · 5d ago_
-
-[Read source](https://www.fedweek.com/fedweek/opm-details-changes-in-vaccination-other-coverage-terms-in-fehb-pshb/)
-
-**Other opens:**
-- *Stakes / FOMO:* Feds, OPM just changed what FEHB covers in 2027.
-- *Deadline:* Federal employees: check FEHB changes before open season picks.
-- *Myth-bust:* Think your FEHB plan stays the same? OPM disagrees.
-
-**Question answered:** What did OPM change in FEHB and PSHB coverage terms for 2027?
-
-**Caution:** Snippet gives no specifics; verify the actual changes and the publication date in OPM's document before filming or stating any detail.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [OPM Details Changes in Vaccination, Other Coverage Terms in FEHB / PSHB](https://www.fedweek.com/fedweek/opm-details-changes-in-vaccination-other-coverage-terms-in-fehb-pshb/)
-
-**Outlet:** FedWeek
-
-**Full eval:** FEHB and PSHB coverage terms for 2027 touch every enrolled fed and retiree, so the stakes are real, but the snippet only says OPM details vaccination and other coverage changes without naming specifics. Consider whether this could work as a short reaction; it may only hold up if one concrete change can be confirmed from the full OPM text, otherwise it risks reading as a procedural agency update.
-
-**Snippet:** Following is a detailed explanation by OPM of changes in coverage terms for the 2027 plan year in the FEHB ...More The article OPM Details Changes in Vaccination, Other Coverage Terms in FEHB / PSHB was first published on FEDweek .
-
-</details>
-
----
-
-### 9. Can feds be fired for doing the work they were assigned?
-
-**Consider filming if:** Nine fired FBI employees suing to get their jobs back touches a question many federal employees care about: what recourse exists after a te…
+**Consider filming if:** Telework is a livelihood issue for many HHS and other federal employees, and a ruling against the agency, plus fake citations in its own br…
 
 _review · news · career_security · 3d ago_
 
-[Read source](https://federalnewsnetwork.com/workforce/2026/10/fbi-agents-and-analysts-fired-for-roles-in-trump-classified-files-probe-sue-to-get-their-jobs-back/)
+[Read source](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUG9RRzltWkhtQTRkbkN6SDRpV1ZpZXdDNmlXRFFRRmtPSVlEdW42elZGNlNURFJiTTREd2FtWDA0VW1JTjRCX1hOU0tZU2ZKZndER01acTFhWjNDZHF6SnlMWk1pQlA2VkxrdTcxSTFnNTlVQWo1OFRwc3o4Z2s1T1JPekkxckotT1J5Sl9mSnI5amd3ZWFGVDV2R096VE1MU3VqVWRxZ2NaUmZKdVAtTFNFZFJRRFVaMmJzam5UaGVKbnVJckNEZlFPVHZqcllyOVYzeg?oc=5)
 
 **Other opens:**
-- *Stakes / FOMO:* Fired FBI staff are suing. Could this happen to feds?
-- *Deadline:* Nine fired FBI employees just sued. What's next for feds?
-- *Myth-bust:* Think federal employees can't fight a firing? Watch this lawsuit.
+- *Stakes / FOMO:* Federal telework just got tested at the FLRA. Are you covered?
+- *Deadline:* FLRA ruled against HHS on telework. What can feds do now?
+- *Myth-bust:* Think federal agencies always win telework fights? Not this time.
 
-**Question answered:** What does a lawsuit by fired FBI employees signal about federal job protections?
+**Question answered:** What does the FLRA's ruling against HHS on telework mean for federal employees?
 
-**Caution:** Stick to the snippet: nine FBI employees, fired in February, suing in DC federal court. Don't speculate on legal merits or outcome.
+**Caution:** Snippet lacks ruling details, scope, and date. Read the full story first and don't imply it applies government-wide or that fake citations decided the outcome.
 
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [FBI agents and analysts fired for roles in Trump classified files probe sue to get their jobs back](https://federalnewsnetwork.com/workforce/2026/10/fbi-agents-and-analysts-fired-for-roles-in-trump-classified-files-probe-sue-to-get-their-jobs-back/)
+**Source headline:** [FLRA rules against HHS on telework, flags fake citations in agency brief](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUG9RRzltWkhtQTRkbkN6SDRpV1ZpZXdDNmlXRFFRRmtPSVlEdW42elZGNlNURFJiTTREd2FtWDA0VW1JTjRCX1hOU0tZU2ZKZndER01acTFhWjNDZHF6SnlMWk1pQlA2VkxrdTcxSTFnNTlVQWo1OFRwc3o4Z2s1T1JPekkxckotT1J5Sl9mSnI5amd3ZWFGVDV2R096VE1MU3VqVWRxZ2NaUmZKdVAtTFNFZFJRRFVaMmJzam5UaGVKbnVJckNEZlFPVHZqcllyOVYzeg?oc=5)
+
+**Outlet:** Google News · stay vs leave / RTO morale
+
+**Full eval:** Telework is a livelihood issue for many HHS and other federal employees, and a ruling against the agency, plus fake citations in its own brief, is a concrete news hook. The snippet is thin, though: it doesn't say what the ruling requires, whom it covers, or whether it can be appealed. Possibly good for a short news reaction if the full story supports a clear 'am I affected?' angle; consider whether it works at 30-45 seconds or collapses into labor-law procedure.
+
+**Snippet:** FLRA rules against HHS on telework, flags fake citations in agency brief Federal News Network
+
+</details>
+
+---
+
+### 4. Postal workers: did USPS cost-cutting just land on your desk?
+
+**Consider filming if:** The snippet is about USPS cost-cutting affecting delivery of election ballots, which touches postal workers (federal employees under FERS/F…
+
+_review · news · federal_workforce · 3d ago_
+
+[Read source](https://news.google.com/rss/articles/CBMikgFBVV95cUxPSDZIWjNsQmhNbWZaMHlUOTVPek00enZMN2dsNURXR2tFTlczTjZtS056OF9qb0gwaGdNTHVweFdEMVpvVGF3a21yd2c4WUY5azRWOG1vUHRldkNoRU5WM2xvQ3BuRlZ3QnBnaVhvSk1fVDdQMGNyUUJQeUhjMTRrZm1hY0FpVlUzVV9odHlQYmlqZ9IBlwFBVV95cUxNbm95YVNabjFOWk9GSl9Fenh6SUFXYS04Uk11NS1sTTRka0UyMTlod0tUaF80bXpnQ0tyelVVRTNub2VtdnhIWDV5bG1IYXJNVUthbi1ockJKdHFnQmgzX2syQ0pTeHNIMXM0T0FHcnVfTDNnSzhZeEFvYTJiMjhKZ1NaZk1xdmpNaURtZkk3YzZHeXpDcV9n?oc=5)
+
+**Other opens:**
+- *Stakes / FOMO:* USPS cost-cutting is being blamed for tossed ballots. Postal workers, brace.
+- *Deadline:* Ballots missed the deadline because of USPS cuts, and postal workers hear about it.
+- *Myth-bust:* Late ballots aren't just a postal worker problem. It's a USPS budget decision.
+
+**Question answered:** How did USPS cost-cutting contribute to rejected late election ballots?
+
+**Caution:** Confirm the report's date and what it actually attributes to USPS cuts; avoid implying postal workers are at fault or inventing job-impact claims.
+
+**Audience-language opens (try these):**
+- What FERS retirement benefits are you actually counting on?
+- USPS retirement benefits — what postal workers need to verify
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [How USPS cost-cutting spiked rejected tardy election ballots](https://news.google.com/rss/articles/CBMikgFBVV95cUxPSDZIWjNsQmhNbWZaMHlUOTVPek00enZMN2dsNURXR2tFTlczTjZtS056OF9qb0gwaGdNTHVweFdEMVpvVGF3a21yd2c4WUY5azRWOG1vUHRldkNoRU5WM2xvQ3BuRlZ3QnBnaVhvSk1fVDdQMGNyUUJQeUhjMTRrZm1hY0FpVlUzVV9odHlQYmlqZ9IBlwFBVV95cUxNbm95YVNabjFOWk9GSl9Fenh6SUFXYS04Uk11NS1sTTRka0UyMTlod0tUaF80bXpnQ0tyelVVRTNub2VtdnhIWDV5bG1IYXJNVUthbi1ockJKdHFnQmgzX2syQ0pTeHNIMXM0T0FHcnVfTDNnSzhZeEFvYTJiMjhKZ1NaZk1xdmpNaURtZkk3YzZHeXpDcV9n?oc=5)
+
+**Outlet:** Google News · USPS job feasibility
+
+**Full eval:** The snippet is about USPS cost-cutting affecting delivery of election ballots, which touches postal workers (federal employees under FERS/FEHB) and public trust in USPS. The workforce stakes are indirect, though: the snippet doesn't say how this hits postal jobs or benefits. Possibly good for a short news reaction if the piece ties cost-cutting to postal workers' working conditions; otherwise it risks reading as general election news rather than a federal-worker topic.
+
+**Snippet:** How USPS cost-cutting spiked rejected tardy election ballots NewsNation
+
+</details>
+
+---
+
+### 5. Postal workers: did your top step just change?
+
+**Consider filming if:** This is a real pay change for career USPS employees in Grades 4-7 under the 2024-2027 CBA, with a paycheck date attached (October 9, 2026),…
+
+_review · news · federal_workforce · 17d ago_
+
+[Read source](https://apwu.org/news/new-top-steps-effective-now-for-career-employees/)
+
+**Other opens:**
+- *Stakes / FOMO:* Postal worker in Grades 4-7? Your paycheck may go up.
+- *Deadline:* USPS employees: check your October 9 paycheck for this.
+- *Myth-bust:* Postal workers, you don't have to hit a step to benefit.
+
+**Question answered:** Which career USPS employees get new top steps, and when will it show in pay?
+
+**Caution:** Source text is truncated and the step amounts aren't shown. Confirm the October 9, 2026 paycheck date and RSC coverage (P7, K7, C7) with APWU before filming.
+
+**Harris QA:** Timely — confirm date before filming. References 2024 — name the year explicitly.
+
+**Audience-language opens (try these):**
+- USPS retirement benefits — what postal workers need to verify
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [New Top Steps Effective Now for Career Employees](https://apwu.org/news/new-top-steps-effective-now-for-career-employees/)
+
+**Outlet:** APWU news
+
+**Full eval:** This is a real pay change for career USPS employees in Grades 4-7 under the 2024-2027 CBA, with a paycheck date attached (October 9, 2026), so the livelihood stakes are clear for postal workers. It's possibly good for a short news-style reaction, but the snippet is truncated and the new top steps by grade aren't listed, so consider whether you can verify the details and keep it to the 'am I affected, and when do I see it' angle rather than reading out step tables.
+
+**Snippet:** Some employees in Grades 4-7 covered by the 2024-2027 Collective Bargaining Agreement should see an increase in their paychecks dated October 9, 2026 thanks to the new top steps implemented on Sept. 19. Employees in Rate Schedule Codes (RSCs) P7, K7, and C7 will now progress to the following top steps: • Grade 4 Top Step […] The post New Top Steps Effective Now for Career Employees appeared first 
+
+</details>
+
+---
+
+### 6. Federal layoffs hit Black women hard. Are you in that fallout?
+
+**Consider filming if:** The snippet describes financial insecurity and an uncertain future for Black women who lost federal jobs, which speaks to livelihood stakes…
+
+_review · news · retirement · 4d ago_
+
+[Read source](https://www.govexec.com/workforce/2026/10/doges-layoffs-toll-black-women-effects/416757/)
+
+**Other opens:**
+- *Stakes / FOMO:* Lost your federal job? Your finances may take the longest hit.
+- *Deadline:* Federal layoffs are still hitting households. How long can yours hold?
+- *Myth-bust:* Think federal layoffs ended when the paycheck did? They haven't.
+
+**Question answered:** How are federal layoffs still affecting laid-off employees, especially Black women, financially and emotionally?
+
+**Caution:** Snippet only covers impact, not benefits steps; don't invent FERS, FEHB, or TSP specifics. Verify article date before using a news frame.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [DOGE’s layoffs took a toll on Black women. The effects are still being felt](https://www.govexec.com/workforce/2026/10/doges-layoffs-toll-black-women-effects/416757/)
+
+**Outlet:** GovExec Workforce
+
+**Full eval:** The snippet describes financial insecurity and an uncertain future for Black women who lost federal jobs, which speaks to livelihood stakes for feds, but the framing is a retrospective impact story and the snippet gives no deadline, rule change, or action item. Possibly workable as a short reaction if you tie it to what laid-off feds can do about pay, health coverage, and retirement benefits, but consider whether that practical angle is supported by the full article before filming.
+
+**Snippet:** The loss of federal jobs has left many Black women grappling with financial insecurity, emotional distress and an uncertain future, with consequences that extend beyond the workplace.
+
+</details>
+
+---
+
+### 7. Federal court just paused plans at Beltsville. Is your research job next?
+
+**Consider filming if:** A court pausing plans at the Beltsville Agricultural Research Center touches job security for federal researchers, and the institutional-kn…
+
+_review · news · career_security · 3d ago_
+
+[Read source](https://federalnewsnetwork.com/congress/2026/10/a-court-has-temporarily-halted-plans-affecting-the-beltsville-agricultural-research-center/)
+
+**Other opens:**
+- *Stakes / FOMO:* A court just paused plans at a federal research center. Feds, should you worry?
+- *Deadline:* Federal court hit pause on Beltsville. How long does this actually last?
+- *Myth-bust:* Federal employees: a court pause doesn't mean your agency's plans are dead.
+
+**Question answered:** What does the court pause at Beltsville mean for federal employees at risk?
+
+**Caution:** Snippet doesn't say what the halted plans are; verify details and the ruling date before filming. Don't speculate beyond the source.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [A court has temporarily halted plans affecting the Beltsville Agricultural Research Center](https://federalnewsnetwork.com/congress/2026/10/a-court-has-temporarily-halted-plans-affecting-the-beltsville-agricultural-research-center/)
 
 **Outlet:** Federal News Network
 
-**Full eval:** Nine fired FBI employees suing to get their jobs back touches a question many federal employees care about: what recourse exists after a termination tied to work you were assigned. Possibly good for a short news reaction if kept to what the snippet supports, but consider whether it could work as a 30-45 second video without drifting into politics or legal procedure beyond the source.
+**Full eval:** A court pausing plans at the Beltsville Agricultural Research Center touches job security for federal researchers, and the institutional-knowledge angle from Rep. Ivey gives it some human stakes. The snippet doesn't specify what the plans are (closure, relocation, staffing cuts), so consider whether this could work as a short reaction, and possibly confirm the details and date before filming.
 
-**Snippet:** The suit was filed in federal court in Washington on behalf of nine agents, intelligence analysts and staff operations specialists who were fired in February.
+**Snippet:** "When you lose a lot of federal government employees, especially the more senior ones, you're losing a lot of institutional knowledge," said Rep. Glenn Ivey.
 
 </details>
 
@@ -359,7 +286,7 @@ _review · news · career_security · 3d ago_
 
 _From the latest federal-department news scan (2026-08-03)._
 
-### 10. Arbitrator: HHS broke the CBA firing 5,000 probationary feds
+### 8. Arbitrator: HHS broke the CBA firing 5,000 probationary feds
 
 _Fed Department Focus — agency-specific angle._
 
@@ -377,7 +304,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 11. Arbitrator orders IRS telework back — but your CBA protection may differ
+### 9. Arbitrator orders IRS telework back — but your CBA protection may differ
 
 _Fed Department Focus — agency-specific angle._
 
@@ -395,7 +322,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 12. Probationary feds: MSPB ruling may not end your appeal fight
+### 10. Probationary feds: MSPB ruling may not end your appeal fight
 
 _Fed Department Focus — agency-specific angle._
 
@@ -413,7 +340,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 13. Arbitrator wins mean nothing if agency appeals — Forest Service risk
+### 11. Arbitrator wins mean nothing if agency appeals — Forest Service risk
 
 _Fed Department Focus — agency-specific angle._
 
@@ -431,7 +358,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 14. Your VA telework IS your ADA accommodation — RTO can strip it
+### 12. Your VA telework IS your ADA accommodation — RTO can strip it
 
 _Fed Department Focus — agency-specific angle._
 
@@ -449,7 +376,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 15. Federal Circuit ruling could reshape DHS probationary workers' appeal rights
+### 13. Federal Circuit ruling could reshape DHS probationary workers' appeal rights
 
 _Fed Department Focus — agency-specific angle._
 
@@ -471,7 +398,7 @@ _Fed Department Focus — agency-specific angle._
 
 _Money / retirement seeds — not breaking news._
 
-### 16. Are you leaving free TSP matching on the table?
+### 14. Are you leaving free TSP matching on the table?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
@@ -483,7 +410,7 @@ _Evergreen — money / retirement demand seed, not breaking news._
 
 ---
 
-### 17. Feds — have you checked your FERS calculator this year?
+### 15. Feds — have you checked your FERS calculator this year?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
@@ -495,7 +422,7 @@ _Evergreen — money / retirement demand seed, not breaking news._
 
 ---
 
-### 18. TSP funds explained — which one fits your timeline?
+### 16. TSP funds explained — which one fits your timeline?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
@@ -507,7 +434,7 @@ _Evergreen — money / retirement demand seed, not breaking news._
 
 ---
 
-### 19. TSP rollover options — stay in, roll out, or wait?
+### 17. TSP rollover options — stay in, roll out, or wait?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
@@ -519,7 +446,7 @@ _Evergreen — money / retirement demand seed, not breaking news._
 
 ---
 
-### 20. Federal retirement planning — what should you verify this year?
+### 18. Federal retirement planning — what should you verify this year?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
