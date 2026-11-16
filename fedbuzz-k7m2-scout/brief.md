@@ -1,109 +1,142 @@
 **Private:** Do not share this page link or the RSS feed URL outside the Harris producer team.
 
-# FedBuzz Producer Brief — 2026-11-09
+# FedBuzz Producer Brief — 2026-11-16
 
-**8 topics** (2 film-first · 6 also consider) + **6 Fed Department Focus** + **5 evergreen** — each block opens with the walkaround line. Skim the list; expand only what you might film.
+**9 topics** (3 film-first · 6 also consider) + **6 Fed Department Focus** + **5 evergreen** — each block opens with the walkaround line. Skim the list; expand only what you might film.
 
 ## Film these
 
 _Stronger short-form fit — start here._
 
-1. [Feds who left in 2025: did you really choose to go?](#topic-1)
-2. [Is the USDA reorganization really dead for federal employees?](#topic-2)
+1. [Federal telework fell 73% in 2025 — did yours?](#topic-1)
+2. [Taking a GLP-1? Your FEHB plan may cost you more in 2027.](#topic-2)
+3. [Retiring soon? The federal retirement backlog is growing.](#topic-3)
 
 ## Also consider
 
 _Softer fit — worth a look if the list above is thin or these match your lane._
 
-3. [Postal workers: who's now overseeing your union contract arbitration?](#topic-3)
-4. [Is every family member on your FEHB plan actually eligible?](#topic-4)
-5. [Is your family member actually eligible for FEHB or PSHB coverage?](#topic-5)
-6. [Did your federal deferred resignation feel voluntary?](#topic-6)
-7. [USPS employees: open season starts Monday. Have you checked your FEHB plan?](#topic-7)
-8. [Postal workers: are USPS service cuts now being blamed for rejected ballots?](#topic-8)
+4. [USPS may restrict how postal workers handle mail-in ballots?](#topic-4)
+5. [USPS cut 19 million work hours. Postal workers, are you affected?](#topic-5)
+6. [Feds: what happens to your paycheck if the CR expires?](#topic-6)
+7. [Postal workers: why is mail theft now the USPS IG's biggest case?](#topic-7)
+8. [Are you worried about taking your agency's federal survey?](#topic-8)
+9. [Feds: are you auto-renewing your FEHB plan this Open Season?](#topic-9)
 
 ## Fed Department Focus
 
 _News about specific federal agencies, with a clear angle for federal employees. Use these if they are stronger than the week’s main list._
 
-9. [Arbitrator: HHS broke the CBA firing 5,000 probationary feds](#topic-9)
-10. [Arbitrator orders IRS telework back — but your CBA protection may differ](#topic-10)
-11. [Probationary feds: MSPB ruling may not end your appeal fight](#topic-11)
-12. [Arbitrator wins mean nothing if agency appeals — Forest Service risk](#topic-12)
-13. [Your VA telework IS your ADA accommodation — RTO can strip it](#topic-13)
-14. [Federal Circuit ruling could reshape DHS probationary workers' appeal rights](#topic-14)
+10. [Arbitrator: HHS broke the CBA firing 5,000 probationary feds](#topic-10)
+11. [Arbitrator orders IRS telework back — but your CBA protection may differ](#topic-11)
+12. [Probationary feds: MSPB ruling may not end your appeal fight](#topic-12)
+13. [Arbitrator wins mean nothing if agency appeals — Forest Service risk](#topic-13)
+14. [Your VA telework IS your ADA accommodation — RTO can strip it](#topic-14)
+15. [Federal Circuit ruling could reshape DHS probationary workers' appeal rights](#topic-15)
 
 ## Evergreen
 
 _Short money / retirement seeds. Film one if you want a different lane from this week’s news._
 
-15. [Are you leaving free TSP matching on the table?](#topic-15)
-16. [Feds — have you checked your FERS calculator this year?](#topic-16)
-17. [TSP funds explained — which one fits your timeline?](#topic-17)
-18. [TSP rollover options — stay in, roll out, or wait?](#topic-18)
-19. [Federal retirement planning — what should you verify this year?](#topic-19)
+16. [Are you leaving free TSP matching on the table?](#topic-16)
+17. [Feds — have you checked your FERS calculator this year?](#topic-17)
+18. [TSP funds explained — which one fits your timeline?](#topic-18)
+19. [TSP rollover options — stay in, roll out, or wait?](#topic-19)
+20. [Federal retirement planning — what should you verify this year?](#topic-20)
 
 ---
 
-### 1. Feds who left in 2025: did you really choose to go?
+### 1. Federal telework fell 73% in 2025 — did yours?
 
-**Consider filming if:** Federal employees weighing whether to stay or go have direct stakes in a dispute over whether 2025 separations were truly voluntary and whe…
+**Consider filming if:** A 73% drop in federal telework touches daily work life for a large share of feds, and the "am I affected?" question is built in.
 
-_pass · news · career_security · 6d ago_
+_pass · news · career_security · 1d ago_
 
-[Read source](https://www.govexec.com/workforce/2026/11/exit-survey-former-feds-civil-service-politicization-trump/417000/)
+[Read source](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUHlFQmp4QWNkRXpjT1NWUllOU1Y1QlZnNENaZFZlMzZ1Sy1IRXB5YmhoS1V2TTBIOXBjVGpHWDV4ekxlOXpSclBsdUdTX3RINGxNMEZZaWstRDM2cFVOcmVFRUFBUTFXS0E4V2Vrb0JSLUR2aTZzNXczVGFLNlhsUjJDXzlScm5rcE5qV0pDUkZBTkk?oc=5)
 
 **Other opens:**
-- *Stakes / FOMO:* Federal exit survey: many who left say they felt forced out.
-- *Deadline:* Feds weighing resignation: read this survey before you decide.
-- *Myth-bust:* OPM says feds left voluntarily. Researchers say otherwise.
+- *Stakes / FOMO:* Feds, is your telework schedule the next to go?
+- *Deadline:* OPM says federal telework fell 73% — what now?
+- *Myth-bust:* Think federal telework is safe? OPM's numbers say otherwise.
 
-**Question answered:** Were 2025 federal separations voluntary, as OPM says, or did many feds feel forced out?
+**Question answered:** What does OPM's 73% telework drop mean for federal employees' schedules?
 
-**Caution:** Attribute claims to OPM and the researchers; don't state forced resignations as fact or add numbers beyond the source.
+**Caution:** Snippet gives only the headline stat; confirm report date, source details, and what counts as telework before presenting specifics.
 
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [‘Exit survey’ of former feds finds fears of civil service politicization under Trump](https://www.govexec.com/workforce/2026/11/exit-survey-former-feds-civil-service-politicization-trump/417000/)
+**Source headline:** [Federal telework fell 73% in 2025, OPM report shows](https://news.google.com/rss/articles/CBMikwFBVV95cUxOUHlFQmp4QWNkRXpjT1NWUllOU1Y1QlZnNENaZFZlMzZ1Sy1IRXB5YmhoS1V2TTBIOXBjVGpHWDV4ekxlOXpSclBsdUdTX3RINGxNMEZZaWstRDM2cFVOcmVFRUFBUTFXS0E4V2Vrb0JSLUR2aTZzNXczVGFLNlhsUjJDXzlScm5rcE5qV0pDUkZBTkk?oc=5)
 
-**Outlet:** GovExec Workforce
+**Outlet:** Google News · stay vs leave / RTO morale
 
-**Full eval:** Federal employees weighing whether to stay or go have direct stakes in a dispute over whether 2025 separations were truly voluntary and whether the civil service is being politicized. Possibly good for a walk-and-talk reaction if the video sticks to what the survey and OPM each claim and avoids overstating the findings; consider whether the source date supports a news frame.
+**Full eval:** A 73% drop in federal telework touches daily work life for a large share of feds, and the "am I affected?" question is built in. Possibly good for a short walk-and-talk reaction, though the snippet is only a headline, so consider verifying the report's date and scope (which agencies, what baseline) before filming.
 
-**Snippet:** While the Office of Personnel Management has argued that most of the 2025 federal workforce separations were voluntary, academic researchers countered that many of the departing civil servants reported they felt forced into resigning.
+**Snippet:** Federal telework fell 73% in 2025, OPM report shows Maryland Matters
 
 </details>
 
 ---
 
-### 2. Is the USDA reorganization really dead for federal employees?
+### 2. Taking a GLP-1? Your FEHB plan may cost you more in 2027.
 
-**Consider filming if:** A USDA reorganization that is on hold amid an AFGE lawsuit touches job security, relocation risk, and attrition worries for federal employe…
+**Consider filming if:** FEHB enrollees and retirees on GLP-1 drugs could see higher out-of-pocket costs in 2027, which ties directly to the plan-choice decision.
 
-_pass · news · career_security · 0d ago_
+_pass · news · retirement · 0d ago_
 
-[Read source](https://federalnewsnetwork.com/federal-newscast/2026/11/usda-mass-reorganization-plan-remains-on-hold/)
+[Read source](https://www.fedsmith.com/2026/11/16/still-covered-but-less-affordable-fehbs-2027-glp-1-changes/)
 
 **Other opens:**
-- *Stakes / FOMO:* Could the USDA reorganization still cost federal employees their jobs?
-- *Deadline:* USDA's reorganization is on hold. How long will feds get a break?
-- *Myth-bust:* USDA reorg on hold doesn't mean federal employees are safe. Here's why.
+- *Stakes / FOMO:* Could your FEHB GLP-1 drug cost jump in 2027?
+- *Deadline:* Feds: check GLP-1 coverage before picking your FEHB plan.
+- *Myth-bust:* Your FEHB plan still covers GLP-1s, but is it affordable?
 
-**Question answered:** What does the hold on USDA's reorganization mean for federal employees' job security?
+**Question answered:** How could FEHB's 2027 GLP-1 changes affect drug costs and plan choice?
 
-**Caution:** Confirm the hold's date and current legal status before filming. The snippet only supports the AFGE lawsuit and attrition warning, so don't predict outcomes.
+**Caution:** Verify the effective date and which plans and drugs are affected against the source; don't imply universal cost increases or coverage loss.
 
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [USDA mass reorganization plan remains on hold](https://federalnewsnetwork.com/federal-newscast/2026/11/usda-mass-reorganization-plan-remains-on-hold/)
+**Source headline:** [Still Covered, but Less Affordable? FEHB’s 2027 GLP-1 Changes](https://www.fedsmith.com/2026/11/16/still-covered-but-less-affordable-fehbs-2027-glp-1-changes/)
 
-**Outlet:** Federal News Network
+**Outlet:** FedSmith
 
-**Full eval:** A USDA reorganization that is on hold amid an AFGE lawsuit touches job security, relocation risk, and attrition worries for federal employees, and the legal-limbo angle gives a clear 'am I affected?' hook. Possibly good for a short news reaction, but the snippet is thin, so consider whether it holds 30-45 seconds without overreaching on facts.
+**Full eval:** FEHB enrollees and retirees on GLP-1 drugs could see higher out-of-pocket costs in 2027, which ties directly to the plan-choice decision. Possibly good for a walk-and-talk reaction since the 'check before you choose a plan' takeaway is simple, but consider whether the specifics are confirmed enough to avoid overstating.
 
-**Snippet:** The American Federation of Government Employees has been suing USDA over the reorganization plans, warning that the effort will lead to mass staff attrition.
+**Snippet:** FEHB’s 2027 GLP-1 changes could mean higher drug costs. What federal employees and retirees should check before choosing a plan.
+
+</details>
+
+---
+
+### 3. Retiring soon? The federal retirement backlog is growing.
+
+**Consider filming if:** Feds approaching retirement have real money at stake: a growing OPM claims backlog can mean weeks or months of delayed annuity payments.
+
+_pass · news · retirement · 4d ago_
+
+[Read source](https://federalnewsnetwork.com/federal-newscast/2026/11/federal-retirement-claims-backlog-is-on-the-rise/)
+
+**Other opens:**
+- *Stakes / FOMO:* Federal retirees: a growing backlog could delay your first annuity check.
+- *Deadline:* Retiring soon? Digital OPM filing averages 59 days to process.
+- *Myth-bust:* Feds think paper retirement filing is safer. OPM data says otherwise.
+
+**Question answered:** Does the OPM retirement backlog affect when federal retirees get paid, and should they file digitally?
+
+**Caution:** Verify the 59-day average and backlog trend against current OPM data; the snippet gives no figures or dates for the backlog itself.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [Federal retirement claims backlog is on the rise](https://federalnewsnetwork.com/federal-newscast/2026/11/federal-retirement-claims-backlog-is-on-the-rise/)
+
+**Outlet:** FNN · Workforce
+
+**Full eval:** Feds approaching retirement have real money at stake: a growing OPM claims backlog can mean weeks or months of delayed annuity payments. The snippet's digital-vs-paper processing gap (59 days average for digital) gives a concrete, actionable takeaway. Possibly good for a short news reaction, provided the backlog trend and the 59-day figure are confirmed against current OPM data before filming.
+
+**Snippet:** Processing times for digitally submitted applications are faster, taking an average of 59 days to complete.
 
 </details>
 
@@ -111,22 +144,22 @@ _pass · news · career_security · 0d ago_
 
 ## Also consider — detail
 
-### 3. Postal workers: who's now overseeing your union contract arbitration?
+### 4. USPS may restrict how postal workers handle mail-in ballots?
 
-**Consider filming if:** Postal workers are federal employees, and a new NALC leadership overseeing contract arbitration and reported cuts touches job security and …
+**Consider filming if:** Postal workers are federal employees, and a proposed USPS rule on how mail-in ballots are handled could change their day-to-day work, but t…
 
-_review · news · federal_workforce · 5d ago_
+_review · news · federal_workforce · 4d ago_
 
-[Read source](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FdGxtaXdMSmF1MnE2TXdxVmxiTUhtWWg1RDRXSHBhMG1aM212b3pNZTI1bDU2cE5HcHNEZ2pUeTUzdW9RTjNaWF84bmpVWTBmSGI4SXVPTXVRSlNscHZGN1pOdThlNTF1?oc=5)
+[Read source](https://apwu.org/news/apwu-delivers-message-to-postal-board-of-governors-pull-the-rule-protect-vote-by-mail/)
 
 **Other opens:**
-- *Stakes / FOMO:* USPS carriers: new NALC officials will handle your contract and the cuts.
-- *Deadline:* Postal workers, your contract arbitration now has new NALC leadership. Know the timeline?
-- *Myth-bust:* A new NALC slate won. Does that actually change anything for USPS carriers?
+- *Stakes / FOMO:* Could a new USPS rule change how postal workers handle ballots?
+- *Deadline:* USPS Board's last open meeting of the year: what happened?
+- *Myth-bust:* Think USPS ballot handling is settled? Postal workers say otherwise.
 
-**Question answered:** What does the new NALC leadership mean for USPS carriers' contract and job security?
+**Question answered:** What would the proposed USPS rule on mail-in ballots mean for postal workers?
 
-**Caution:** Source is partisan; verify election results and the 'historic cuts' claim independently, and avoid repeating its framing as fact.
+**Caution:** Snippet doesn't describe the rule's contents or its effect on employees; verify the rule text and meeting date before filming, and keep the framing nonpartisan.
 
 **Audience-language opens (try these):**
 - USPS retirement benefits — what postal workers need to verify
@@ -134,165 +167,34 @@ _review · news · federal_workforce · 5d ago_
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [NALC election installs new “reform” officials to oversee USPS contract arbitration and historic cuts](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FdGxtaXdMSmF1MnE2TXdxVmxiTUhtWWg1RDRXSHBhMG1aM212b3pNZTI1bDU2cE5HcHNEZ2pUeTUzdW9RTjNaWF84bmpVWTBmSGI4SXVPTXVRSlNscHZGN1pOdThlNTF1?oc=5)
+**Source headline:** [APWU Delivers Message to Postal Board of Governors: ‘Pull the Rule. Protect Vote-by-Mail!’](https://apwu.org/news/apwu-delivers-message-to-postal-board-of-governors-pull-the-rule-protect-vote-by-mail/)
 
-**Outlet:** Google News · union workforce (AFGE NTEU NALC APWU)
+**Outlet:** APWU news
 
-**Full eval:** Postal workers are federal employees, and a new NALC leadership overseeing contract arbitration and reported cuts touches job security and pay. But the source is World Socialist Web Site, an openly partisan outlet, and the snippet gives no verifiable specifics on the cuts, the arbitration timeline, or what the new officials will do. Consider whether this could work as a short reaction only if you can confirm the election results and cut details from neutral sources like NALC, USPS, or mainstream labor reporting.
+**Full eval:** Postal workers are federal employees, and a proposed USPS rule on how mail-in ballots are handled could change their day-to-day work, but the snippet gives no detail on what the rule requires or whether workers face new duties or liability. Possibly workable as a short news reaction if the rule text can be summarized in a sentence or two, but consider whether it reads as a union press release rather than a personal-stakes story. The post is a union recap of a Nov. 10 meeting, so confirm the date is current before filming.
 
-**Snippet:** NALC election installs new “reform” officials to oversee USPS contract arbitration and historic cuts World Socialist Web Site
-
-</details>
-
----
-
-### 4. Is every family member on your FEHB plan actually eligible?
-
-**Consider filming if:** Stakes are real for feds with family on their FEHB plan: an ineligible dependent can mean lost coverage or an eligibility audit, and Open S…
-
-_review · news · retirement · 4d ago_
-
-[Read source](https://www.fedsmith.com/2026/11/05/protect-your-fehb-benefits/)
-
-**Other opens:**
-- *Stakes / FOMO:* Federal employees: could an ineligible dependent cost you FEHB coverage?
-- *Deadline:* Feds, check your FEHB family eligibility before Open Season starts.
-- *Myth-bust:* Think your family is covered under FEHB? Verify before Open Season.
-
-**Question answered:** Who qualifies for FEHB family coverage and what should feds verify before Open Season?
-
-**Caution:** Snippet doesn't confirm a specific Open Season date or required documents; verify with OPM before stating either. Skip the news frame unless the date checks out.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [Protect Your FEHB Benefits: Who Qualifies, What to Verify and How to Keep Coverage](https://www.fedsmith.com/2026/11/05/protect-your-fehb-benefits/)
-
-**Outlet:** FedSmith
-
-**Full eval:** Stakes are real for feds with family on their FEHB plan: an ineligible dependent can mean lost coverage or an eligibility audit, and Open Season is a natural time hook. The source reads like a guide or checklist rather than breaking news, so consider whether it could work as a short reaction at all, since document requirements and eligibility rules may need more than 30-45 seconds.
-
-**Snippet:** Review your family’s FEHB eligibility before Open Season. Learn who qualifies, what documents may be required and how to avoid losing coverage for eligible family members.
+**Snippet:** APWU members delivered a clear message to the Postal Board of Governors on behalf of the American people at its last open meeting of the year: Pull the rule that would restrict the handling and delivery of mail-in ballots. On Tuesday, Nov. 10, APWU members from across the country spoke up at the USPS Board […] The post APWU Delivers Message to Postal Board of Governors: ‘Pull the Rule. Protect Vot
 
 </details>
 
 ---
 
-### 5. Is your family member actually eligible for FEHB or PSHB coverage?
+### 5. USPS cut 19 million work hours. Postal workers, are you affected?
 
-**Consider filming if:** Open Season enrollment decisions carry real money and coverage stakes for feds and postal employees, and the 'attention' in the snippet sug…
+**Consider filming if:** USPS cutting 19 million work hours while consolidating processing is a livelihood story for postal workers, who are federal employees on FE…
 
-_review · news · federal_workforce · 5d ago_
+_review · news · federal_workforce · 6d ago_
 
-[Read source](https://www.fedweek.com/retirement-financial-planning/for-open-season-elections-note-the-limits-on-family-member-eligibility-in-fehb-pshb/)
-
-**Other opens:**
-- *Stakes / FOMO:* Federal employees: one wrong FEHB family election could cost you coverage.
-- *Deadline:* Before Open Season ends, feds should double-check who's on their FEHB plan.
-- *Myth-bust:* Feds: being family doesn't automatically mean FEHB or PSHB covers them.
-
-**Question answered:** Which family members can federal and postal employees actually cover under FEHB/PSHB?
-
-**Caution:** Snippet is vague; verify specific eligibility rules and article date against OPM guidance before stating any limit as fact.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [For Open Season Elections, Note the Limits on Family Member Eligibility in FEHB/PSHB](https://www.fedweek.com/retirement-financial-planning/for-open-season-elections-note-the-limits-on-family-member-eligibility-in-fehb-pshb/)
-
-**Outlet:** FedWeek
-
-**Full eval:** Open Season enrollment decisions carry real money and coverage stakes for feds and postal employees, and the 'attention' in the snippet suggests family-member eligibility is a live issue. But the snippet gives no specifics on what the limits are, so the exact rules and any recent changes need verification against the full article or OPM guidance before filming. Possibly good for a short reaction if there's one clear rule or recent tightening to point to; consider whether it collapses into a long eligibility explainer.
-
-**Snippet:** Eligibility for Federal Employees Health Benefits/Postal Service Health Benefits program coverage as a family member has drawn much attention in ...More The article For Open Season Elections, Note the Limits on Family Member Eligibility in FEHB/PSHB was first published on FEDweek .
-
-</details>
-
----
-
-### 6. Did your federal deferred resignation feel voluntary?
-
-**Consider filming if:** Federal employees who took deferred resignation, or who were weighing it, have real livelihood stakes here: a survey suggests many felt pre…
-
-_review · news · retirement · 4d ago_
-
-[Read source](https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ082VkNkVV9CNVJlb1R2QTgxYWUwY3lnTkl5VEgyZzlTbTdCcFJaLXlLRHl1Q2pTZ2V5T3NhS016ckMyNXJfSkUxY29nUTNqMXlGQkZnSjlzOGlYMFJoOW01eWx6NENvb3hTVHhJRUtEaEVYeGl3UFZmYk05Ml9QNU9Nb1JENHBudC1kMjVsYzZzNGRVUzJEdVA1eVRJZnFNWEF2RV9ROTR6TDRqQUpaOE44eHJIWjA?oc=5)
+[Read source](https://www.fedweek.com/fedweek/usps-reports-fewer-hours-and-higher-labor-costs-retirement-squeeze-in-fy2026/)
 
 **Other opens:**
-- *Stakes / FOMO:* Federal employees say deferred resignation didn't feel voluntary. Did yours?
-- *Deadline:* Feds, did you feel rushed into deferred resignation?
-- *Myth-bust:* Federal deferred resignation was 'voluntary.' Many who took it disagree.
+- *Stakes / FOMO:* USPS cut 19 million hours. Is your postal job next?
+- *Deadline:* Postal workers: USPS consolidation is moving now. What changes for your hours?
+- *Myth-bust:* Fewer USPS hours doesn't mean fewer costs. Here's what the report says.
 
-**Question answered:** Did federal employees who took deferred resignation feel they had a real choice?
+**Question answered:** What do USPS's cut hours and rising labor costs mean for postal workers' jobs and retirement?
 
-**Caution:** Snippet gives no survey numbers or date. Verify them at the FEDweek source before filming, and don't present it as agency policy.
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [Deferred Resignation Didn’t Feel Voluntary to Many Who Took It, Survey Finds](https://news.google.com/rss/articles/CBMitwFBVV95cUxNQ082VkNkVV9CNVJlb1R2QTgxYWUwY3lnTkl5VEgyZzlTbTdCcFJaLXlLRHl1Q2pTZ2V5T3NhS016ckMyNXJfSkUxY29nUTNqMXlGQkZnSjlzOGlYMFJoOW01eWx6NENvb3hTVHhJRUtEaEVYeGl3UFZmYk05Ml9QNU9Nb1JENHBudC1kMjVsYzZzNGRVUzJEdVA1eVRJZnFNWEF2RV9ROTR6TDRqQUpaOE44eHJIWjA?oc=5)
-
-**Outlet:** Google News · VERA buyout
-
-**Full eval:** Federal employees who took deferred resignation, or who were weighing it, have real livelihood stakes here: a survey suggests many felt pressured rather than free to choose. This is possibly good for a short reaction, but the snippet is only a headline and outlet name, so consider whether you can verify the survey details and date before filming.
-
-**Snippet:** Deferred Resignation Didn’t Feel Voluntary to Many Who Took It, Survey Finds FEDweek
-
-</details>
-
----
-
-### 7. USPS employees: open season starts Monday. Have you checked your FEHB plan?
-
-**Consider filming if:** Open season affects FEHB coverage for postal workers and feeds the 'am I affected?' stake with a hard deadline.
-
-_review · news · federal_workforce · 3d ago_
-
-[Read source](https://news.google.com/rss/articles/CBMia0FVX3lxTFBBbjFNQTAzbkFaa2pWbV9zdm11bVZ4UmJDeWwzVGRickg2clFhVkVFcEdxY1A1YVJYSjlTSE9RVmlxSkQyMUtPQ0lrODk5eld5Q3h2cmdRc0tSYU8xZ0hJY3VBV1dvUjdfN1c4?oc=5)
-
-**Other opens:**
-- *Stakes / FOMO:* Postal workers, will your FEHB plan cost more next year?
-- *Deadline:* USPS open season starts Monday. Know when your window closes?
-- *Myth-bust:* Federal employees: skipping open season doesn't lock in your FEHB plan
-
-**Question answered:** What should USPS employees check when open season starts Monday?
-
-**Caution:** Verify the Monday start date and end date against USPS or OPM before filming; the snippet doesn't confirm them.
-
-**Audience-language opens (try these):**
-- USPS retirement benefits — what postal workers need to verify
-
-<details>
-<summary>Original headline & context</summary>
-
-**Source headline:** [Open season starts Monday](https://news.google.com/rss/articles/CBMia0FVX3lxTFBBbjFNQTAzbkFaa2pWbV9zdm11bVZ4UmJDeWwzVGRickg2clFhVkVFcEdxY1A1YVJYSjlTSE9RVmlxSkQyMUtPQ0lrODk5eld5Q3h2cmdRc0tSYU8xZ0hJY3VBV1dvUjdfN1c4?oc=5)
-
-**Outlet:** Google News · USPS workforce
-
-**Full eval:** Open season affects FEHB coverage for postal workers and feeds the 'am I affected?' stake with a hard deadline. The snippet is thin, though: it gives no dates, plan changes, or premium details, so it may work as a short reaction only if the Monday start date and the open season window are confirmed from a primary source. Consider whether the video can offer one concrete takeaway (check your plan before the window closes) rather than a generic reminder.
-
-**Snippet:** Open season starts Monday USPS
-
-</details>
-
----
-
-### 8. Postal workers: are USPS service cuts now being blamed for rejected ballots?
-
-**Consider filming if:** Postal workers are federal employees, so reduced USPS service touches their workplace and public standing, though the headline is about vot…
-
-_review · news · federal_workforce · 8d ago_
-
-[Read source](https://news.google.com/rss/articles/CBMitgFBVV95cUxQOGNFaFZibmtseFNWUTVOZG1kQ2EwU2JXRUpGT1UzTngwUlBWM2twNnM5elhJRlpZUktMdE9vSHhpaHR3ejUzUHozT0JYUnRJRjI0RVFQYVdsaHc2QVRyZlJXM1VYTXgtZU1wV1ZYMFA3Y041YWRaQzRfaXJsaUpBMThCZ0EtSEZNMDQ1aW1handPRUdqT1N0Y2plYmFYTDhBelJNTDNzVW5wa0J6MHNfU3FmOXk4QQ?oc=5)
-
-**Other opens:**
-- *Stakes / FOMO:* USPS cuts are hitting rural ballots. Is your postal job next in line?
-- *Deadline:* Federal postal service is under scrutiny right now. What changes for USPS workers?
-- *Myth-bust:* Feds assume USPS cuts only hurt customers. Rural ballots say otherwise.
-
-**Question answered:** What does the link between USPS service cuts and ballot rejections mean for postal workers?
-
-**Caution:** Source snippet is only a headline; confirm date, county data, and causation before claiming USPS cuts caused rejections.
+**Caution:** The snippet is truncated. Verify the retirement-squeeze details and the fiscal-year dates in the full FEDweek article before claiming specifics.
 
 **Audience-language opens (try these):**
 - What FERS retirement benefits are you actually counting on?
@@ -301,13 +203,147 @@ _review · news · federal_workforce · 8d ago_
 <details>
 <summary>Original headline & context</summary>
 
-**Source headline:** [Ballot rejections soared in rural counties after USPS reduced mail service](https://news.google.com/rss/articles/CBMitgFBVV95cUxQOGNFaFZibmtseFNWUTVOZG1kQ2EwU2JXRUpGT1UzTngwUlBWM2twNnM5elhJRlpZUktMdE9vSHhpaHR3ejUzUHozT0JYUnRJRjI0RVFQYVdsaHc2QVRyZlJXM1VYTXgtZU1wV1ZYMFA3Y041YWRaQzRfaXJsaUpBMThCZ0EtSEZNMDQ1aW1handPRUdqT1N0Y2plYmFYTDhBelJNTDNzVW5wa0J6MHNfU3FmOXk4QQ?oc=5)
+**Source headline:** [USPS Reports Fewer Hours and Higher Labor Costs, Retirement Squeeze in FY2026](https://www.fedweek.com/fedweek/usps-reports-fewer-hours-and-higher-labor-costs-retirement-squeeze-in-fy2026/)
 
-**Outlet:** Google News · USPS job feasibility
+**Outlet:** FedWeek
 
-**Full eval:** Postal workers are federal employees, so reduced USPS service touches their workplace and public standing, though the headline is about voters rather than FERS, FEHB, or job security. Possibly workable as a short news reaction for postal viewers, but consider whether it's a livelihood story or just a civic one, and whether the snippet supports more than the headline claims.
+**Full eval:** USPS cutting 19 million work hours while consolidating processing is a livelihood story for postal workers, who are federal employees on FERS, FEHB, and TSP. The snippet is truncated, so the 'retirement squeeze' claim and the fiscal-year framing need checking against the full article before filming. Consider whether this could work as a short reaction, or whether the labor-cost and retirement numbers need more space than 30-45 seconds allows.
 
-**Snippet:** Ballot rejections soared in rural counties after USPS reduced mail service InsideNoVa
+**Snippet:** The Postal Service has said it cut 19 million work hours in fiscal 2026 as it continued consolidating its processing ...More The article USPS Reports Fewer Hours and Higher Labor Costs, Retirement Squeeze in FY2026 was first published on FEDweek .
+
+</details>
+
+---
+
+### 6. Feds: what happens to your paycheck if the CR expires?
+
+**Consider filming if:** A looming CR expiration carries real livelihood stakes for feds: potential shutdown, furlough risk, and delayed pay.
+
+_review · news · career_security · 0d ago_
+
+[Read source](https://federalnewsnetwork.com/congress/2026/11/another-looming-funding-deadline-for-federal-agencies-what-happens-when-the-current-cr-expires/)
+
+**Other opens:**
+- *Stakes / FOMO:* Could another funding lapse furlough you as a federal employee?
+- *Deadline:* Federal employees: the CR clock is ticking. Are you ready?
+- *Myth-bust:* Feds, a looming CR deadline doesn't automatically mean a shutdown.
+
+**Question answered:** What happens to federal employees if the current continuing resolution expires?
+
+**Caution:** Verify the actual CR expiration date and current negotiation status before filming; the snippet doesn't state either, and don't speculate on shutdown odds.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [Another looming funding deadline for federal agencies, what happens when the current CR expires](https://federalnewsnetwork.com/congress/2026/11/another-looming-funding-deadline-for-federal-agencies-what-happens-when-the-current-cr-expires/)
+
+**Outlet:** Federal News Network
+
+**Full eval:** A looming CR expiration carries real livelihood stakes for feds: potential shutdown, furlough risk, and delayed pay. Possibly good for a short news reaction, but the snippet is thin and mostly about war funding politics, so consider whether it holds up without a confirmed expiration date or a specific agency angle.
+
+**Snippet:** "Many, especially progressive Democrats, have indicated they don't want any part of approving any kind of money for the war," said Mitchell Miller.
+
+</details>
+
+---
+
+### 7. Postal workers: why is mail theft now the USPS IG's biggest case?
+
+**Consider filming if:** The snippet says mail theft is now the largest share of the USPS inspector general's criminal caseload, which matters to postal workers on …
+
+_review · news · federal_workforce · 3d ago_
+
+[Read source](https://www.fedweek.com/federal-managers-daily-report/ig-cites-rising-mail-theft-risks/)
+
+**Other opens:**
+- *Stakes / FOMO:* USPS employees: mail theft is now the IG's biggest case type.
+- *Deadline:* This week's USPS IG report puts postal workers on notice.
+- *Myth-bust:* Think mail theft is a small USPS problem? The IG says otherwise.
+
+**Question answered:** Why has mail theft become the biggest part of the USPS inspector general's criminal work?
+
+**Caution:** Snippet is truncated; confirm the publication date and what the report actually says about workforce impact before claiming any job or safety effects.
+
+**Audience-language opens (try these):**
+- USPS retirement benefits — what postal workers need to verify
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [IG Cites Rising Mail Theft Risks](https://www.fedweek.com/federal-managers-daily-report/ig-cites-rising-mail-theft-risks/)
+
+**Outlet:** FedWeek
+
+**Full eval:** The snippet says mail theft is now the largest share of the USPS inspector general's criminal caseload, which matters to postal workers on carrier routes or at facilities, but the excerpt doesn't say what it means for their jobs, safety, or any new rules. Possibly workable as a short news reaction if the full FEDweek piece names concrete workforce impacts (security changes, carrier risk, reporting duties); consider whether the source supports that before filming.
+
+**Snippet:** Mail theft has become the biggest slice of criminal work for the USPS inspector general and that crime has become ...More The article IG Cites Rising Mail Theft Risks was first published on FEDweek .
+
+</details>
+
+---
+
+### 8. Are you worried about taking your agency's federal survey?
+
+**Consider filming if:** Federal employees have reportedly voiced worry about taking their agency's survey now, which touches trust and possible retaliation fears —…
+
+_review · news · career_security · 4d ago_
+
+[Read source](https://federalnewsnetwork.com/workforce/2026/11/picking-up-where-fevs-left-off/)
+
+**Other opens:**
+- *Stakes / FOMO:* Think your federal agency survey answers can't come back on you?
+- *Deadline:* Federal employees are being asked to take surveys now. Should you?
+- *Myth-bust:* Federal employees fear agency surveys. Is that fear justified?
+
+**Question answered:** Should federal employees feel safe answering their agency's survey right now?
+
+**Caution:** Snippet only confirms employee concern; don't claim anonymity rules, retaliation risk, or FEVS status without verifying the source and its date.
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [Picking up where FEVS left off](https://federalnewsnetwork.com/workforce/2026/11/picking-up-where-fevs-left-off/)
+
+**Outlet:** FNN · Workforce
+
+**Full eval:** Federal employees have reportedly voiced worry about taking their agency's survey now, which touches trust and possible retaliation fears — real personal stakes. Possibly good for a short reaction, but the snippet is thin (one quote, no details on who is fielding what), so consider whether there's enough confirmed substance for 30-45 seconds.
+
+**Snippet:** "We have heard from many federal employees that they are concerned about taking their agency's survey right now," said Michelle Amante.
+
+</details>
+
+---
+
+### 9. Feds: are you auto-renewing your FEHB plan this Open Season?
+
+**Consider filming if:** Open Season affects every FEHB enrollee's coverage and costs, so the stakes are real, but the source is an interview-style piece that offer…
+
+_review · news · retirement · 0d ago_
+
+[Read source](https://federalnewsnetwork.com/open-season/2026/11/2027-open-season-exchange-gebas-shelly-giuliano-on-taking-yourself-off-autopilot-this-open-season/)
+
+**Other opens:**
+- *Stakes / FOMO:* Your FEHB plan may not fit your life anymore, feds.
+- *Deadline:* Federal employees: Open Season is your one yearly FEHB window.
+- *Myth-bust:* Feds, keeping your same FEHB plan isn't automatically the safe choice.
+
+**Question answered:** Should federal employees re-evaluate their FEHB plan during Open Season instead of auto-renewing?
+
+**Caution:** Verify the 2027 Open Season dates and any premium changes before posting; the snippet gives general advice only, no confirmed specifics.
+
+**Audience-language opens (try these):**
+- What FERS retirement benefits are you actually counting on?
+
+<details>
+<summary>Original headline & context</summary>
+
+**Source headline:** [2027 Open Season Exchange: GEBA’s Shelly Giuliano on taking yourself off autopilot this Open Season](https://federalnewsnetwork.com/open-season/2026/11/2027-open-season-exchange-gebas-shelly-giuliano-on-taking-yourself-off-autopilot-this-open-season/)
+
+**Outlet:** Federal News Network
+
+**Full eval:** Open Season affects every FEHB enrollee's coverage and costs, so the stakes are real, but the source is an interview-style piece that offers generic advice (review usage, future needs, plan details) rather than a specific rule change or deadline. Possibly good for a short walk-and-talk if the 2027 Open Season dates and any plan or premium changes can be verified; consider whether it could work as a short reaction, or whether it drifts into a generic 'review your plan' explainer.
+
+**Snippet:** Enrollees should evaluate current usage, future needs and plan details to ensure their coverage aligns with changing circumstances, a GEBA vice president says.
 
 </details>
 
@@ -317,7 +353,7 @@ _review · news · federal_workforce · 8d ago_
 
 _From the latest federal-department news scan (2026-08-03)._
 
-### 9. Arbitrator: HHS broke the CBA firing 5,000 probationary feds
+### 10. Arbitrator: HHS broke the CBA firing 5,000 probationary feds
 
 _Fed Department Focus — agency-specific angle._
 
@@ -335,7 +371,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 10. Arbitrator orders IRS telework back — but your CBA protection may differ
+### 11. Arbitrator orders IRS telework back — but your CBA protection may differ
 
 _Fed Department Focus — agency-specific angle._
 
@@ -353,7 +389,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 11. Probationary feds: MSPB ruling may not end your appeal fight
+### 12. Probationary feds: MSPB ruling may not end your appeal fight
 
 _Fed Department Focus — agency-specific angle._
 
@@ -371,7 +407,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 12. Arbitrator wins mean nothing if agency appeals — Forest Service risk
+### 13. Arbitrator wins mean nothing if agency appeals — Forest Service risk
 
 _Fed Department Focus — agency-specific angle._
 
@@ -389,7 +425,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 13. Your VA telework IS your ADA accommodation — RTO can strip it
+### 14. Your VA telework IS your ADA accommodation — RTO can strip it
 
 _Fed Department Focus — agency-specific angle._
 
@@ -407,7 +443,7 @@ _Fed Department Focus — agency-specific angle._
 
 ---
 
-### 14. Federal Circuit ruling could reshape DHS probationary workers' appeal rights
+### 15. Federal Circuit ruling could reshape DHS probationary workers' appeal rights
 
 _Fed Department Focus — agency-specific angle._
 
@@ -429,7 +465,7 @@ _Fed Department Focus — agency-specific angle._
 
 _Money / retirement seeds — not breaking news._
 
-### 15. Are you leaving free TSP matching on the table?
+### 16. Are you leaving free TSP matching on the table?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
@@ -441,7 +477,7 @@ _Evergreen — money / retirement demand seed, not breaking news._
 
 ---
 
-### 16. Feds — have you checked your FERS calculator this year?
+### 17. Feds — have you checked your FERS calculator this year?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
@@ -453,7 +489,7 @@ _Evergreen — money / retirement demand seed, not breaking news._
 
 ---
 
-### 17. TSP funds explained — which one fits your timeline?
+### 18. TSP funds explained — which one fits your timeline?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
@@ -465,7 +501,7 @@ _Evergreen — money / retirement demand seed, not breaking news._
 
 ---
 
-### 18. TSP rollover options — stay in, roll out, or wait?
+### 19. TSP rollover options — stay in, roll out, or wait?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
@@ -477,7 +513,7 @@ _Evergreen — money / retirement demand seed, not breaking news._
 
 ---
 
-### 19. Federal retirement planning — what should you verify this year?
+### 20. Federal retirement planning — what should you verify this year?
 
 _Evergreen — money / retirement demand seed, not breaking news._
 
