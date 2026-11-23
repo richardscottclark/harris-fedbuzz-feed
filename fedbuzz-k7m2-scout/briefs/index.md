@@ -4,6 +4,7 @@ Dated walk-and-talk topic briefs.
 
 The live [brief page](../brief.html) only updates when a run has filmable topics. Empty runs are listed here but do not wipe that page.
 
+- [2026-11-23](./2026-11-23.md)
 - [2026-11-16](./2026-11-16.md)
 - [2026-11-09](./2026-11-09.md)
 - [2026-11-02](./2026-11-02.md)
